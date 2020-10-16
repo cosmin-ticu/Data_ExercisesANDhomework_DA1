@@ -1,0 +1,2005 @@
+city_actual,rating_reviewcount,dist_from_cityCenter,dist_from_Montelbaanstoren,neighbourhood,price,stars,rating2_ta,rating2_ta_reviewcount,accommodation_type,guestreviewsrating,scarce_room,hotel_id,offer,offer_cat,year,month,weekend,holiday,num_nights
+Amsterdam,1030,3.1,3.6,Amsterdam,172,4,4,1115,Hotel,4.3 /5,0,1,0,0% no offer,2017,11,1,0,1
+Amsterdam,1030,3.1,3.6,Amsterdam,122,4,4,1115,Hotel,4.3 /5,0,1,1,15-50% offer,2018,1,1,0,1
+Amsterdam,1030,3.1,3.6,Amsterdam,122,4,4,1115,Hotel,4.3 /5,0,1,1,15-50% offer,2017,12,0,1,1
+Amsterdam,1030,3.1,3.6,Amsterdam,552,4,4,1115,Hotel,4.3 /5,0,1,1,1-15% offer,2017,12,0,1,4
+Amsterdam,1030,3.1,3.6,Amsterdam,122,4,4,1115,Hotel,4.3 /5,0,1,1,15-50% offer,2018,2,1,0,1
+Amsterdam,1030,3.1,3.6,Amsterdam,114,4,4,1115,Hotel,4.3 /5,0,1,1,15-50% offer,2017,11,0,0,1
+Amsterdam,372,0.9,0.8,Amsterdam,119,2,4,999,Hostel,4.1 /5,0,2,0,0% no offer,2017,11,0,0,1
+Amsterdam,372,0.9,0.8,Amsterdam,119,2,4,999,Hostel,4.1 /5,0,2,0,0% no offer,2017,12,0,1,1
+Amsterdam,372,0.9,0.8,Amsterdam,547,2,4,999,Hostel,4.1 /5,0,2,0,0% no offer,2017,12,0,1,4
+Amsterdam,165,1.5,1.4,Amsterdam,118,4,4,674,Hotel,4.1 /5,0,3,1,15-50% offer,2017,12,0,1,1
+Amsterdam,165,1.5,1.4,Amsterdam,217,4,4,674,Hotel,4.1 /5,1,3,0,0% no offer,2017,11,1,0,1
+Amsterdam,165,1.5,1.4,Amsterdam,114,4,4,674,Hotel,4.1 /5,0,3,1,15-50% offer,2018,1,1,0,1
+Amsterdam,165,1.5,1.4,Amsterdam,737,4,4,674,Hotel,4.1 /5,0,3,1,1-15% offer,2017,12,0,1,4
+Amsterdam,165,1.5,1.4,Amsterdam,117,4,4,674,Hotel,4.1 /5,0,3,1,15-50% offer,2017,11,0,0,1
+Amsterdam,298,1.9,2.1,Amsterdam,115,3,3.5,1882,Hotel,3.5 /5,0,4,1,15-50% offer,2017,12,0,1,1
+Amsterdam,298,1.9,2.1,Amsterdam,71,3,3.5,1882,Hotel,3.5 /5,0,4,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,4,1.8,2,Amsterdam,696,3.5,4.5,66,Hotel,4 /5,1,5,1,15-50% offer,2018,4,1,0,1
+Amsterdam,4,1.8,2,Amsterdam,922,3.5,4.5,66,Hotel,4 /5,1,5,0,0% no offer,2018,1,1,0,1
+Amsterdam,4,1.8,2,Amsterdam,922,3.5,4.5,66,Hotel,4 /5,1,5,0,0% no offer,2017,11,1,0,1
+Amsterdam,4,1.8,2,Amsterdam,922,3.5,4.5,66,Hotel,4 /5,1,5,0,0% no offer,2018,3,1,0,1
+Amsterdam,4,1.8,2,Amsterdam,922,3.5,4.5,66,Hotel,4 /5,1,5,0,0% no offer,2018,2,1,0,1
+Amsterdam,4,1.8,2,Amsterdam,690,3.5,4.5,66,Hotel,4 /5,1,5,1,15-50% offer,2017,11,0,0,1
+Amsterdam,4,1.8,2,Amsterdam,696,3.5,4.5,66,Hotel,4 /5,1,5,1,15-50% offer,2018,5,1,0,1
+Amsterdam,4,1.8,2,Amsterdam,3087,3.5,4.5,66,Hotel,4 /5,1,5,1,15-50% offer,2017,12,0,1,4
+Amsterdam,4,1.8,2,Amsterdam,696,3.5,4.5,66,Hotel,4 /5,1,5,1,15-50% offer,2018,6,1,0,1
+Amsterdam,4,1.8,2,Amsterdam,690,3.5,4.5,66,Hotel,4 /5,1,5,1,15-50% offer,2017,12,0,1,1
+Amsterdam,310,1.9,2,Amsterdam,216,4,4,767,Hotel,4.1 /5,0,6,1,50%-75% offer,2018,2,1,0,1
+Amsterdam,310,1.9,2,Amsterdam,127,4,4,767,Hotel,4.1 /5,0,6,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,310,1.9,2,Amsterdam,127,4,4,767,Hotel,4.1 /5,0,6,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,310,1.9,2,Amsterdam,216,4,4,767,Hotel,4.1 /5,0,6,1,50%-75% offer,2018,1,1,0,1
+Amsterdam,310,1.9,2,Amsterdam,324,4,4,767,Hotel,4.1 /5,0,6,1,15-50% offer,2018,3,1,0,1
+Amsterdam,310,1.9,2,Amsterdam,186,4,4,767,Hotel,4.1 /5,0,6,1,50%-75% offer,2017,11,1,0,1
+Amsterdam,310,1.9,2,Amsterdam,745,4,4,767,Hotel,4.1 /5,0,6,1,50%-75% offer,2017,12,0,1,4
+Amsterdam,258,0.8,1.2,Amsterdam,228,3.5,4.5,273,Hotel,4.4 /5,1,7,1,1-15% offer,2018,2,1,0,1
+Amsterdam,258,0.8,1.2,Amsterdam,167,3.5,4.5,273,Hotel,4.4 /5,1,7,1,15-50% offer,2017,11,0,0,1
+Amsterdam,258,0.8,1.2,Amsterdam,177,3.5,4.5,273,Hotel,4.4 /5,1,7,1,15-50% offer,2017,12,0,1,1
+Amsterdam,258,0.8,1.2,Amsterdam,187,3.5,4.5,273,Hotel,4.4 /5,1,7,1,15-50% offer,2018,1,1,0,1
+Amsterdam,210,0.9,0.8,Amsterdam,987,4,4.5,298,Hotel,4.8 /5,0,8,0,0% no offer,2017,12,0,1,4
+Amsterdam,210,0.9,0.8,Amsterdam,207,4,4.5,298,Hotel,4.8 /5,0,8,0,0% no offer,2017,12,0,1,1
+Amsterdam,967,1,0.5,Amsterdam,210,4,4.5,6452,Hotel,4.4 /5,0,9,1,15-50% offer,2018,2,1,0,1
+Amsterdam,967,1,0.5,Amsterdam,1145,4,4.5,6452,Hotel,4.4 /5,1,9,1,1-15% offer,2017,12,0,1,4
+Amsterdam,967,1,0.5,Amsterdam,218,4,4.5,6452,Hotel,4.4 /5,1,9,1,1-15% offer,2017,11,0,0,1
+Amsterdam,967,1,0.5,Amsterdam,218,4,4.5,6452,Hotel,4.4 /5,0,9,1,15-50% offer,2018,1,1,0,1
+Amsterdam,967,1,0.5,Amsterdam,375,4,4.5,6452,Hotel,4.4 /5,0,9,1,1-15% offer,2018,6,1,0,1
+Amsterdam,967,1,0.5,Amsterdam,197,4,4.5,6452,Hotel,4.4 /5,0,9,1,1-15% offer,2017,12,0,1,1
+Amsterdam,967,1,0.5,Amsterdam,422,4,4.5,6452,Hotel,4.4 /5,0,9,1,1-15% offer,2018,5,1,0,1
+Amsterdam,967,1,0.5,Amsterdam,328,4,4.5,6452,Hotel,4.4 /5,1,9,1,1-15% offer,2017,11,1,0,1
+Amsterdam,967,1,0.5,Amsterdam,521,4,4.5,6452,Hotel,4.4 /5,0,9,1,1-15% offer,2018,4,1,0,1
+Amsterdam,341,2.2,1.9,Amsterdam,97,3,3.5,435,Hotel,3.7 /5,0,11,1,15-50% offer,2017,11,0,0,1
+Amsterdam,341,2.2,1.9,Amsterdam,167,3,3.5,435,Hotel,3.7 /5,0,11,0,0% no offer,2017,11,1,0,1
+Amsterdam,341,2.2,1.9,Amsterdam,105,3,3.5,435,Hotel,3.7 /5,0,11,1,15-50% offer,2018,1,1,0,1
+Amsterdam,341,2.2,1.9,Amsterdam,117,3,3.5,435,Hotel,3.7 /5,0,11,1,15-50% offer,2018,2,1,0,1
+Amsterdam,341,2.2,1.9,Amsterdam,100,3,3.5,435,Hotel,3.7 /5,0,11,1,15-50% offer,2017,12,0,1,1
+Amsterdam,341,2.2,1.9,Amsterdam,469,3,3.5,435,Hotel,3.7 /5,0,11,1,1-15% offer,2017,12,0,1,4
+Amsterdam,80,1.2,0.9,Amsterdam,167,2,3,160,Hotel,3 /5,0,12,1,15-50% offer,2018,1,1,0,1
+Amsterdam,80,1.2,0.9,Amsterdam,185,2,3,160,Hotel,3 /5,0,12,1,1-15% offer,2018,6,1,0,1
+Amsterdam,80,1.2,0.9,Amsterdam,92,2,3,160,Hotel,3 /5,0,12,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,80,1.2,0.9,Amsterdam,185,2,3,160,Hotel,3 /5,0,12,1,1-15% offer,2018,4,1,0,1
+Amsterdam,80,1.2,0.9,Amsterdam,185,2,3,160,Hotel,3 /5,0,12,1,1-15% offer,2018,3,1,0,1
+Amsterdam,80,1.2,0.9,Amsterdam,185,2,3,160,Hotel,3 /5,0,12,1,1-15% offer,2018,5,1,0,1
+Amsterdam,80,1.2,0.9,Amsterdam,752,2,3,160,Hotel,3 /5,0,12,1,1-15% offer,2017,12,0,1,4
+Amsterdam,80,1.2,0.9,Amsterdam,167,2,3,160,Hotel,3 /5,0,12,1,15-50% offer,2018,2,1,0,1
+Amsterdam,80,1.2,0.9,Amsterdam,157,2,3,160,Hotel,3 /5,0,12,1,15-50% offer,2017,12,0,1,1
+Amsterdam,100,1.7,1.9,Amsterdam RAI - World Trade Center,130,4,3.5,525,Hotel,3.7 /5,1,14,1,15-50% offer,2017,11,0,0,1
+Amsterdam,100,1.7,1.9,Amsterdam RAI - World Trade Center,156,4,3.5,525,Hotel,3.7 /5,0,14,1,15-50% offer,2018,2,1,0,1
+Amsterdam,100,1.7,1.9,Amsterdam RAI - World Trade Center,156,4,3.5,525,Hotel,3.7 /5,0,14,1,15-50% offer,2018,1,1,0,1
+Amsterdam,100,1.7,1.9,Amsterdam RAI - World Trade Center,777,4,3.5,525,Hotel,3.7 /5,0,14,1,15-50% offer,2017,12,0,1,4
+Amsterdam,100,1.7,1.9,Amsterdam RAI - World Trade Center,141,4,3.5,525,Hotel,3.7 /5,0,14,1,15-50% offer,2017,12,0,1,1
+Amsterdam,52,1.7,2,Amsterdam RAI - World Trade Center,184,4,4,296,Hotel,4.5 /5,0,15,1,15-50% offer,2018,1,1,0,1
+Amsterdam,52,1.7,2,Amsterdam RAI - World Trade Center,773,4,4,296,Hotel,4.5 /5,0,15,1,15-50% offer,2017,12,0,1,4
+Amsterdam,52,1.7,2,Amsterdam RAI - World Trade Center,399,4,4,296,Hotel,4.5 /5,1,15,0,0% no offer,2018,3,1,0,1
+Amsterdam,52,1.7,2,Amsterdam RAI - World Trade Center,387,4,4,296,Hotel,4.5 /5,1,15,0,0% no offer,2018,6,1,0,1
+Amsterdam,52,1.7,2,Amsterdam RAI - World Trade Center,387,4,4,296,Hotel,4.5 /5,1,15,0,0% no offer,2018,5,1,0,1
+Amsterdam,52,1.7,2,Amsterdam RAI - World Trade Center,132,4,4,296,Hotel,4.5 /5,0,15,1,15-50% offer,2017,11,0,0,1
+Amsterdam,52,1.7,2,Amsterdam RAI - World Trade Center,161,4,4,296,Hotel,4.5 /5,0,15,1,15-50% offer,2017,12,0,1,1
+Amsterdam,52,1.7,2,Amsterdam RAI - World Trade Center,341,4,4,296,Hotel,4.5 /5,1,15,0,0% no offer,2018,2,1,0,1
+Amsterdam,52,1.7,2,Amsterdam RAI - World Trade Center,387,4,4,296,Hotel,4.5 /5,1,15,0,0% no offer,2018,4,1,0,1
+Amsterdam,394,1.7,2,Amsterdam RAI - World Trade Center,207,5,4.5,2982,Hotel,4.4 /5,0,16,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,394,1.7,2,Amsterdam RAI - World Trade Center,207,5,4.5,2982,Hotel,4.4 /5,0,16,1,50%-75% offer,2018,2,1,0,1
+Amsterdam,394,1.7,2,Amsterdam RAI - World Trade Center,254,5,4.5,2982,Hotel,4.4 /5,0,16,1,50%-75% offer,2018,6,1,0,1
+Amsterdam,394,1.7,2,Amsterdam RAI - World Trade Center,300,5,4.5,2982,Hotel,4.4 /5,0,16,1,15-50% offer,2018,4,1,0,1
+Amsterdam,394,1.7,2,Amsterdam RAI - World Trade Center,924,5,4.5,2982,Hotel,4.4 /5,0,16,1,50%-75% offer,2017,12,0,1,4
+Amsterdam,394,1.7,2,Amsterdam RAI - World Trade Center,300,5,4.5,2982,Hotel,4.4 /5,0,16,1,15-50% offer,2018,5,1,0,1
+Amsterdam,394,1.7,2,Amsterdam RAI - World Trade Center,196,5,4.5,2982,Hotel,4.4 /5,0,16,1,50%-75% offer,2018,1,1,0,1
+Amsterdam,394,1.7,2,Amsterdam RAI - World Trade Center,207,5,4.5,2982,Hotel,4.4 /5,0,16,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,394,1.7,2,Amsterdam RAI - World Trade Center,242,5,4.5,2982,Hotel,4.4 /5,0,16,1,50%-75% offer,2017,11,1,0,1
+Amsterdam,394,1.7,2,Amsterdam RAI - World Trade Center,300,5,4.5,2982,Hotel,4.4 /5,0,16,1,15-50% offer,2018,3,1,0,1
+Amsterdam,434,1.7,1.8,Amsterdam RAI - World Trade Center,134,4,4,1797,Hotel,4.1 /5,0,17,1,75%+ offer,2017,12,0,1,1
+Amsterdam,434,1.7,1.8,Amsterdam RAI - World Trade Center,172,4,4,1797,Hotel,4.1 /5,0,17,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,434,1.7,1.8,Amsterdam RAI - World Trade Center,433,4,4,1797,Hotel,4.1 /5,0,17,1,15-50% offer,2018,6,1,0,1
+Amsterdam,434,1.7,1.8,Amsterdam RAI - World Trade Center,208,4,4,1797,Hotel,4.1 /5,0,17,1,50%-75% offer,2017,11,1,0,1
+Amsterdam,434,1.7,1.8,Amsterdam RAI - World Trade Center,505,4,4,1797,Hotel,4.1 /5,0,17,1,75%+ offer,2017,12,0,1,4
+Amsterdam,434,1.7,1.8,Amsterdam RAI - World Trade Center,242,4,4,1797,Hotel,4.1 /5,0,17,1,50%-75% offer,2018,5,1,0,1
+Amsterdam,434,1.7,1.8,Amsterdam RAI - World Trade Center,302,4,4,1797,Hotel,4.1 /5,0,17,1,15-50% offer,2018,4,1,0,1
+Amsterdam,434,1.7,1.8,Amsterdam RAI - World Trade Center,235,4,4,1797,Hotel,4.1 /5,0,17,1,50%-75% offer,2018,3,1,0,1
+Amsterdam,434,1.7,1.8,Amsterdam RAI - World Trade Center,202,4,4,1797,Hotel,4.1 /5,0,17,1,50%-75% offer,2018,2,1,0,1
+Amsterdam,434,1.7,1.8,Amsterdam RAI - World Trade Center,179,4,4,1797,Hotel,4.1 /5,0,17,1,50%-75% offer,2018,1,1,0,1
+Amsterdam,170,1.8,2,Amsterdam RAI - World Trade Center,590,3,3.5,453,Hotel,3.7 /5,1,18,1,1-15% offer,2017,12,0,1,4
+Amsterdam,170,1.8,2,Amsterdam RAI - World Trade Center,139,3,3.5,453,Hotel,3.7 /5,1,18,1,75%+ offer,2018,2,1,0,1
+Amsterdam,170,1.8,2,Amsterdam RAI - World Trade Center,91,3,3.5,453,Hotel,3.7 /5,0,18,1,75%+ offer,2017,11,0,0,1
+Amsterdam,170,1.8,2,Amsterdam RAI - World Trade Center,139,3,3.5,453,Hotel,3.7 /5,1,18,1,75%+ offer,2018,1,1,0,1
+Amsterdam,170,1.8,2,Amsterdam RAI - World Trade Center,128,3,3.5,453,Hotel,3.7 /5,1,18,1,75%+ offer,2017,12,0,1,1
+Amsterdam,374,1.7,2,Amsterdam RAI - World Trade Center,219,5,4,1498,Hotel,4.1 /5,0,19,1,15-50% offer,2017,11,1,0,1
+Amsterdam,374,1.7,2,Amsterdam RAI - World Trade Center,207,5,4,1498,Hotel,4.1 /5,0,19,1,15-50% offer,2018,1,1,0,1
+Amsterdam,374,1.7,2,Amsterdam RAI - World Trade Center,289,5,4,1498,Hotel,4.1 /5,0,19,1,1-15% offer,2018,3,1,0,1
+Amsterdam,374,1.7,2,Amsterdam RAI - World Trade Center,156,5,4,1498,Hotel,4.1 /5,0,19,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,374,1.7,2,Amsterdam RAI - World Trade Center,231,5,4,1498,Hotel,4.1 /5,0,19,1,15-50% offer,2018,2,1,0,1
+Amsterdam,374,1.7,2,Amsterdam RAI - World Trade Center,149,5,4,1498,Hotel,4.1 /5,0,19,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,374,1.7,2,Amsterdam RAI - World Trade Center,277,5,4,1498,Hotel,4.1 /5,0,19,1,1-15% offer,2018,5,1,0,1
+Amsterdam,374,1.7,2,Amsterdam RAI - World Trade Center,277,5,4,1498,Hotel,4.1 /5,0,19,1,1-15% offer,2018,4,1,0,1
+Amsterdam,374,1.7,2,Amsterdam RAI - World Trade Center,819,5,4,1498,Hotel,4.1 /5,0,19,1,1-15% offer,2017,12,0,1,4
+Amsterdam,344,2.2,2.2,Amsterdam RAI - World Trade Center,114,3.5,4.5,889,Hotel,4.5 /5,0,20,0,0% no offer,2018,2,1,0,1
+Amsterdam,344,2.2,2.2,Amsterdam RAI - World Trade Center,102,3.5,4.5,889,Hotel,4.5 /5,0,20,0,0% no offer,2017,12,0,1,1
+Amsterdam,344,2.2,2.2,Amsterdam RAI - World Trade Center,114,3.5,4.5,889,Hotel,4.5 /5,0,20,0,0% no offer,2018,6,1,0,1
+Amsterdam,344,2.2,2.2,Amsterdam RAI - World Trade Center,114,3.5,4.5,889,Hotel,4.5 /5,0,20,0,0% no offer,2018,1,1,0,1
+Amsterdam,344,2.2,2.2,Amsterdam RAI - World Trade Center,102,3.5,4.5,889,Hotel,4.5 /5,0,20,0,0% no offer,2017,11,0,0,1
+Amsterdam,316,2.4,2.5,Amsterdam RAI - World Trade Center,114,3.5,4,1736,Hotel,3.9 /5,0,21,1,15-50% offer,2018,1,1,0,1
+Amsterdam,316,2.4,2.5,Amsterdam RAI - World Trade Center,242,3.5,4,1736,Hotel,3.9 /5,0,21,0,0% no offer,2018,6,1,0,1
+Amsterdam,316,2.4,2.5,Amsterdam RAI - World Trade Center,97,3.5,4,1736,Hotel,3.9 /5,0,21,1,15-50% offer,2017,12,0,1,1
+Amsterdam,316,2.4,2.5,Amsterdam RAI - World Trade Center,540,3.5,4,1736,Hotel,3.9 /5,0,21,1,1-15% offer,2017,12,0,1,4
+Amsterdam,316,2.4,2.5,Amsterdam RAI - World Trade Center,242,3.5,4,1736,Hotel,3.9 /5,0,21,0,0% no offer,2018,5,1,0,1
+Amsterdam,316,2.4,2.5,Amsterdam RAI - World Trade Center,231,3.5,4,1736,Hotel,3.9 /5,0,21,0,0% no offer,2018,4,1,0,1
+Amsterdam,316,2.4,2.5,Amsterdam RAI - World Trade Center,103,3.5,4,1736,Hotel,3.9 /5,0,21,1,15-50% offer,2017,11,0,0,1
+Amsterdam,316,2.4,2.5,Amsterdam RAI - World Trade Center,138,3.5,4,1736,Hotel,3.9 /5,0,21,1,1-15% offer,2018,2,1,0,1
+Amsterdam,880,2.3,2.4,Amsterdam RAI - World Trade Center,153,4,4.5,4862,Hotel,4.5 /5,0,22,1,15-50% offer,2017,11,0,0,1
+Amsterdam,880,2.3,2.4,Amsterdam RAI - World Trade Center,175,4,4.5,4862,Hotel,4.5 /5,0,22,1,15-50% offer,2017,11,1,0,1
+Amsterdam,880,2.3,2.4,Amsterdam RAI - World Trade Center,186,4,4.5,4862,Hotel,4.5 /5,0,22,1,15-50% offer,2018,5,1,0,1
+Amsterdam,880,2.3,2.4,Amsterdam RAI - World Trade Center,142,4,4.5,4862,Hotel,4.5 /5,0,22,1,15-50% offer,2018,1,1,0,1
+Amsterdam,880,2.3,2.4,Amsterdam RAI - World Trade Center,653,4,4.5,4862,Hotel,4.5 /5,0,22,1,15-50% offer,2017,12,0,1,4
+Amsterdam,880,2.3,2.4,Amsterdam RAI - World Trade Center,142,4,4.5,4862,Hotel,4.5 /5,0,22,1,15-50% offer,2018,2,1,0,1
+Amsterdam,880,2.3,2.4,Amsterdam RAI - World Trade Center,134,4,4.5,4862,Hotel,4.5 /5,0,22,1,15-50% offer,2017,12,0,1,1
+Amsterdam,47,2.5,2.9,Amsterdam RAI - World Trade Center,244,4,5,37,Apart-hotel,4.8 /5,0,23,1,15-50% offer,2017,11,1,0,1
+Amsterdam,47,2.5,2.9,Amsterdam RAI - World Trade Center,191,4,5,37,Apart-hotel,4.8 /5,0,23,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,47,2.5,2.9,Amsterdam RAI - World Trade Center,169,4,5,37,Apart-hotel,4.8 /5,1,23,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,47,2.5,2.9,Amsterdam RAI - World Trade Center,212,4,5,37,Apart-hotel,4.8 /5,1,23,1,15-50% offer,2018,2,1,0,1
+Amsterdam,47,2.5,2.9,Amsterdam RAI - World Trade Center,940,4,5,37,Apart-hotel,4.8 /5,1,23,1,15-50% offer,2017,12,0,1,4
+Amsterdam,47,2.5,2.9,Amsterdam RAI - World Trade Center,191,4,5,37,Apart-hotel,4.8 /5,1,23,1,50%-75% offer,2018,1,1,0,1
+Amsterdam,114,2.9,3,Amsterdam South,184,4,4.5,658,Hotel,4.5 /5,0,24,0,0% no offer,2017,11,1,0,1
+Amsterdam,114,2.9,3,Amsterdam South,277,4,4.5,658,Hotel,4.5 /5,0,24,0,0% no offer,2018,5,1,0,1
+Amsterdam,114,2.9,3,Amsterdam South,172,4,4.5,658,Hotel,4.5 /5,0,24,0,0% no offer,2018,1,1,0,1
+Amsterdam,114,2.9,3,Amsterdam South,289,4,4.5,658,Hotel,4.5 /5,0,24,0,0% no offer,2018,4,1,0,1
+Amsterdam,114,2.9,3,Amsterdam South,681,4,4.5,658,Hotel,4.5 /5,0,24,0,0% no offer,2017,12,0,1,4
+Amsterdam,114,2.9,3,Amsterdam South,184,4,4.5,658,Hotel,4.5 /5,0,24,0,0% no offer,2018,2,1,0,1
+Amsterdam,114,2.9,3,Amsterdam South,207,4,4.5,658,Hotel,4.5 /5,0,24,0,0% no offer,2017,11,0,0,1
+Amsterdam,114,2.9,3,Amsterdam South,358,4,4.5,658,Hotel,4.5 /5,0,24,0,0% no offer,2018,6,1,0,1
+Amsterdam,114,2.9,3,Amsterdam South,186,4,4.5,658,Hotel,4.5 /5,0,24,0,0% no offer,2017,12,0,1,1
+Amsterdam,114,2.9,3,Amsterdam South,242,4,4.5,658,Hotel,4.5 /5,0,24,0,0% no offer,2018,3,1,0,1
+Amsterdam,194,1.8,1.6,Amsterdam South,445,2,2.5,262,Hotel,2.9 /5,1,25,1,15-50% offer,2017,12,0,1,4
+Amsterdam,194,1.8,1.6,Amsterdam South,101,2,2.5,262,Hotel,2.9 /5,0,25,1,15-50% offer,2018,2,1,0,1
+Amsterdam,194,1.8,1.6,Amsterdam South,99,2,2.5,262,Hotel,2.9 /5,0,25,1,15-50% offer,2018,1,1,0,1
+Amsterdam,194,1.8,1.6,Amsterdam South,128,2,2.5,262,Hotel,2.9 /5,1,25,1,15-50% offer,2017,12,0,1,1
+Amsterdam,194,1.8,1.6,Amsterdam South,66,2,2.5,262,Hotel,2.9 /5,1,25,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,375,2.7,2.7,Amsterdam South,229,4,4,1494,Hotel,4 /5,0,26,1,15-50% offer,2018,4,1,0,1
+Amsterdam,375,2.7,2.7,Amsterdam South,219,4,4,1494,Hotel,4 /5,0,26,1,15-50% offer,2018,3,1,0,1
+Amsterdam,375,2.7,2.7,Amsterdam South,135,4,4,1494,Hotel,4 /5,0,26,1,50%-75% offer,2018,2,1,0,1
+Amsterdam,375,2.7,2.7,Amsterdam South,193,4,4,1494,Hotel,4 /5,0,26,1,15-50% offer,2018,5,1,0,1
+Amsterdam,375,2.7,2.7,Amsterdam South,118,4,4,1494,Hotel,4 /5,0,26,1,50%-75% offer,2018,1,1,0,1
+Amsterdam,375,2.7,2.7,Amsterdam South,111,4,4,1494,Hotel,4 /5,0,26,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,375,2.7,2.7,Amsterdam South,568,4,4,1494,Hotel,4 /5,0,26,1,50%-75% offer,2017,12,0,1,4
+Amsterdam,375,2.7,2.7,Amsterdam South,156,4,4,1494,Hotel,4 /5,0,26,1,15-50% offer,2017,11,0,0,1
+Amsterdam,375,2.7,2.7,Amsterdam South,177,4,4,1494,Hotel,4 /5,0,26,1,15-50% offer,2017,11,1,0,1
+Amsterdam,14,2.6,3.1,Amsterdam South,207,4,4.5,1911,Hotel,4.5 /5,0,27,0,0% no offer,2018,6,1,0,1
+Amsterdam,14,2.6,3.1,Amsterdam South,176,4,4.5,1911,Hotel,4.5 /5,0,27,0,0% no offer,2017,11,1,0,1
+Amsterdam,14,2.6,3.1,Amsterdam South,124,4,4.5,1911,Hotel,4.5 /5,0,27,0,0% no offer,2017,12,0,1,1
+Amsterdam,14,2.6,3.1,Amsterdam South,134,4,4.5,1911,Hotel,4.5 /5,0,27,0,0% no offer,2018,1,1,0,1
+Amsterdam,14,2.6,3.1,Amsterdam South,633,4,4.5,1911,Hotel,4.5 /5,0,27,0,0% no offer,2017,12,0,1,4
+Amsterdam,14,2.6,3.1,Amsterdam South,134,4,4.5,1911,Hotel,4.5 /5,0,27,0,0% no offer,2018,2,1,0,1
+Amsterdam,14,2.6,3.1,Amsterdam South,197,4,4.5,1911,Hotel,4.5 /5,0,27,0,0% no offer,2018,5,1,0,1
+Amsterdam,14,2.6,3.1,Amsterdam South,94,4,4.5,1911,Hotel,4.5 /5,0,27,0,0% no offer,2017,11,0,0,1
+Amsterdam,14,2.6,3.1,Amsterdam South,364,4,4.5,1911,Hotel,4.5 /5,0,27,0,0% no offer,2018,4,1,0,1
+Amsterdam,629,2.7,2.7,Amsterdam South,126,4,4,2844,Hotel,4 /5,0,28,1,15-50% offer,2018,2,1,0,1
+Amsterdam,629,2.7,2.7,Amsterdam South,114,4,4,2844,Hotel,4 /5,0,28,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,629,2.7,2.7,Amsterdam South,138,4,4,2844,Hotel,4 /5,0,28,1,15-50% offer,2018,1,1,0,1
+Amsterdam,629,2.7,2.7,Amsterdam South,533,4,4,2844,Hotel,4 /5,0,28,1,15-50% offer,2017,12,0,1,4
+Amsterdam,629,2.7,2.7,Amsterdam South,126,4,4,2844,Hotel,4 /5,0,28,1,15-50% offer,2017,11,1,0,1
+Amsterdam,629,2.7,2.7,Amsterdam South,138,4,4,2844,Hotel,4 /5,0,28,1,15-50% offer,2017,11,0,0,1
+Amsterdam,305,2.7,2.8,Amsterdam South,176,4,4.5,1252,Hotel,4.6 /5,0,29,1,15-50% offer,2018,2,1,0,1
+Amsterdam,305,2.7,2.8,Amsterdam South,197,4,4.5,1252,Hotel,4.6 /5,0,29,1,15-50% offer,2018,5,1,0,1
+Amsterdam,305,2.7,2.8,Amsterdam South,748,4,4.5,1252,Hotel,4.6 /5,0,29,1,15-50% offer,2017,12,0,1,4
+Amsterdam,305,2.7,2.8,Amsterdam South,155,4,4.5,1252,Hotel,4.6 /5,0,29,1,50%-75% offer,2018,1,1,0,1
+Amsterdam,305,2.7,2.8,Amsterdam South,145,4,4.5,1252,Hotel,4.6 /5,0,29,1,50%-75% offer,2018,6,1,0,1
+Amsterdam,305,2.7,2.8,Amsterdam South,176,4,4.5,1252,Hotel,4.6 /5,0,29,1,15-50% offer,2017,12,0,1,1
+Amsterdam,120,3.3,3.6,Amsterdam South,164,3,4,231,Hotel,4 /5,0,30,1,1-15% offer,2017,12,0,1,1
+Amsterdam,120,3.3,3.6,Amsterdam South,175,3,4,231,Hotel,4 /5,1,30,1,1-15% offer,2018,6,1,0,1
+Amsterdam,120,3.3,3.6,Amsterdam South,153,3,4,231,Hotel,4 /5,0,30,1,15-50% offer,2018,1,1,0,1
+Amsterdam,120,3.3,3.6,Amsterdam South,164,3,4,231,Hotel,4 /5,0,30,1,1-15% offer,2017,11,0,0,1
+Amsterdam,120,3.3,3.6,Amsterdam South,208,3,4,231,Hotel,4 /5,1,30,0,0% no offer,2017,11,1,0,1
+Amsterdam,120,3.3,3.6,Amsterdam South,197,3,4,231,Hotel,4 /5,0,30,0,0% no offer,2018,5,1,0,1
+Amsterdam,120,3.3,3.6,Amsterdam South,175,3,4,231,Hotel,4 /5,1,30,1,1-15% offer,2018,2,1,0,1
+Amsterdam,120,3.3,3.6,Amsterdam South,175,3,4,231,Hotel,4 /5,0,30,1,1-15% offer,2018,3,1,0,1
+Amsterdam,120,3.3,3.6,Amsterdam South,175,3,4,231,Hotel,4 /5,0,30,1,1-15% offer,2018,4,1,0,1
+Amsterdam,120,3.3,3.6,Amsterdam South,679,3,4,231,Hotel,4 /5,1,30,1,1-15% offer,2017,12,0,1,4
+Amsterdam,184,3.2,3.3,Amsterdam South,124,4,4,1297,Hotel,4 /5,0,31,1,15-50% offer,2018,2,1,0,1
+Amsterdam,184,3.2,3.3,Amsterdam South,122,4,4,1297,Hotel,4 /5,0,31,1,15-50% offer,2017,11,0,0,1
+Amsterdam,184,3.2,3.3,Amsterdam South,136,4,4,1297,Hotel,4 /5,0,31,1,15-50% offer,2017,11,1,0,1
+Amsterdam,184,3.2,3.3,Amsterdam South,564,4,4,1297,Hotel,4 /5,0,31,1,15-50% offer,2017,12,0,1,4
+Amsterdam,184,3.2,3.3,Amsterdam South,114,4,4,1297,Hotel,4 /5,0,31,1,15-50% offer,2018,1,1,0,1
+Amsterdam,184,3.2,3.3,Amsterdam South,111,4,4,1297,Hotel,4 /5,0,31,1,15-50% offer,2017,12,0,1,1
+Amsterdam,49,1.9,1.8,Amsterdam South,615,3,3.5,267,Hotel,3.5 /5,1,32,1,15-50% offer,2017,12,0,1,4
+Amsterdam,49,1.9,1.8,Amsterdam South,126,3,3.5,267,Hotel,3.5 /5,1,32,1,15-50% offer,2017,11,0,0,1
+Amsterdam,49,1.9,1.8,Amsterdam South,110,3,3.5,267,Hotel,3.5 /5,1,32,1,15-50% offer,2017,12,0,1,1
+Amsterdam,900,2.7,3.1,Amsterdam South,63,3,3,1953,Hotel,3 /5,0,33,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,900,2.7,3.1,Amsterdam South,467,3,3,1953,Hotel,3 /5,0,33,1,1-15% offer,2017,12,0,1,4
+Amsterdam,900,2.7,3.1,Amsterdam South,100,3,3,1953,Hotel,3 /5,0,33,1,15-50% offer,2017,12,0,1,1
+Amsterdam,177,3.4,3.6,Amsterdam South,157,3,4.5,732,Hotel,4.3 /5,0,34,1,15-50% offer,2018,1,1,0,1
+Amsterdam,177,3.4,3.6,Amsterdam South,161,3,4.5,732,Hotel,4.3 /5,0,34,1,15-50% offer,2017,11,0,0,1
+Amsterdam,177,3.4,3.6,Amsterdam South,240,3,4.5,732,Hotel,4.3 /5,0,34,0,0% no offer,2018,6,1,0,1
+Amsterdam,177,3.4,3.6,Amsterdam South,250,3,4.5,732,Hotel,4.3 /5,0,34,0,0% no offer,2018,5,1,0,1
+Amsterdam,177,3.4,3.6,Amsterdam South,215,3,4.5,732,Hotel,4.3 /5,0,34,0,0% no offer,2017,11,1,0,1
+Amsterdam,177,3.4,3.6,Amsterdam South,544,3,4.5,732,Hotel,4.3 /5,0,34,1,15-50% offer,2017,12,0,1,4
+Amsterdam,177,3.4,3.6,Amsterdam South,166,3,4.5,732,Hotel,4.3 /5,0,34,1,15-50% offer,2018,2,1,0,1
+Amsterdam,177,3.4,3.6,Amsterdam South,107,3,4.5,732,Hotel,4.3 /5,0,34,1,15-50% offer,2017,12,0,1,1
+Amsterdam,94,4.7,4.4,Amsterdam Southeast,149,2,3.5,100,Hotel,3.9 /5,0,36,0,0% no offer,2017,11,1,0,1
+Amsterdam,94,4.7,4.4,Amsterdam Southeast,66,2,3.5,100,Hotel,3.9 /5,0,36,0,0% no offer,2017,11,0,0,1
+Amsterdam,94,4.7,4.4,Amsterdam Southeast,406,2,3.5,100,Hotel,3.9 /5,0,36,0,0% no offer,2017,12,0,1,4
+Amsterdam,94,4.7,4.4,Amsterdam Southeast,76,2,3.5,100,Hotel,3.9 /5,0,36,0,0% no offer,2017,12,0,1,1
+Amsterdam,590,4.5,4.2,Amsterdam Southeast,151,3.5,4.5,679,Hotel,4.5 /5,0,37,1,15-50% offer,2018,2,1,0,1
+Amsterdam,590,4.5,4.2,Amsterdam Southeast,607,3.5,4.5,679,Hotel,4.5 /5,0,37,1,15-50% offer,2017,12,0,1,4
+Amsterdam,590,4.5,4.2,Amsterdam Southeast,151,3.5,4.5,679,Hotel,4.5 /5,0,37,1,15-50% offer,2018,5,1,0,1
+Amsterdam,590,4.5,4.2,Amsterdam Southeast,151,3.5,4.5,679,Hotel,4.5 /5,0,37,1,15-50% offer,2018,1,1,0,1
+Amsterdam,590,4.5,4.2,Amsterdam Southeast,160,3.5,4.5,679,Hotel,4.5 /5,0,37,1,15-50% offer,2017,11,1,0,1
+Amsterdam,590,4.5,4.2,Amsterdam Southeast,160,3.5,4.5,679,Hotel,4.5 /5,0,37,1,15-50% offer,2017,11,0,0,1
+Amsterdam,590,4.5,4.2,Amsterdam Southeast,151,3.5,4.5,679,Hotel,4.5 /5,0,37,1,15-50% offer,2018,4,1,0,1
+Amsterdam,590,4.5,4.2,Amsterdam Southeast,151,3.5,4.5,679,Hotel,4.5 /5,0,37,1,15-50% offer,2017,12,0,1,1
+Amsterdam,777,4.8,4.5,Amsterdam Southeast,225,3,4,1779,Hotel,4.3 /5,0,38,0,0% no offer,2018,6,1,0,1
+Amsterdam,777,4.8,4.5,Amsterdam Southeast,314,3,4,1779,Hotel,4.3 /5,0,38,0,0% no offer,2018,5,1,0,1
+Amsterdam,777,4.8,4.5,Amsterdam Southeast,187,3,4,1779,Hotel,4.3 /5,0,38,1,1-15% offer,2017,11,1,0,1
+Amsterdam,777,4.8,4.5,Amsterdam Southeast,97,3,4,1779,Hotel,4.3 /5,0,38,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,777,4.8,4.5,Amsterdam Southeast,255,3,4,1779,Hotel,4.3 /5,0,38,0,0% no offer,2018,3,1,0,1
+Amsterdam,777,4.8,4.5,Amsterdam Southeast,548,3,4,1779,Hotel,4.3 /5,0,38,1,15-50% offer,2017,12,0,1,4
+Amsterdam,777,4.8,4.5,Amsterdam Southeast,231,3,4,1779,Hotel,4.3 /5,0,38,0,0% no offer,2018,4,1,0,1
+Amsterdam,777,4.8,4.5,Amsterdam Southeast,147,3,4,1779,Hotel,4.3 /5,0,38,1,15-50% offer,2018,2,1,0,1
+Amsterdam,777,4.8,4.5,Amsterdam Southeast,176,3,4,1779,Hotel,4.3 /5,0,38,1,15-50% offer,2017,11,0,0,1
+Amsterdam,777,4.8,4.5,Amsterdam Southeast,117,3,4,1779,Hotel,4.3 /5,0,38,1,15-50% offer,2018,1,1,0,1
+Amsterdam,237,5.2,4.9,Amsterdam Southeast,137,2,3.5,634,Hostel,3.4 /5,0,39,1,15-50% offer,2018,6,1,0,1
+Amsterdam,237,5.2,4.9,Amsterdam Southeast,72,2,3.5,634,Hostel,3.4 /5,0,39,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,237,5.2,4.9,Amsterdam Southeast,155,2,3.5,634,Hostel,3.4 /5,0,39,1,1-15% offer,2018,5,1,0,1
+Amsterdam,237,5.2,4.9,Amsterdam Southeast,81,2,3.5,634,Hostel,3.4 /5,0,39,1,50%-75% offer,2018,2,1,0,1
+Amsterdam,237,5.2,4.9,Amsterdam Southeast,206,2,3.5,634,Hostel,3.4 /5,0,39,0,0% no offer,2018,3,1,0,1
+Amsterdam,237,5.2,4.9,Amsterdam Southeast,81,2,3.5,634,Hostel,3.4 /5,0,39,1,50%-75% offer,2018,1,1,0,1
+Amsterdam,237,5.2,4.9,Amsterdam Southeast,113,2,3.5,634,Hostel,3.4 /5,0,39,1,15-50% offer,2017,12,0,1,1
+Amsterdam,237,5.2,4.9,Amsterdam Southeast,497,2,3.5,634,Hostel,3.4 /5,0,39,1,15-50% offer,2017,12,0,1,4
+Amsterdam,237,5.2,4.9,Amsterdam Southeast,137,2,3.5,634,Hostel,3.4 /5,0,39,1,15-50% offer,2018,4,1,0,1
+Amsterdam,164,4.9,4.6,Amsterdam Southeast,176,4,4,390,Hotel,4.3 /5,0,40,1,15-50% offer,2017,11,1,0,1
+Amsterdam,164,4.9,4.6,Amsterdam Southeast,206,4,4,390,Hotel,4.3 /5,0,40,1,15-50% offer,2018,3,1,0,1
+Amsterdam,164,4.9,4.6,Amsterdam Southeast,156,4,4,390,Hotel,4.3 /5,0,40,1,15-50% offer,2017,12,0,1,1
+Amsterdam,164,4.9,4.6,Amsterdam Southeast,300,4,4,390,Hotel,4.3 /5,0,40,0,0% no offer,2017,11,0,0,1
+Amsterdam,164,4.9,4.6,Amsterdam Southeast,277,4,4,390,Hotel,4.3 /5,1,40,0,0% no offer,2018,4,1,0,1
+Amsterdam,164,4.9,4.6,Amsterdam Southeast,107,4,4,390,Hotel,4.3 /5,0,40,1,50%-75% offer,2018,2,1,0,1
+Amsterdam,164,4.9,4.6,Amsterdam Southeast,218,4,4,390,Hotel,4.3 /5,0,40,1,1-15% offer,2018,5,1,0,1
+Amsterdam,164,4.9,4.6,Amsterdam Southeast,107,4,4,390,Hotel,4.3 /5,0,40,1,50%-75% offer,2018,1,1,0,1
+Amsterdam,164,4.9,4.6,Amsterdam Southeast,578,4,4,390,Hotel,4.3 /5,0,40,1,15-50% offer,2017,12,0,1,4
+Amsterdam,164,4.9,4.6,Amsterdam Southeast,206,4,4,390,Hotel,4.3 /5,0,40,1,15-50% offer,2018,6,1,0,1
+Amsterdam,176,4.8,4.5,Amsterdam Southeast,304,4,4,325,Hotel,4.3 /5,0,41,0,0% no offer,2018,5,1,0,1
+Amsterdam,176,4.8,4.5,Amsterdam Southeast,520,4,4,325,Hotel,4.3 /5,0,41,1,15-50% offer,2017,12,0,1,4
+Amsterdam,176,4.8,4.5,Amsterdam Southeast,258,4,4,325,Hotel,4.3 /5,0,41,0,0% no offer,2018,6,1,0,1
+Amsterdam,176,4.8,4.5,Amsterdam Southeast,121,4,4,325,Hotel,4.3 /5,0,41,1,15-50% offer,2018,1,1,0,1
+Amsterdam,176,4.8,4.5,Amsterdam Southeast,104,4,4,325,Hotel,4.3 /5,0,41,1,15-50% offer,2017,12,0,1,1
+Amsterdam,176,4.8,4.5,Amsterdam Southeast,138,4,4,325,Hotel,4.3 /5,0,41,1,15-50% offer,2017,11,0,0,1
+Amsterdam,176,4.8,4.5,Amsterdam Southeast,142,4,4,325,Hotel,4.3 /5,0,41,1,1-15% offer,2017,11,1,0,1
+Amsterdam,176,4.8,4.5,Amsterdam Southeast,222,4,4,325,Hotel,4.3 /5,0,41,0,0% no offer,2018,4,1,0,1
+Amsterdam,176,4.8,4.5,Amsterdam Southeast,191,4,4,325,Hotel,4.3 /5,0,41,0,0% no offer,2018,2,1,0,1
+Amsterdam,553,4.9,4.6,Amsterdam Southeast,152,3,4,829,Hotel,4.1 /5,0,42,1,15-50% offer,2017,11,1,0,1
+Amsterdam,553,4.9,4.6,Amsterdam Southeast,272,3,4,829,Hotel,4.1 /5,0,42,0,0% no offer,2018,5,1,0,1
+Amsterdam,553,4.9,4.6,Amsterdam Southeast,94,3,4,829,Hotel,4.1 /5,0,42,1,50%-75% offer,2018,1,1,0,1
+Amsterdam,553,4.9,4.6,Amsterdam Southeast,181,3,4,829,Hotel,4.1 /5,0,42,1,15-50% offer,2018,2,1,0,1
+Amsterdam,553,4.9,4.6,Amsterdam Southeast,103,3,4,829,Hotel,4.1 /5,0,42,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,553,4.9,4.6,Amsterdam Southeast,243,3,4,829,Hotel,4.1 /5,0,42,0,0% no offer,2018,6,1,0,1
+Amsterdam,553,4.9,4.6,Amsterdam Southeast,221,3,4,829,Hotel,4.1 /5,0,42,0,0% no offer,2018,4,1,0,1
+Amsterdam,553,4.9,4.6,Amsterdam Southeast,120,3,4,829,Hotel,4.1 /5,0,42,1,15-50% offer,2017,11,0,0,1
+Amsterdam,34,5.3,5,Amsterdam Southeast,121,3,3,14,Hotel,3.5 /5,0,43,0,0% no offer,2018,2,1,0,1
+Amsterdam,34,5.3,5,Amsterdam Southeast,116,3,3,14,Hotel,3.5 /5,1,43,0,0% no offer,2017,12,0,1,1
+Amsterdam,34,5.3,5,Amsterdam Southeast,601,3,3,14,Hotel,3.5 /5,0,43,1,1-15% offer,2017,12,0,1,4
+Amsterdam,34,5.3,5,Amsterdam Southeast,104,3,3,14,Hotel,3.5 /5,1,43,0,0% no offer,2017,11,0,0,1
+Amsterdam,13,5.3,5,Amsterdam Southeast,196,3.5,4,25,Hotel,4 /5,1,44,0,0% no offer,2018,5,1,0,1
+Amsterdam,13,5.3,5,Amsterdam Southeast,80,3.5,4,25,Hotel,4 /5,0,44,0,0% no offer,2017,12,0,1,1
+Amsterdam,13,5.3,5,Amsterdam Southeast,184,3.5,4,25,Hotel,4 /5,1,44,0,0% no offer,2018,6,1,0,1
+Amsterdam,13,5.3,5,Amsterdam Southeast,662,3.5,4,25,Hotel,4 /5,0,44,0,0% no offer,2017,12,0,1,4
+Amsterdam,13,5.3,5,Amsterdam Southeast,289,3.5,4,25,Hotel,4 /5,1,44,0,0% no offer,2018,4,1,0,1
+Amsterdam,13,5.3,5,Amsterdam Southeast,149,3.5,4,25,Hotel,4 /5,1,44,0,0% no offer,2018,1,1,0,1
+Amsterdam,13,5.3,5,Amsterdam Southeast,184,3.5,4,25,Hotel,4 /5,1,44,0,0% no offer,2018,3,1,0,1
+Amsterdam,13,5.3,5,Amsterdam Southeast,149,3.5,4,25,Hotel,4 /5,1,44,0,0% no offer,2018,2,1,0,1
+Amsterdam,13,5.3,5,Amsterdam Southeast,207,3.5,4,25,Hotel,4 /5,0,44,0,0% no offer,2017,11,1,0,1
+Amsterdam,13,5.3,5,Amsterdam Southeast,80,3.5,4,25,Hotel,4 /5,0,44,0,0% no offer,2017,11,0,0,1
+Amsterdam,366,5.2,4.9,Amsterdam Southeast,140,4,3.5,554,Hotel,3.7 /5,0,45,1,50%-75% offer,2018,2,1,0,1
+Amsterdam,366,5.2,4.9,Amsterdam Southeast,237,4,3.5,554,Hotel,3.7 /5,1,45,1,15-50% offer,2017,11,1,0,1
+Amsterdam,366,5.2,4.9,Amsterdam Southeast,785,4,3.5,554,Hotel,3.7 /5,0,45,1,15-50% offer,2017,12,0,1,4
+Amsterdam,366,5.2,4.9,Amsterdam Southeast,217,4,3.5,554,Hotel,3.7 /5,0,45,1,15-50% offer,2018,4,1,0,1
+Amsterdam,366,5.2,4.9,Amsterdam Southeast,168,4,3.5,554,Hotel,3.7 /5,0,45,1,15-50% offer,2017,11,0,0,1
+Amsterdam,366,5.2,4.9,Amsterdam Southeast,238,4,3.5,554,Hotel,3.7 /5,0,45,1,15-50% offer,2018,5,1,0,1
+Amsterdam,366,5.2,4.9,Amsterdam Southeast,106,4,3.5,554,Hotel,3.7 /5,0,45,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,366,5.2,4.9,Amsterdam Southeast,129,4,3.5,554,Hotel,3.7 /5,0,45,1,50%-75% offer,2018,1,1,0,1
+Amsterdam,366,5.2,4.9,Amsterdam Southeast,217,4,3.5,554,Hotel,3.7 /5,0,45,1,15-50% offer,2018,3,1,0,1
+Amsterdam,366,5.2,4.9,Amsterdam Southeast,258,4,3.5,554,Hotel,3.7 /5,0,45,1,1-15% offer,2018,6,1,0,1
+Amsterdam,150,5.8,5.4,Amsterdam Southeast,77,3,3.5,359,Hotel,3.5 /5,0,46,1,15-50% offer,2017,11,0,0,1
+Amsterdam,150,5.8,5.4,Amsterdam Southeast,374,3,3.5,359,Hotel,3.5 /5,0,46,1,15-50% offer,2017,12,0,1,4
+Amsterdam,150,5.8,5.4,Amsterdam Southeast,68,3,3.5,359,Hotel,3.5 /5,0,46,1,15-50% offer,2017,12,0,1,1
+Amsterdam,150,5.8,5.4,Amsterdam Southeast,117,3,3.5,359,Hotel,3.5 /5,0,46,1,1-15% offer,2018,6,1,0,1
+Amsterdam,150,5.8,5.4,Amsterdam Southeast,77,3,3.5,359,Hotel,3.5 /5,0,46,1,15-50% offer,2018,1,1,0,1
+Amsterdam,150,5.8,5.4,Amsterdam Southeast,87,3,3.5,359,Hotel,3.5 /5,0,46,1,15-50% offer,2018,2,1,0,1
+Amsterdam,144,5.9,5.4,Amsterdam Southeast,88,4,3.5,769,Hotel,3.7 /5,0,47,1,15-50% offer,2018,3,1,0,1
+Amsterdam,144,5.9,5.4,Amsterdam Southeast,88,4,3.5,769,Hotel,3.7 /5,0,47,1,15-50% offer,2018,2,1,0,1
+Amsterdam,144,5.9,5.4,Amsterdam Southeast,115,4,3.5,769,Hotel,3.7 /5,0,47,1,15-50% offer,2017,11,1,0,1
+Amsterdam,144,5.9,5.4,Amsterdam Southeast,99,4,3.5,769,Hotel,3.7 /5,0,47,1,15-50% offer,2017,12,0,1,1
+Amsterdam,144,5.9,5.4,Amsterdam Southeast,88,4,3.5,769,Hotel,3.7 /5,0,47,1,15-50% offer,2018,6,1,0,1
+Amsterdam,144,5.9,5.4,Amsterdam Southeast,88,4,3.5,769,Hotel,3.7 /5,0,47,1,15-50% offer,2018,1,1,0,1
+Amsterdam,144,5.9,5.4,Amsterdam Southeast,102,4,3.5,769,Hotel,3.7 /5,0,47,1,15-50% offer,2017,11,0,0,1
+Amsterdam,445,6,5.7,Amsterdam Southeast,149,4,4,1020,Hotel,4 /5,0,48,1,15-50% offer,2018,1,1,0,1
+Amsterdam,445,6,5.7,Amsterdam Southeast,172,4,4,1020,Hotel,4 /5,0,48,1,15-50% offer,2018,2,1,0,1
+Amsterdam,445,6,5.7,Amsterdam Southeast,103,4,4,1020,Hotel,4 /5,0,48,1,1-15% offer,2017,12,0,1,1
+Amsterdam,445,6,5.7,Amsterdam Southeast,138,4,4,1020,Hotel,4 /5,0,48,1,15-50% offer,2017,11,0,0,1
+Amsterdam,445,6,5.7,Amsterdam Southeast,254,4,4,1020,Hotel,4 /5,0,48,0,0% no offer,2018,3,1,0,1
+Amsterdam,445,6,5.7,Amsterdam Southeast,196,4,4,1020,Hotel,4 /5,0,48,1,15-50% offer,2017,11,1,0,1
+Amsterdam,445,6,5.7,Amsterdam Southeast,231,4,4,1020,Hotel,4 /5,0,48,1,1-15% offer,2018,6,1,0,1
+Amsterdam,445,6,5.7,Amsterdam Southeast,231,4,4,1020,Hotel,4 /5,0,48,1,1-15% offer,2018,4,1,0,1
+Amsterdam,445,6,5.7,Amsterdam Southeast,479,4,4,1020,Hotel,4 /5,0,48,1,15-50% offer,2017,12,0,1,4
+Amsterdam,445,6,5.7,Amsterdam Southeast,277,4,4,1020,Hotel,4 /5,0,48,0,0% no offer,2018,5,1,0,1
+Amsterdam,13,0.8,1.3,Amsterdam West,127,2,3.5,411,Hotel,3.2 /5,1,49,0,0% no offer,2017,12,0,1,1
+Amsterdam,13,0.8,1.3,Amsterdam West,675,2,3.5,411,Hotel,3.2 /5,1,49,0,0% no offer,2017,12,0,1,4
+Amsterdam,13,0.8,1.3,Amsterdam West,74,2,3.5,411,Hotel,3.2 /5,1,49,0,0% no offer,2017,11,0,0,1
+Amsterdam,382,2.6,3.2,Amsterdam West,176,3.5,4.5,487,Hotel,4.5 /5,0,50,1,1-15% offer,2017,11,1,0,1
+Amsterdam,382,2.6,3.2,Amsterdam West,134,3.5,4.5,487,Hotel,4.5 /5,0,50,1,1-15% offer,2018,2,1,0,1
+Amsterdam,382,2.6,3.2,Amsterdam West,115,3.5,4.5,487,Hotel,4.5 /5,1,50,1,1-15% offer,2017,12,0,1,1
+Amsterdam,382,2.6,3.2,Amsterdam West,134,3.5,4.5,487,Hotel,4.5 /5,0,50,1,1-15% offer,2018,1,1,0,1
+Amsterdam,382,2.6,3.2,Amsterdam West,90,3.5,4.5,487,Hotel,4.5 /5,0,50,1,1-15% offer,2017,11,0,0,1
+Amsterdam,382,2.6,3.2,Amsterdam West,604,3.5,4.5,487,Hotel,4.5 /5,0,50,1,1-15% offer,2017,12,0,1,4
+Amsterdam,382,2.6,3.2,Amsterdam West,267,3.5,4.5,487,Hotel,4.5 /5,0,50,0,0% no offer,2018,5,1,0,1
+Amsterdam,382,2.6,3.2,Amsterdam West,234,3.5,4.5,487,Hotel,4.5 /5,0,50,0,0% no offer,2018,6,1,0,1
+Amsterdam,464,1.2,1.7,Amsterdam West,180,4,4.5,886,Hotel,4.5 /5,0,51,1,15-50% offer,2017,12,0,1,1
+Amsterdam,464,1.2,1.7,Amsterdam West,133,4,4.5,886,Hotel,4.5 /5,1,51,1,15-50% offer,2017,11,0,0,1
+Amsterdam,464,1.2,1.7,Amsterdam West,933,4,4.5,886,Hotel,4.5 /5,1,51,0,0% no offer,2017,12,0,1,4
+Amsterdam,125,1.1,1.7,Amsterdam West,78,2.5,4.5,328,Hotel,4.5 /5,0,52,1,15-50% offer,2017,12,0,1,1
+Amsterdam,125,1.1,1.7,Amsterdam West,82,2.5,4.5,328,Hotel,4.5 /5,0,52,1,15-50% offer,2017,11,0,0,1
+Amsterdam,125,1.1,1.7,Amsterdam West,566,2.5,4.5,328,Hotel,4.5 /5,0,52,0,0% no offer,2017,12,0,1,4
+Amsterdam,58,2.4,2.9,Amsterdam West,103,1,4,54,Hostel,4 /5,0,53,0,0% no offer,2017,11,0,0,1
+Amsterdam,58,2.4,2.9,Amsterdam West,138,1,4,54,Hostel,4 /5,0,53,0,0% no offer,2017,12,0,1,1
+Amsterdam,58,2.4,2.9,Amsterdam West,587,1,4,54,Hostel,4 /5,1,53,0,0% no offer,2017,12,0,1,4
+Amsterdam,58,2.4,2.9,Amsterdam West,172,1,4,54,Hostel,4 /5,0,53,0,0% no offer,2018,6,1,0,1
+Amsterdam,115,1.1,1.7,Amsterdam West,135,3,4.5,426,Hotel,4.1 /5,1,54,0,0% no offer,2017,11,0,0,1
+Amsterdam,115,1.1,1.7,Amsterdam West,170,3,4.5,426,Hotel,4.1 /5,1,54,0,0% no offer,2017,12,0,1,1
+Amsterdam,110,1,1.5,Amsterdam West,133,2,4,513,Hotel,4.3 /5,1,55,1,15-50% offer,2017,11,0,0,1
+Amsterdam,24,1,1.4,Amsterdam West,814,4,3.5,15,Apartment,3.2 /5,1,56,0,0% no offer,2017,12,0,1,4
+Amsterdam,635,1,1.4,Amsterdam West,186,4,4,1287,Hotel,3.9 /5,1,57,1,15-50% offer,2017,11,0,0,1
+Amsterdam,635,1,1.4,Amsterdam West,131,4,4,1287,Hotel,3.9 /5,1,57,1,15-50% offer,2017,12,0,1,1
+Amsterdam,635,1,1.4,Amsterdam West,931,4,4,1287,Hotel,3.9 /5,1,57,1,1-15% offer,2017,12,0,1,4
+Amsterdam,117,1,1.4,Amsterdam West,179,3,3.5,833,Hotel,3.7 /5,1,58,1,15-50% offer,2017,12,0,1,1
+Amsterdam,117,1,1.4,Amsterdam West,203,3,3.5,833,Hotel,3.7 /5,1,58,1,15-50% offer,2018,1,1,0,1
+Amsterdam,117,1,1.4,Amsterdam West,330,3,3.5,833,Hotel,3.7 /5,1,58,0,0% no offer,2017,11,1,0,1
+Amsterdam,117,1,1.4,Amsterdam West,824,3,3.5,833,Hotel,3.7 /5,1,58,1,15-50% offer,2017,12,0,1,4
+Amsterdam,117,1,1.4,Amsterdam West,110,3,3.5,833,Hotel,3.7 /5,1,58,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,183,1,1.4,Amsterdam West,133,3.5,4,340,Hotel,4 /5,0,59,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,183,1,1.4,Amsterdam West,241,3.5,4,340,Hotel,4 /5,0,59,1,15-50% offer,2017,11,1,0,1
+Amsterdam,183,1,1.4,Amsterdam West,162,3.5,4,340,Hotel,4 /5,0,59,1,15-50% offer,2017,12,0,1,1
+Amsterdam,183,1,1.4,Amsterdam West,943,3.5,4,340,Hotel,4 /5,0,59,1,15-50% offer,2017,12,0,1,4
+Amsterdam,13,5.2,5.7,Amsterdam West,407,3,3.5,10,Hotel,3.5 /5,0,60,1,15-50% offer,2017,12,0,1,4
+Amsterdam,13,5.2,5.7,Amsterdam West,80,3,3.5,10,Hotel,3.5 /5,0,60,1,15-50% offer,2017,11,0,0,1
+Amsterdam,13,5.2,5.7,Amsterdam West,88,3,3.5,10,Hotel,3.5 /5,0,60,1,15-50% offer,2018,2,1,0,1
+Amsterdam,13,5.2,5.7,Amsterdam West,88,3,3.5,10,Hotel,3.5 /5,0,60,1,15-50% offer,2018,1,1,0,1
+Amsterdam,13,5.2,5.7,Amsterdam West,109,3,3.5,10,Hotel,3.5 /5,0,60,1,15-50% offer,2018,5,1,0,1
+Amsterdam,13,5.2,5.7,Amsterdam West,113,3,3.5,10,Hotel,3.5 /5,0,60,1,15-50% offer,2018,4,1,0,1
+Amsterdam,13,5.2,5.7,Amsterdam West,88,3,3.5,10,Hotel,3.5 /5,0,60,1,15-50% offer,2018,3,1,0,1
+Amsterdam,13,5.2,5.7,Amsterdam West,80,3,3.5,10,Hotel,3.5 /5,0,60,1,15-50% offer,2017,12,0,1,1
+Amsterdam,13,5.2,5.7,Amsterdam West,114,3,3.5,10,Hotel,3.5 /5,0,60,1,15-50% offer,2018,6,1,0,1
+Amsterdam,13,5.2,5.7,Amsterdam West,128,3,3.5,10,Hotel,3.5 /5,0,60,1,1-15% offer,2017,11,1,0,1
+Amsterdam,625,2.6,3.2,Amsterdam West,165,3,4,879,Hotel,4.1 /5,0,61,1,1-15% offer,2017,11,1,0,1
+Amsterdam,625,2.6,3.2,Amsterdam West,114,3,4,879,Hotel,4.1 /5,0,61,1,1-15% offer,2018,1,1,0,1
+Amsterdam,625,2.6,3.2,Amsterdam West,102,3,4,879,Hotel,4.1 /5,0,61,1,1-15% offer,2017,12,0,1,1
+Amsterdam,625,2.6,3.2,Amsterdam West,165,3,4,879,Hotel,4.1 /5,0,61,1,1-15% offer,2018,6,1,0,1
+Amsterdam,625,2.6,3.2,Amsterdam West,165,3,4,879,Hotel,4.1 /5,0,61,1,1-15% offer,2018,5,1,0,1
+Amsterdam,625,2.6,3.2,Amsterdam West,69,3,4,879,Hotel,4.1 /5,0,61,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,625,2.6,3.2,Amsterdam West,190,3,4,879,Hotel,4.1 /5,0,61,1,1-15% offer,2018,4,1,0,1
+Amsterdam,625,2.6,3.2,Amsterdam West,155,3,4,879,Hotel,4.1 /5,0,61,1,1-15% offer,2018,3,1,0,1
+Amsterdam,625,2.6,3.2,Amsterdam West,92,3,4,879,Hotel,4.1 /5,0,61,1,1-15% offer,2018,2,1,0,1
+Amsterdam,625,2.6,3.2,Amsterdam West,513,3,4,879,Hotel,4.1 /5,0,61,1,1-15% offer,2017,12,0,1,4
+Amsterdam,1487,2.3,2.8,Amsterdam West,133,4,4.5,4099,Hotel,4.5 /5,0,62,1,15-50% offer,2018,2,1,0,1
+Amsterdam,1487,2.3,2.8,Amsterdam West,123,4,4.5,4099,Hotel,4.5 /5,0,62,1,15-50% offer,2017,12,0,1,1
+Amsterdam,1487,2.3,2.8,Amsterdam West,133,4,4.5,4099,Hotel,4.5 /5,0,62,1,15-50% offer,2017,11,0,0,1
+Amsterdam,1487,2.3,2.8,Amsterdam West,167,4,4.5,4099,Hotel,4.5 /5,0,62,1,15-50% offer,2018,1,1,0,1
+Amsterdam,1487,2.3,2.8,Amsterdam West,534,4,4.5,4099,Hotel,4.5 /5,0,62,1,15-50% offer,2017,12,0,1,4
+Amsterdam,358,2.3,2.8,Amsterdam West,91,3,3.5,337,Hotel,3.5 /5,0,63,1,15-50% offer,2017,11,0,0,1
+Amsterdam,358,2.3,2.8,Amsterdam West,117,3,3.5,337,Hotel,3.5 /5,0,63,1,15-50% offer,2017,12,0,1,1
+Amsterdam,358,2.3,2.8,Amsterdam West,155,3,3.5,337,Hotel,3.5 /5,0,63,1,1-15% offer,2017,11,1,0,1
+Amsterdam,358,2.3,2.8,Amsterdam West,105,3,3.5,337,Hotel,3.5 /5,0,63,1,15-50% offer,2018,2,1,0,1
+Amsterdam,358,2.3,2.8,Amsterdam West,452,3,3.5,337,Hotel,3.5 /5,0,63,1,1-15% offer,2017,12,0,1,4
+Amsterdam,358,2.3,2.8,Amsterdam West,111,3,3.5,337,Hotel,3.5 /5,0,63,1,15-50% offer,2018,1,1,0,1
+Amsterdam,55,1.4,1.9,Amsterdam West,114,2.5,4,21,Hotel,4.5 /5,1,64,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,55,1.4,1.9,Amsterdam West,680,2.5,4,21,Hotel,4.5 /5,1,64,1,15-50% offer,2017,12,0,1,4
+Amsterdam,55,1.4,1.9,Amsterdam West,172,2.5,4,21,Hotel,4.5 /5,1,64,1,15-50% offer,2018,2,1,0,1
+Amsterdam,55,1.4,1.9,Amsterdam West,196,2.5,4,21,Hotel,4.5 /5,1,64,1,15-50% offer,2018,5,1,0,1
+Amsterdam,55,1.4,1.9,Amsterdam West,114,2.5,4,21,Hotel,4.5 /5,1,64,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,55,1.4,1.9,Amsterdam West,172,2.5,4,21,Hotel,4.5 /5,1,64,1,15-50% offer,2018,1,1,0,1
+Amsterdam,55,1.4,1.9,Amsterdam West,196,2.5,4,21,Hotel,4.5 /5,1,64,1,15-50% offer,2018,6,1,0,1
+Amsterdam,55,1.4,1.9,Amsterdam West,207,2.5,4,21,Hotel,4.5 /5,1,64,1,1-15% offer,2018,3,1,0,1
+Amsterdam,929,2.4,3,Amsterdam West,188,3,4,1439,Hotel,3.9 /5,0,65,1,1-15% offer,2018,4,1,0,1
+Amsterdam,929,2.4,3,Amsterdam West,148,3,4,1439,Hotel,3.9 /5,0,65,1,1-15% offer,2018,2,1,0,1
+Amsterdam,929,2.4,3,Amsterdam West,186,3,4,1439,Hotel,3.9 /5,0,65,1,15-50% offer,2017,11,1,0,1
+Amsterdam,929,2.4,3,Amsterdam West,546,3,4,1439,Hotel,3.9 /5,1,65,1,1-15% offer,2017,12,0,1,4
+Amsterdam,929,2.4,3,Amsterdam West,140,3,4,1439,Hotel,3.9 /5,0,65,1,15-50% offer,2018,1,1,0,1
+Amsterdam,929,2.4,3,Amsterdam West,109,3,4,1439,Hotel,3.9 /5,0,65,1,15-50% offer,2017,12,0,1,1
+Amsterdam,929,2.4,3,Amsterdam West,188,3,4,1439,Hotel,3.9 /5,0,65,1,1-15% offer,2018,5,1,0,1
+Amsterdam,929,2.4,3,Amsterdam West,101,3,4,1439,Hotel,3.9 /5,0,65,1,15-50% offer,2017,11,0,0,1
+Amsterdam,929,2.4,3,Amsterdam West,218,3,4,1439,Hotel,3.9 /5,0,65,1,1-15% offer,2018,3,1,0,1
+Amsterdam,565,3.6,4,Amsterdam West,88,4,4,1503,Hotel,4 /5,0,66,1,15-50% offer,2017,12,0,1,1
+Amsterdam,565,3.6,4,Amsterdam West,88,4,4,1503,Hotel,4 /5,0,66,1,15-50% offer,2018,1,1,0,1
+Amsterdam,565,3.6,4,Amsterdam West,453,4,4,1503,Hotel,4 /5,0,66,1,1-15% offer,2017,12,0,1,4
+Amsterdam,565,3.6,4,Amsterdam West,100,4,4,1503,Hotel,4 /5,0,66,1,15-50% offer,2018,2,1,0,1
+Amsterdam,565,3.6,4,Amsterdam West,114,4,4,1503,Hotel,4 /5,0,66,1,15-50% offer,2017,11,0,0,1
+Amsterdam,1,0.9,1.4,Amsterdam West,1439,3,4,19,Apartment,2 /5,1,67,0,0% no offer,2017,12,0,1,4
+Amsterdam,NA,2.4,3,Amsterdam West,175,4,3.5,3,Hotel,NA,0,68,1,15-50% offer,2018,6,1,0,1
+Amsterdam,NA,2.4,3,Amsterdam West,221,4,3.5,3,Hotel,NA,0,68,1,15-50% offer,2018,2,1,0,1
+Amsterdam,NA,2.4,3,Amsterdam West,249,4,3.5,3,Hotel,NA,0,68,1,15-50% offer,2018,4,1,0,1
+Amsterdam,8,2,2.6,Amsterdam West,176,4,3.5,1861,Hotel,3.9 /5,0,69,0,0% no offer,2017,11,1,0,1
+Amsterdam,8,2,2.6,Amsterdam West,113,4,3.5,1861,Hotel,3.9 /5,0,69,0,0% no offer,2017,12,0,1,1
+Amsterdam,8,2,2.6,Amsterdam West,124,4,3.5,1861,Hotel,3.9 /5,0,69,0,0% no offer,2018,2,1,0,1
+Amsterdam,8,2,2.6,Amsterdam West,591,4,3.5,1861,Hotel,3.9 /5,0,69,0,0% no offer,2017,12,0,1,4
+Amsterdam,8,2,2.6,Amsterdam West,197,4,3.5,1861,Hotel,3.9 /5,0,69,0,0% no offer,2018,6,1,0,1
+Amsterdam,8,2,2.6,Amsterdam West,187,4,3.5,1861,Hotel,3.9 /5,0,69,0,0% no offer,2018,5,1,0,1
+Amsterdam,8,2,2.6,Amsterdam West,218,4,3.5,1861,Hotel,3.9 /5,0,69,0,0% no offer,2018,3,1,0,1
+Amsterdam,8,2,2.6,Amsterdam West,113,4,3.5,1861,Hotel,3.9 /5,0,69,0,0% no offer,2018,1,1,0,1
+Amsterdam,8,2,2.6,Amsterdam West,354,4,3.5,1861,Hotel,3.9 /5,0,69,0,0% no offer,2018,4,1,0,1
+Amsterdam,8,2,2.6,Amsterdam West,84,4,3.5,1861,Hotel,3.9 /5,0,69,0,0% no offer,2017,11,0,0,1
+Amsterdam,416,2.1,2.6,Amsterdam West,207,4,4.5,3958,Hotel,4.3 /5,0,70,1,1-15% offer,2018,6,1,0,1
+Amsterdam,416,2.1,2.6,Amsterdam West,364,4,4.5,3958,Hotel,4.3 /5,0,70,0,0% no offer,2018,4,1,0,1
+Amsterdam,416,2.1,2.6,Amsterdam West,633,4,4.5,3958,Hotel,4.3 /5,0,70,1,15-50% offer,2017,12,0,1,4
+Amsterdam,416,2.1,2.6,Amsterdam West,134,4,4.5,3958,Hotel,4.3 /5,0,70,1,15-50% offer,2018,1,1,0,1
+Amsterdam,416,2.1,2.6,Amsterdam West,94,4,4.5,3958,Hotel,4.3 /5,0,70,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,416,2.1,2.6,Amsterdam West,124,4,4.5,3958,Hotel,4.3 /5,0,70,1,15-50% offer,2017,12,0,1,1
+Amsterdam,416,2.1,2.6,Amsterdam West,197,4,4.5,3958,Hotel,4.3 /5,0,70,1,1-15% offer,2018,5,1,0,1
+Amsterdam,416,2.1,2.6,Amsterdam West,176,4,4.5,3958,Hotel,4.3 /5,0,70,1,15-50% offer,2017,11,1,0,1
+Amsterdam,416,2.1,2.6,Amsterdam West,239,4,4.5,3958,Hotel,4.3 /5,0,70,0,0% no offer,2018,3,1,0,1
+Amsterdam,416,2.1,2.6,Amsterdam West,134,4,4.5,3958,Hotel,4.3 /5,0,70,1,15-50% offer,2018,2,1,0,1
+Amsterdam,377,2.6,3.2,Amsterdam West,184,4,4,958,Hotel,4.1 /5,0,71,1,15-50% offer,2017,11,1,0,1
+Amsterdam,377,2.6,3.2,Amsterdam West,289,4,4,958,Hotel,4.1 /5,0,71,0,0% no offer,2018,4,1,0,1
+Amsterdam,377,2.6,3.2,Amsterdam West,129,4,4,958,Hotel,4.1 /5,0,71,1,15-50% offer,2018,2,1,0,1
+Amsterdam,377,2.6,3.2,Amsterdam West,103,4,4,958,Hotel,4.1 /5,0,71,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,377,2.6,3.2,Amsterdam West,219,4,4,958,Hotel,4.1 /5,0,71,0,0% no offer,2018,5,1,0,1
+Amsterdam,377,2.6,3.2,Amsterdam West,622,4,4,958,Hotel,4.1 /5,0,71,1,15-50% offer,2017,12,0,1,4
+Amsterdam,377,2.6,3.2,Amsterdam West,121,4,4,958,Hotel,4.1 /5,0,71,1,15-50% offer,2017,12,0,1,1
+Amsterdam,377,2.6,3.2,Amsterdam West,137,4,4,958,Hotel,4.1 /5,0,71,1,15-50% offer,2018,1,1,0,1
+Amsterdam,377,2.6,3.2,Amsterdam West,196,4,4,958,Hotel,4.1 /5,0,71,1,1-15% offer,2018,6,1,0,1
+Amsterdam,210,2.7,3.2,Amsterdam West,646,3,4.5,560,Apart-hotel,4.3 /5,1,72,1,15-50% offer,2017,12,0,1,4
+Amsterdam,210,2.7,3.2,Amsterdam West,138,3,4.5,560,Apart-hotel,4.3 /5,0,72,1,15-50% offer,2018,1,1,0,1
+Amsterdam,210,2.7,3.2,Amsterdam West,159,3,4.5,560,Apart-hotel,4.3 /5,0,72,1,15-50% offer,2018,2,1,0,1
+Amsterdam,210,2.7,3.2,Amsterdam West,105,3,4.5,560,Apart-hotel,4.3 /5,0,72,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,210,2.7,3.2,Amsterdam West,126,3,4.5,560,Apart-hotel,4.3 /5,0,72,1,15-50% offer,2017,12,0,1,1
+Amsterdam,210,2.7,3.2,Amsterdam West,219,3,4.5,560,Apart-hotel,4.3 /5,0,72,1,1-15% offer,2018,6,1,0,1
+Amsterdam,210,2.7,3.2,Amsterdam West,202,3,4.5,560,Apart-hotel,4.3 /5,1,72,1,15-50% offer,2017,11,1,0,1
+Amsterdam,175,0.8,1.2,Amsterdam West,127,3,3.5,355,Hotel,3.7 /5,1,73,1,15-50% offer,2017,11,0,0,1
+Amsterdam,175,0.8,1.2,Amsterdam West,703,3,3.5,355,Hotel,3.7 /5,1,73,1,15-50% offer,2017,12,0,1,4
+Amsterdam,175,0.8,1.2,Amsterdam West,118,3,3.5,355,Hotel,3.7 /5,1,73,1,15-50% offer,2017,12,0,1,1
+Amsterdam,175,0.8,1.2,Amsterdam West,163,3,3.5,355,Hotel,3.7 /5,1,73,1,15-50% offer,2018,2,1,0,1
+Amsterdam,798,2.6,3.2,Amsterdam West,592,2,4,1949,Hostel,4 /5,0,74,1,15-50% offer,2017,12,0,1,4
+Amsterdam,798,2.6,3.2,Amsterdam West,119,2,4,1949,Hostel,4 /5,0,74,1,15-50% offer,2017,12,0,1,1
+Amsterdam,297,3.9,4.4,Amsterdam West,108,3,4,218,Hotel,4 /5,1,75,1,15-50% offer,2018,1,1,0,1
+Amsterdam,297,3.9,4.4,Amsterdam West,118,3,4,218,Hotel,4 /5,1,75,1,15-50% offer,2018,2,1,0,1
+Amsterdam,297,3.9,4.4,Amsterdam West,84,3,4,218,Hotel,4 /5,1,75,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,297,3.9,4.4,Amsterdam West,182,3,4,218,Hotel,4 /5,1,75,0,0% no offer,2017,11,1,0,1
+Amsterdam,297,3.9,4.4,Amsterdam West,197,3,4,218,Hotel,4 /5,1,75,0,0% no offer,2018,5,1,0,1
+Amsterdam,297,3.9,4.4,Amsterdam West,72,3,4,218,Hotel,4 /5,0,75,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,297,3.9,4.4,Amsterdam West,187,3,4,218,Hotel,4 /5,1,75,0,0% no offer,2018,6,1,0,1
+Amsterdam,297,3.9,4.4,Amsterdam West,452,3,4,218,Hotel,4 /5,0,75,1,1-15% offer,2017,12,0,1,4
+Amsterdam,266,4,4.4,Amsterdam West,114,4,3.5,1084,Hotel,4 /5,0,76,1,15-50% offer,2017,11,0,0,1
+Amsterdam,266,4,4.4,Amsterdam West,80,4,3.5,1084,Hotel,4 /5,0,76,1,50%-75% offer,2018,2,1,0,1
+Amsterdam,266,4,4.4,Amsterdam West,72,4,3.5,1084,Hotel,4 /5,0,76,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,266,4,4.4,Amsterdam West,80,4,3.5,1084,Hotel,4 /5,0,76,1,50%-75% offer,2018,1,1,0,1
+Amsterdam,266,4,4.4,Amsterdam West,104,4,3.5,1084,Hotel,4 /5,0,76,1,15-50% offer,2018,6,1,0,1
+Amsterdam,200,1.4,2,Amsterdam West,95,3,4,337,Inn,4 /5,1,77,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,200,1.4,2,Amsterdam West,83,3,4,337,Inn,4 /5,1,77,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,632,4.2,4.7,Amsterdam West,493,3,3.5,1091,Hotel,3.7 /5,0,78,0,0% no offer,2017,12,0,1,4
+Amsterdam,632,4.2,4.7,Amsterdam West,107,3,3.5,1091,Hotel,3.7 /5,0,78,0,0% no offer,2017,12,0,1,1
+Amsterdam,632,4.2,4.7,Amsterdam West,68,3,3.5,1091,Hotel,3.7 /5,0,78,1,15-50% offer,2017,11,0,0,1
+Amsterdam,123,3.1,3.6,Amsterdam West,98,2,2.5,640,Hostel,2.9 /5,0,79,1,50%-75% offer,2018,1,1,0,1
+Amsterdam,123,3.1,3.6,Amsterdam West,289,2,2.5,640,Hostel,2.9 /5,0,79,1,1-15% offer,2017,11,1,0,1
+Amsterdam,123,3.1,3.6,Amsterdam West,145,2,2.5,640,Hostel,2.9 /5,0,79,1,50%-75% offer,2018,2,1,0,1
+Amsterdam,123,3.1,3.6,Amsterdam West,254,2,2.5,640,Hostel,2.9 /5,0,79,1,15-50% offer,2017,12,0,1,1
+Amsterdam,123,3.1,3.6,Amsterdam West,191,2,2.5,640,Hostel,2.9 /5,0,79,1,15-50% offer,2018,5,1,0,1
+Amsterdam,123,3.1,3.6,Amsterdam West,63,2,2.5,640,Hostel,2.9 /5,0,79,1,75%+ offer,2017,11,0,0,1
+Amsterdam,123,3.1,3.6,Amsterdam West,191,2,2.5,640,Hostel,2.9 /5,0,79,1,15-50% offer,2018,6,1,0,1
+Amsterdam,123,3.1,3.6,Amsterdam West,191,2,2.5,640,Hostel,2.9 /5,0,79,1,15-50% offer,2018,4,1,0,1
+Amsterdam,123,3.1,3.6,Amsterdam West,261,2,2.5,640,Hostel,2.9 /5,0,79,1,15-50% offer,2018,3,1,0,1
+Amsterdam,5,3,3.6,Amsterdam West,181,4,3.5,2001,Hotel,2.4 /5,0,80,0,0% no offer,2018,5,1,0,1
+Amsterdam,5,3,3.6,Amsterdam West,192,4,3.5,2001,Hotel,2.4 /5,0,80,0,0% no offer,2018,6,1,0,1
+Amsterdam,5,3,3.6,Amsterdam West,348,4,3.5,2001,Hotel,2.4 /5,0,80,0,0% no offer,2018,4,1,0,1
+Amsterdam,5,3,3.6,Amsterdam West,570,4,3.5,2001,Hotel,2.4 /5,0,80,0,0% no offer,2017,12,0,1,4
+Amsterdam,5,3,3.6,Amsterdam West,119,4,3.5,2001,Hotel,2.4 /5,0,80,0,0% no offer,2018,2,1,0,1
+Amsterdam,5,3,3.6,Amsterdam West,119,4,3.5,2001,Hotel,2.4 /5,0,80,0,0% no offer,2018,1,1,0,1
+Amsterdam,5,3,3.6,Amsterdam West,74,4,3.5,2001,Hotel,2.4 /5,0,80,0,0% no offer,2017,11,0,0,1
+Amsterdam,5,3,3.6,Amsterdam West,155,4,3.5,2001,Hotel,2.4 /5,0,80,0,0% no offer,2017,11,1,0,1
+Amsterdam,5,3,3.6,Amsterdam West,223,4,3.5,2001,Hotel,2.4 /5,0,80,0,0% no offer,2018,3,1,0,1
+Amsterdam,5,3,3.6,Amsterdam West,108,4,3.5,2001,Hotel,2.4 /5,0,80,0,0% no offer,2017,12,0,1,1
+Amsterdam,568,1.7,2.1,Amsterdam West,136,3,4.5,2752,Hotel,4.4 /5,0,81,1,15-50% offer,2018,1,1,0,1
+Amsterdam,568,1.7,2.1,Amsterdam West,111,3,4.5,2752,Hotel,4.4 /5,0,81,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,568,1.7,2.1,Amsterdam West,237,3,4.5,2752,Hotel,4.4 /5,0,81,0,0% no offer,2018,6,1,0,1
+Amsterdam,568,1.7,2.1,Amsterdam West,620,3,4.5,2752,Hotel,4.4 /5,0,81,1,15-50% offer,2017,12,0,1,4
+Amsterdam,568,1.7,2.1,Amsterdam West,111,3,4.5,2752,Hotel,4.4 /5,0,81,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,403,1.7,2.1,Amsterdam West,117,4,4.5,2753,Hotel,4.4 /5,0,82,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,403,1.7,2.1,Amsterdam West,643,4,4.5,2753,Hotel,4.4 /5,0,82,1,15-50% offer,2017,12,0,1,4
+Amsterdam,403,1.7,2.1,Amsterdam West,152,4,4.5,2753,Hotel,4.4 /5,0,82,1,15-50% offer,2018,1,1,0,1
+Amsterdam,403,1.7,2.1,Amsterdam West,117,4,4.5,2753,Hotel,4.4 /5,0,82,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,403,1.7,2.1,Amsterdam West,258,4,4.5,2753,Hotel,4.4 /5,0,82,1,1-15% offer,2018,6,1,0,1
+Amsterdam,960,2.1,2.6,Amsterdam West,118,4,4,3182,Hotel,4.3 /5,0,83,1,50%-75% offer,2018,2,1,0,1
+Amsterdam,960,2.1,2.6,Amsterdam West,107,4,4,3182,Hotel,4.3 /5,0,83,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,960,2.1,2.6,Amsterdam West,222,4,4,3182,Hotel,4.3 /5,0,83,1,1-15% offer,2018,5,1,0,1
+Amsterdam,960,2.1,2.6,Amsterdam West,108,4,4,3182,Hotel,4.3 /5,0,83,1,50%-75% offer,2018,1,1,0,1
+Amsterdam,960,2.1,2.6,Amsterdam West,222,4,4,3182,Hotel,4.3 /5,0,83,1,1-15% offer,2018,4,1,0,1
+Amsterdam,960,2.1,2.6,Amsterdam West,197,4,4,3182,Hotel,4.3 /5,0,83,1,15-50% offer,2018,6,1,0,1
+Amsterdam,960,2.1,2.6,Amsterdam West,126,4,4,3182,Hotel,4.3 /5,0,83,1,15-50% offer,2017,12,0,1,1
+Amsterdam,960,2.1,2.6,Amsterdam West,224,4,4,3182,Hotel,4.3 /5,0,83,1,1-15% offer,2017,11,1,0,1
+Amsterdam,463,2.4,3,Amsterdam West,365,3,4.5,687,Hotel,4.5 /5,1,84,0,0% no offer,2018,4,1,0,1
+Amsterdam,463,2.4,3,Amsterdam West,245,3,4.5,687,Hotel,4.5 /5,0,84,0,0% no offer,2018,3,1,0,1
+Amsterdam,463,2.4,3,Amsterdam West,125,3,4.5,687,Hotel,4.5 /5,0,84,1,15-50% offer,2017,12,0,1,1
+Amsterdam,463,2.4,3,Amsterdam West,182,3,4.5,687,Hotel,4.5 /5,0,84,1,1-15% offer,2017,11,1,0,1
+Amsterdam,463,2.4,3,Amsterdam West,588,3,4.5,687,Hotel,4.5 /5,1,84,1,1-15% offer,2017,12,0,1,4
+Amsterdam,463,2.4,3,Amsterdam West,235,3,4.5,687,Hotel,4.5 /5,0,84,0,0% no offer,2018,6,1,0,1
+Amsterdam,463,2.4,3,Amsterdam West,120,3,4.5,687,Hotel,4.5 /5,0,84,1,15-50% offer,2018,1,1,0,1
+Amsterdam,463,2.4,3,Amsterdam West,130,3,4.5,687,Hotel,4.5 /5,0,84,1,15-50% offer,2018,2,1,0,1
+Amsterdam,463,2.4,3,Amsterdam West,219,3,4.5,687,Hotel,4.5 /5,0,84,0,0% no offer,2018,5,1,0,1
+Amsterdam,463,2.4,3,Amsterdam West,99,3,4.5,687,Hotel,4.5 /5,0,84,1,15-50% offer,2017,11,0,0,1
+Amsterdam,227,2.2,2.7,Amsterdam West,114,3,4,1576,Hotel,4 /5,0,85,1,15-50% offer,2017,12,0,1,1
+Amsterdam,227,2.2,2.7,Amsterdam West,622,3,4,1576,Hotel,4 /5,0,85,1,15-50% offer,2017,12,0,1,4
+Amsterdam,227,2.2,2.7,Amsterdam West,103,3,4,1576,Hotel,4 /5,0,85,1,15-50% offer,2017,11,0,0,1
+Amsterdam,227,2.2,2.7,Amsterdam West,114,3,4,1576,Hotel,4 /5,0,85,1,15-50% offer,2018,2,1,0,1
+Amsterdam,227,2.2,2.7,Amsterdam West,172,3,4,1576,Hotel,4 /5,0,85,1,1-15% offer,2017,11,1,0,1
+Amsterdam,227,2.2,2.7,Amsterdam West,161,3,4,1576,Hotel,4 /5,0,85,1,1-15% offer,2018,5,1,0,1
+Amsterdam,227,2.2,2.7,Amsterdam West,138,3,4,1576,Hotel,4 /5,0,85,1,15-50% offer,2018,1,1,0,1
+Amsterdam,376,0.8,1.3,Amsterdam West,136,3,3.5,411,Hotel,3.5 /5,0,86,1,15-50% offer,2017,12,0,1,1
+Amsterdam,376,0.8,1.3,Amsterdam West,106,3,3.5,411,Hotel,3.5 /5,1,86,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,376,0.8,1.3,Amsterdam West,724,3,3.5,411,Hotel,3.5 /5,1,86,1,15-50% offer,2017,12,0,1,4
+Amsterdam,203,0.8,1.3,Amsterdam West,104,3,4,321,Hotel,3.9 /5,1,87,1,15-50% offer,2017,11,0,0,1
+Amsterdam,516,0.8,1.3,Amsterdam West,233,3,3,270,Hotel,4 /5,0,88,0,0% no offer,2018,1,1,0,1
+Amsterdam,516,0.8,1.3,Amsterdam West,304,3,3,270,Hotel,4 /5,0,88,0,0% no offer,2018,2,1,0,1
+Amsterdam,516,0.8,1.3,Amsterdam West,136,3,3,270,Hotel,4 /5,0,88,1,15-50% offer,2017,12,0,1,1
+Amsterdam,516,0.8,1.3,Amsterdam West,869,3,3,270,Hotel,4 /5,0,88,0,0% no offer,2017,12,0,1,4
+Amsterdam,145,1.6,2.2,Amsterdam West,83,3.5,3.5,72,Hotel,3.5 /5,0,93,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,145,1.6,2.2,Amsterdam West,105,3.5,3.5,72,Hotel,3.5 /5,0,93,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,145,1.6,2.2,Amsterdam West,121,3.5,3.5,72,Hotel,3.5 /5,0,93,1,15-50% offer,2018,2,1,0,1
+Amsterdam,145,1.6,2.2,Amsterdam West,590,3.5,3.5,72,Hotel,3.5 /5,0,93,1,15-50% offer,2017,12,0,1,4
+Amsterdam,145,1.6,2.2,Amsterdam West,162,3.5,3.5,72,Hotel,3.5 /5,0,93,1,15-50% offer,2018,3,1,0,1
+Amsterdam,145,1.6,2.2,Amsterdam West,121,3.5,3.5,72,Hotel,3.5 /5,0,93,1,15-50% offer,2018,1,1,0,1
+Amsterdam,145,1.6,2.2,Amsterdam West,178,3.5,3.5,72,Hotel,3.5 /5,0,93,1,15-50% offer,2017,11,1,0,1
+Amsterdam,295,2.2,2.7,Amsterdam West,125,2,3.5,508,Hostel,3.7 /5,1,94,0,0% no offer,2017,11,0,0,1
+Amsterdam,295,2.2,2.7,Amsterdam West,125,2,3.5,508,Hostel,3.7 /5,1,94,0,0% no offer,2017,12,0,1,1
+Amsterdam,469,2.6,3.1,Amsterdam West,131,3,4,1538,Hotel,4.1 /5,0,95,1,15-50% offer,2017,12,0,1,1
+Amsterdam,469,2.6,3.1,Amsterdam West,212,3,4,1538,Hotel,4.1 /5,0,95,1,1-15% offer,2018,2,1,0,1
+Amsterdam,469,2.6,3.1,Amsterdam West,249,3,4,1538,Hotel,4.1 /5,0,95,0,0% no offer,2018,5,1,0,1
+Amsterdam,469,2.6,3.1,Amsterdam West,234,3,4,1538,Hotel,4.1 /5,0,95,0,0% no offer,2018,6,1,0,1
+Amsterdam,469,2.6,3.1,Amsterdam West,207,3,4,1538,Hotel,4.1 /5,0,95,1,1-15% offer,2017,11,1,0,1
+Amsterdam,469,2.6,3.1,Amsterdam West,111,3,4,1538,Hotel,4.1 /5,0,95,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,469,2.6,3.1,Amsterdam West,213,3,4,1538,Hotel,4.1 /5,0,95,1,1-15% offer,2018,1,1,0,1
+Amsterdam,469,2.6,3.1,Amsterdam West,741,3,4,1538,Hotel,4.1 /5,0,95,1,15-50% offer,2017,12,0,1,4
+Badhoevedorp,1415,5.3,5.7,Badhoevedorp,77,3,4,3684,Hotel,3.9 /5,0,96,1,15-50% offer,2017,12,0,1,1
+Badhoevedorp,1415,5.3,5.7,Badhoevedorp,103,3,4,3684,Hotel,3.9 /5,0,96,1,1-15% offer,2018,6,1,0,1
+Badhoevedorp,1415,5.3,5.7,Badhoevedorp,350,3,4,3684,Hotel,3.9 /5,0,96,1,15-50% offer,2017,12,0,1,4
+Badhoevedorp,1415,5.3,5.7,Badhoevedorp,68,3,4,3684,Hotel,3.9 /5,0,96,1,15-50% offer,2018,2,1,0,1
+Badhoevedorp,1415,5.3,5.7,Badhoevedorp,80,3,4,3684,Hotel,3.9 /5,0,96,1,15-50% offer,2017,11,0,0,1
+Badhoevedorp,1415,5.3,5.7,Badhoevedorp,68,3,4,3684,Hotel,3.9 /5,0,96,1,15-50% offer,2018,1,1,0,1
+Badhoevedorp,1415,5.3,5.7,Badhoevedorp,114,3,4,3684,Hotel,3.9 /5,0,96,0,0% no offer,2018,5,1,0,1
+Badhoevedorp,1415,5.3,5.7,Badhoevedorp,91,3,4,3684,Hotel,3.9 /5,0,96,1,15-50% offer,2017,11,1,0,1
+Badhoevedorp,958,5.3,5.7,Badhoevedorp,56,3,3.5,2237,Hotel,3.5 /5,0,97,1,15-50% offer,2018,2,1,0,1
+Badhoevedorp,958,5.3,5.7,Badhoevedorp,56,3,3.5,2237,Hotel,3.5 /5,0,97,1,15-50% offer,2018,1,1,0,1
+Badhoevedorp,232,5.7,6.1,Badhoevedorp,538,3,4,323,Hotel,4 /5,0,98,1,1-15% offer,2017,12,0,1,4
+Badhoevedorp,232,5.7,6.1,Badhoevedorp,148,3,4,323,Hotel,4 /5,0,98,1,1-15% offer,2018,4,1,0,1
+Badhoevedorp,232,5.7,6.1,Badhoevedorp,105,3,4,323,Hotel,4 /5,0,98,1,15-50% offer,2017,11,0,0,1
+Badhoevedorp,232,5.7,6.1,Badhoevedorp,105,3,4,323,Hotel,4 /5,0,98,1,15-50% offer,2017,11,1,0,1
+Badhoevedorp,232,5.7,6.1,Badhoevedorp,147,3,4,323,Hotel,4 /5,0,98,1,1-15% offer,2018,5,1,0,1
+Badhoevedorp,232,5.7,6.1,Badhoevedorp,103,3,4,323,Hotel,4 /5,0,98,1,15-50% offer,2018,6,1,0,1
+Badhoevedorp,232,5.7,6.1,Badhoevedorp,93,3,4,323,Hotel,4 /5,0,98,1,15-50% offer,2017,12,0,1,1
+Badhoevedorp,232,5.7,6.1,Badhoevedorp,125,3,4,323,Hotel,4 /5,0,98,1,15-50% offer,2018,3,1,0,1
+Badhoevedorp,232,5.7,6.1,Badhoevedorp,99,3,4,323,Hotel,4 /5,0,98,1,15-50% offer,2018,2,1,0,1
+Badhoevedorp,232,5.7,6.1,Badhoevedorp,94,3,4,323,Hotel,4 /5,0,98,1,15-50% offer,2018,1,1,0,1
+Badhoevedorp,709,5.8,6.2,Badhoevedorp,156,4,4,944,Hotel,4 /5,0,99,0,0% no offer,2018,5,1,0,1
+Badhoevedorp,709,5.8,6.2,Badhoevedorp,84,4,4,944,Hotel,4 /5,0,99,1,15-50% offer,2017,12,0,1,1
+Badhoevedorp,709,5.8,6.2,Badhoevedorp,358,4,4,944,Hotel,4 /5,0,99,1,15-50% offer,2017,12,0,1,4
+Badhoevedorp,709,5.8,6.2,Badhoevedorp,86,4,4,944,Hotel,4 /5,0,99,1,15-50% offer,2018,2,1,0,1
+Badhoevedorp,709,5.8,6.2,Badhoevedorp,86,4,4,944,Hotel,4 /5,0,99,1,15-50% offer,2017,11,1,0,1
+Badhoevedorp,709,5.8,6.2,Badhoevedorp,114,4,4,944,Hotel,4 /5,0,99,1,15-50% offer,2018,6,1,0,1
+Badhoevedorp,709,5.8,6.2,Badhoevedorp,86,4,4,944,Hotel,4 /5,0,99,1,15-50% offer,2018,1,1,0,1
+Badhoevedorp,709,5.8,6.2,Badhoevedorp,90,4,4,944,Hotel,4 /5,0,99,1,15-50% offer,2017,11,0,0,1
+Badhoevedorp,709,5.8,6.2,Badhoevedorp,289,4,4,944,Hotel,4 /5,0,99,0,0% no offer,2018,3,1,0,1
+Badhoevedorp,709,5.8,6.2,Badhoevedorp,231,4,4,944,Hotel,4 /5,0,99,0,0% no offer,2018,4,1,0,1
+Amsterdam,84,0.9,0.8,Canal Ring,112,2,3.5,223,Hotel,3.5 /5,1,100,1,15-50% offer,2017,11,0,0,1
+Amsterdam,84,0.9,0.8,Canal Ring,192,2,3.5,223,Hotel,3.5 /5,1,100,0,0% no offer,2017,12,0,1,1
+Amsterdam,38,0.5,0.5,Canal Ring,138,3,4,363,Hotel,3.9 /5,1,101,1,15-50% offer,2017,11,0,0,1
+Amsterdam,38,0.5,0.5,Canal Ring,1063,3,4,363,Hotel,3.9 /5,1,101,0,0% no offer,2017,12,0,1,4
+Amsterdam,90,0.9,0.7,Canal Ring,172,3,4,1048,Hotel,4.1 /5,1,102,1,15-50% offer,2017,12,0,1,1
+Amsterdam,90,0.9,0.7,Canal Ring,127,3,4,1048,Hotel,4.1 /5,1,102,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,791,0.5,0.5,Canal Ring,156,3,3.5,2892,Hotel,3.5 /5,0,103,1,1-15% offer,2017,12,0,1,1
+Amsterdam,791,0.5,0.5,Canal Ring,188,3,3.5,2892,Hotel,3.5 /5,0,103,1,1-15% offer,2017,11,0,0,1
+Amsterdam,791,0.5,0.5,Canal Ring,752,3,3.5,2892,Hotel,3.5 /5,0,103,1,15-50% offer,2017,12,0,1,4
+Amsterdam,93,0.4,0.5,Canal Ring,145,2,2.5,212,Hotel,3.2 /5,0,104,0,0% no offer,2017,11,0,0,1
+Amsterdam,93,0.4,0.5,Canal Ring,127,2,2.5,212,Hotel,3.2 /5,0,104,0,0% no offer,2017,12,0,1,1
+Amsterdam,93,0.4,0.5,Canal Ring,626,2,2.5,212,Hotel,3.2 /5,1,104,0,0% no offer,2017,12,0,1,4
+Amsterdam,438,0.5,0.5,Canal Ring,863,4,3.5,1820,Hotel,3.7 /5,0,105,1,15-50% offer,2017,12,0,1,4
+Amsterdam,438,0.5,0.5,Canal Ring,188,4,3.5,1820,Hotel,3.7 /5,0,105,1,1-15% offer,2017,12,0,1,1
+Amsterdam,438,0.5,0.5,Canal Ring,219,4,3.5,1820,Hotel,3.7 /5,0,105,1,1-15% offer,2017,11,0,0,1
+Amsterdam,160,0.6,1.1,Canal Ring,339,3,3,367,Hotel,2.9 /5,1,106,0,0% no offer,2018,4,1,0,1
+Amsterdam,160,0.6,1.1,Canal Ring,99,3,3,367,Hotel,2.9 /5,1,106,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,160,0.6,1.1,Canal Ring,152,3,3,367,Hotel,2.9 /5,1,106,1,15-50% offer,2018,2,1,0,1
+Amsterdam,160,0.6,1.1,Canal Ring,152,3,3,367,Hotel,2.9 /5,1,106,1,15-50% offer,2017,12,0,1,1
+Amsterdam,160,0.6,1.1,Canal Ring,222,3,3,367,Hotel,2.9 /5,1,106,0,0% no offer,2018,5,1,0,1
+Amsterdam,160,0.6,1.1,Canal Ring,746,3,3,367,Hotel,2.9 /5,1,106,1,1-15% offer,2017,12,0,1,4
+Amsterdam,160,0.6,1.1,Canal Ring,162,3,3,367,Hotel,2.9 /5,1,106,1,15-50% offer,2018,1,1,0,1
+Amsterdam,160,0.6,1.1,Canal Ring,243,3,3,367,Hotel,2.9 /5,1,106,0,0% no offer,2018,3,1,0,1
+Amsterdam,59,0.4,1,Canal Ring,994,4,4.5,110,Guest House,4.3 /5,1,107,0,0% no offer,2017,12,0,1,4
+Amsterdam,59,0.4,1,Canal Ring,172,4,4.5,110,Guest House,4.3 /5,1,107,0,0% no offer,2017,11,0,0,1
+Amsterdam,59,0.4,1,Canal Ring,231,4,4.5,110,Guest House,4.3 /5,1,107,0,0% no offer,2018,2,1,0,1
+Amsterdam,59,0.4,1,Canal Ring,231,4,4.5,110,Guest House,4.3 /5,1,107,0,0% no offer,2017,12,0,1,1
+Amsterdam,29,0.3,0.8,Canal Ring,221,3,5,119,Guest House,4.8 /5,1,108,0,0% no offer,2017,11,0,0,1
+Amsterdam,29,0.3,0.8,Canal Ring,314,3,5,119,Guest House,4.8 /5,1,108,0,0% no offer,2017,12,0,1,1
+Amsterdam,29,0.3,0.8,Canal Ring,1428,3,5,119,Guest House,4.8 /5,1,108,0,0% no offer,2017,12,0,1,4
+Amsterdam,431,0.2,0.8,Canal Ring,280,4,4.5,1233,Hotel,4.8 /5,1,109,1,15-50% offer,2018,2,1,0,1
+Amsterdam,431,0.2,0.8,Canal Ring,190,4,4.5,1233,Hotel,4.8 /5,1,109,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,431,0.2,0.8,Canal Ring,246,4,4.5,1233,Hotel,4.8 /5,1,109,1,15-50% offer,2018,1,1,0,1
+Amsterdam,143,0.2,0.8,Canal Ring,121,2,4,288,Hotel,4.1 /5,1,110,0,0% no offer,2017,11,0,0,1
+Amsterdam,143,0.2,0.8,Canal Ring,841,2,4,288,Hotel,4.1 /5,1,110,0,0% no offer,2017,12,0,1,4
+Amsterdam,280,0.3,0.8,Canal Ring,324,4,5,1140,Hotel,4.8 /5,0,111,1,15-50% offer,2017,11,0,0,1
+Amsterdam,280,0.3,0.8,Canal Ring,540,4,5,1140,Hotel,4.8 /5,1,111,0,0% no offer,2018,4,1,0,1
+Amsterdam,280,0.3,0.8,Canal Ring,1331,4,5,1140,Hotel,4.8 /5,0,111,1,15-50% offer,2017,12,0,1,4
+Amsterdam,280,0.3,0.8,Canal Ring,324,4,5,1140,Hotel,4.8 /5,0,111,1,15-50% offer,2017,12,0,1,1
+Amsterdam,280,0.3,0.8,Canal Ring,398,4,5,1140,Hotel,4.8 /5,0,111,0,0% no offer,2018,1,1,0,1
+Amsterdam,280,0.3,0.8,Canal Ring,398,4,5,1140,Hotel,4.8 /5,0,111,0,0% no offer,2018,2,1,0,1
+Amsterdam,280,0.3,0.8,Canal Ring,540,4,5,1140,Hotel,4.8 /5,1,111,0,0% no offer,2018,6,1,0,1
+Amsterdam,552,0.5,0.7,Canal Ring,544,4,4.5,2794,Hotel,4.8 /5,1,112,1,1-15% offer,2017,11,1,0,1
+Amsterdam,552,0.5,0.7,Canal Ring,323,4,4.5,2794,Hotel,4.8 /5,0,112,1,15-50% offer,2017,12,0,1,1
+Amsterdam,552,0.5,0.7,Canal Ring,1469,4,4.5,2794,Hotel,4.8 /5,0,112,1,15-50% offer,2017,12,0,1,4
+Amsterdam,552,0.5,0.7,Canal Ring,242,4,4.5,2794,Hotel,4.8 /5,0,112,1,50%-75% offer,2018,1,1,0,1
+Amsterdam,552,0.5,0.7,Canal Ring,312,4,4.5,2794,Hotel,4.8 /5,0,112,1,15-50% offer,2017,11,0,0,1
+Amsterdam,552,0.5,0.7,Canal Ring,323,4,4.5,2794,Hotel,4.8 /5,0,112,1,15-50% offer,2018,2,1,0,1
+Amsterdam,150,0.6,0.6,Canal Ring,675,5,5,1363,Hotel,4.9 /5,0,113,1,15-50% offer,2017,11,1,0,1
+Amsterdam,150,0.6,0.6,Canal Ring,557,5,5,1363,Hotel,4.9 /5,0,113,1,15-50% offer,2018,1,1,0,1
+Amsterdam,150,0.6,0.6,Canal Ring,675,5,5,1363,Hotel,4.9 /5,0,113,1,15-50% offer,2017,12,0,1,1
+Amsterdam,150,0.6,0.6,Canal Ring,864,5,5,1363,Hotel,4.9 /5,0,113,0,0% no offer,2018,6,1,0,1
+Amsterdam,150,0.6,0.6,Canal Ring,596,5,5,1363,Hotel,4.9 /5,0,113,1,15-50% offer,2018,2,1,0,1
+Amsterdam,150,0.6,0.6,Canal Ring,646,5,5,1363,Hotel,4.9 /5,0,113,1,15-50% offer,2018,3,1,0,1
+Amsterdam,150,0.6,0.6,Canal Ring,2940,5,5,1363,Hotel,4.9 /5,0,113,1,1-15% offer,2017,12,0,1,4
+Amsterdam,150,0.6,0.6,Canal Ring,1259,5,5,1363,Hotel,4.9 /5,0,113,0,0% no offer,2018,4,1,0,1
+Amsterdam,150,0.6,0.6,Canal Ring,626,5,5,1363,Hotel,4.9 /5,0,113,1,15-50% offer,2018,5,1,0,1
+Amsterdam,150,0.6,0.6,Canal Ring,577,5,5,1363,Hotel,4.9 /5,0,113,1,15-50% offer,2017,11,0,0,1
+Amsterdam,33,1,1,Canal Ring,139,3,3.5,83,Apartment,3.5 /5,1,114,1,15-50% offer,2017,11,0,0,1
+Amsterdam,190,0.3,0.9,Canal Ring,342,4,4.5,681,Hotel,4.6 /5,1,115,1,15-50% offer,2017,11,0,0,1
+Amsterdam,190,0.3,0.9,Canal Ring,506,4,4.5,681,Hotel,4.6 /5,1,115,0,0% no offer,2017,12,0,1,1
+Amsterdam,373,0.3,0.9,Canal Ring,1342,4,5,2640,Hotel,4.9 /5,1,116,1,15-50% offer,2017,12,0,1,4
+Amsterdam,373,0.3,0.9,Canal Ring,219,4,5,2640,Hotel,4.9 /5,1,116,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,373,0.3,0.9,Canal Ring,323,4,5,2640,Hotel,4.9 /5,1,116,1,15-50% offer,2017,12,0,1,1
+Amsterdam,189,0.4,0.9,Canal Ring,263,4,4,226,Hotel,4 /5,0,117,0,0% no offer,2017,12,0,1,1
+Amsterdam,189,0.4,0.9,Canal Ring,184,4,4,226,Hotel,4 /5,0,117,1,15-50% offer,2017,11,0,0,1
+Amsterdam,189,0.4,0.9,Canal Ring,1093,4,4,226,Hotel,4 /5,1,117,0,0% no offer,2017,12,0,1,4
+Amsterdam,116,0.4,0.9,Canal Ring,355,5,4.5,619,Hotel,4.8 /5,1,118,1,15-50% offer,2017,11,0,0,1
+Amsterdam,116,0.4,0.9,Canal Ring,502,5,4.5,619,Hotel,4.8 /5,0,118,1,15-50% offer,2018,5,1,0,1
+Amsterdam,116,0.4,0.9,Canal Ring,2998,5,4.5,619,Hotel,4.8 /5,1,118,0,0% no offer,2017,12,0,1,4
+Amsterdam,116,0.4,0.9,Canal Ring,404,5,4.5,619,Hotel,4.8 /5,0,118,1,15-50% offer,2018,1,1,0,1
+Amsterdam,116,0.4,0.9,Canal Ring,553,5,4.5,619,Hotel,4.8 /5,1,118,1,1-15% offer,2017,11,1,0,1
+Amsterdam,116,0.4,0.9,Canal Ring,552,5,4.5,619,Hotel,4.8 /5,1,118,1,15-50% offer,2018,6,1,0,1
+Amsterdam,116,0.4,0.9,Canal Ring,404,5,4.5,619,Hotel,4.8 /5,0,118,1,15-50% offer,2018,2,1,0,1
+Amsterdam,116,0.4,0.9,Canal Ring,407,5,4.5,619,Hotel,4.8 /5,1,118,1,15-50% offer,2017,12,0,1,1
+Amsterdam,113,0.7,0.6,Canal Ring,130,2.5,2.5,277,Hotel,3.7 /5,1,119,1,15-50% offer,2017,12,0,1,1
+Amsterdam,113,0.7,0.6,Canal Ring,110,2.5,2.5,277,Hotel,3.7 /5,1,119,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,113,0.7,0.6,Canal Ring,643,2.5,2.5,277,Hotel,3.7 /5,1,119,1,15-50% offer,2017,12,0,1,4
+Amsterdam,100,0.6,1,Canal Ring,107,2,3,295,Hotel,3 /5,1,120,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,100,0.6,1,Canal Ring,139,2,3,295,Hotel,3 /5,1,120,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,100,0.6,1,Canal Ring,907,2,3,295,Hotel,3 /5,1,120,1,15-50% offer,2017,12,0,1,4
+Amsterdam,251,0.6,1,Canal Ring,91,2,3.5,376,Hotel,3 /5,1,121,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,251,0.6,1,Canal Ring,314,2,3.5,376,Hotel,3 /5,1,121,0,0% no offer,2018,5,1,0,1
+Amsterdam,251,0.6,1,Canal Ring,100,2,3.5,376,Hotel,3 /5,1,121,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,251,0.6,1,Canal Ring,617,2,3.5,376,Hotel,3 /5,1,121,1,50%-75% offer,2017,12,0,1,4
+Amsterdam,251,0.6,1,Canal Ring,277,2,3.5,376,Hotel,3 /5,0,121,1,1-15% offer,2017,11,1,0,1
+Amsterdam,251,0.6,1,Canal Ring,190,2,3.5,376,Hotel,3 /5,0,121,1,15-50% offer,2018,1,1,0,1
+Amsterdam,251,0.6,1,Canal Ring,280,2,3.5,376,Hotel,3 /5,1,121,1,1-15% offer,2018,4,1,0,1
+Amsterdam,251,0.6,1,Canal Ring,190,2,3.5,376,Hotel,3 /5,1,121,1,15-50% offer,2018,2,1,0,1
+Amsterdam,251,0.6,1,Canal Ring,314,2,3.5,376,Hotel,3 /5,1,121,0,0% no offer,2018,3,1,0,1
+Amsterdam,251,0.6,1,Canal Ring,314,2,3.5,376,Hotel,3 /5,1,121,0,0% no offer,2018,6,1,0,1
+Amsterdam,275,0.6,1,Canal Ring,751,2.5,3,563,Hotel,3 /5,0,122,1,1-15% offer,2017,12,0,1,4
+Amsterdam,275,0.6,1,Canal Ring,114,2.5,3,563,Hotel,3 /5,0,122,1,15-50% offer,2017,12,0,1,1
+Amsterdam,275,0.6,1,Canal Ring,114,2.5,3,563,Hotel,3 /5,0,122,1,15-50% offer,2017,11,0,0,1
+Amsterdam,121,0.4,0.5,Canal Ring,146,3,3,342,Hotel,3.5 /5,1,123,1,15-50% offer,2017,12,0,1,1
+Amsterdam,121,0.4,0.5,Canal Ring,167,3,3,342,Hotel,3.5 /5,0,123,1,15-50% offer,2017,11,0,0,1
+Amsterdam,121,0.4,0.5,Canal Ring,188,3,3,342,Hotel,3.5 /5,1,123,1,1-15% offer,2018,2,1,0,1
+Amsterdam,121,0.4,0.5,Canal Ring,188,3,3,342,Hotel,3.5 /5,0,123,1,1-15% offer,2018,1,1,0,1
+Amsterdam,30,0.7,1.1,Canal Ring,185,1,3,216,Hostel,2.7 /5,1,124,0,0% no offer,2017,12,0,1,1
+Amsterdam,30,0.7,1.1,Canal Ring,116,1,3,216,Hostel,2.7 /5,1,124,0,0% no offer,2017,11,0,0,1
+Amsterdam,104,1,1,Canal Ring,764,3,4,404,Hotel,4 /5,0,125,1,1-15% offer,2017,12,0,1,4
+Amsterdam,104,1,1,Canal Ring,263,3,4,404,Hotel,4 /5,1,125,0,0% no offer,2017,11,1,0,1
+Amsterdam,104,1,1,Canal Ring,109,3,4,404,Hotel,4 /5,1,125,1,15-50% offer,2017,11,0,0,1
+Amsterdam,104,1,1,Canal Ring,134,3,4,404,Hotel,4 /5,0,125,1,15-50% offer,2017,12,0,1,1
+Amsterdam,234,0.4,0.6,Canal Ring,430,5,4.5,1556,Hotel,4.6 /5,0,126,1,15-50% offer,2017,12,0,1,1
+Amsterdam,234,0.4,0.6,Canal Ring,487,5,4.5,1556,Hotel,4.6 /5,0,126,1,1-15% offer,2018,3,1,0,1
+Amsterdam,234,0.4,0.6,Canal Ring,487,5,4.5,1556,Hotel,4.6 /5,0,126,1,1-15% offer,2018,6,1,0,1
+Amsterdam,234,0.4,0.6,Canal Ring,459,5,4.5,1556,Hotel,4.6 /5,0,126,1,1-15% offer,2018,1,1,0,1
+Amsterdam,234,0.4,0.6,Canal Ring,443,5,4.5,1556,Hotel,4.6 /5,0,126,1,15-50% offer,2017,11,0,0,1
+Amsterdam,234,0.4,0.6,Canal Ring,472,5,4.5,1556,Hotel,4.6 /5,1,126,1,1-15% offer,2017,11,1,0,1
+Amsterdam,234,0.4,0.6,Canal Ring,459,5,4.5,1556,Hotel,4.6 /5,0,126,1,1-15% offer,2018,2,1,0,1
+Amsterdam,234,0.4,0.6,Canal Ring,487,5,4.5,1556,Hotel,4.6 /5,0,126,1,1-15% offer,2018,5,1,0,1
+Amsterdam,234,0.4,0.6,Canal Ring,583,5,4.5,1556,Hotel,4.6 /5,0,126,0,0% no offer,2018,4,1,0,1
+Amsterdam,234,0.4,0.6,Canal Ring,1678,5,4.5,1556,Hotel,4.6 /5,1,126,1,1-15% offer,2017,12,0,1,4
+Amsterdam,54,0.4,0.5,Canal Ring,394,5,4.5,496,Hotel,4.5 /5,0,127,0,0% no offer,2018,6,1,0,1
+Amsterdam,54,0.4,0.5,Canal Ring,278,5,4.5,496,Hotel,4.5 /5,0,127,1,15-50% offer,2018,1,1,0,1
+Amsterdam,54,0.4,0.5,Canal Ring,456,5,4.5,496,Hotel,4.5 /5,0,127,0,0% no offer,2018,5,1,0,1
+Amsterdam,54,0.4,0.5,Canal Ring,239,5,4.5,496,Hotel,4.5 /5,0,127,1,15-50% offer,2017,12,0,1,1
+Amsterdam,54,0.4,0.5,Canal Ring,290,5,4.5,496,Hotel,4.5 /5,0,127,1,1-15% offer,2017,11,1,0,1
+Amsterdam,54,0.4,0.5,Canal Ring,1293,5,4.5,496,Hotel,4.5 /5,0,127,1,1-15% offer,2017,12,0,1,4
+Amsterdam,54,0.4,0.5,Canal Ring,284,5,4.5,496,Hotel,4.5 /5,0,127,1,15-50% offer,2018,2,1,0,1
+Amsterdam,54,0.4,0.5,Canal Ring,222,5,4.5,496,Hotel,4.5 /5,0,127,1,15-50% offer,2017,11,0,0,1
+Amsterdam,90,0.7,0.5,Canal Ring,126,2,3.5,485,Hotel,3.2 /5,1,128,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,90,0.7,0.5,Canal Ring,160,2,3.5,485,Hotel,3.2 /5,1,128,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,90,0.7,0.5,Canal Ring,937,2,3.5,485,Hotel,3.2 /5,1,128,1,15-50% offer,2017,12,0,1,4
+Amsterdam,369,0.8,0.9,Canal Ring,149,4,4,580,Hotel,4 /5,0,129,1,15-50% offer,2017,12,0,1,1
+Amsterdam,369,0.8,0.9,Canal Ring,242,4,4,580,Hotel,4 /5,0,129,1,1-15% offer,2017,11,1,0,1
+Amsterdam,369,0.8,0.9,Canal Ring,172,4,4,580,Hotel,4 /5,0,129,1,15-50% offer,2017,11,0,0,1
+Amsterdam,159,1,0.9,Canal Ring,842,3,4,232,Hotel,4 /5,0,130,1,15-50% offer,2017,12,0,1,4
+Amsterdam,159,1,0.9,Canal Ring,126,3,4,232,Hotel,4 /5,1,130,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,159,1,0.9,Canal Ring,156,3,4,232,Hotel,4 /5,0,130,1,15-50% offer,2017,12,0,1,1
+Amsterdam,179,0.8,0.8,Canal Ring,1094,3,3.5,454,Hotel,3.7 /5,1,131,0,0% no offer,2017,12,0,1,4
+Amsterdam,179,0.8,0.8,Canal Ring,228,3,3.5,454,Hotel,3.7 /5,0,131,0,0% no offer,2018,2,1,0,1
+Amsterdam,179,0.8,0.8,Canal Ring,180,3,3.5,454,Hotel,3.7 /5,1,131,1,15-50% offer,2018,1,1,0,1
+Amsterdam,179,0.8,0.8,Canal Ring,108,3,3.5,454,Hotel,3.7 /5,1,131,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,179,0.8,0.8,Canal Ring,168,3,3.5,454,Hotel,3.7 /5,0,131,1,15-50% offer,2017,12,0,1,1
+Amsterdam,317,0.8,0.7,Canal Ring,98,2,3,595,Hotel,3.2 /5,1,132,1,15-50% offer,2017,11,0,0,1
+Amsterdam,271,0.4,1,Canal Ring,1506,5,4.5,804,Hotel,4.8 /5,0,133,1,1-15% offer,2017,12,0,1,4
+Amsterdam,271,0.4,1,Canal Ring,482,5,4.5,804,Hotel,4.8 /5,0,133,1,15-50% offer,2018,3,1,0,1
+Amsterdam,271,0.4,1,Canal Ring,344,5,4.5,804,Hotel,4.8 /5,0,133,1,50%-75% offer,2018,1,1,0,1
+Amsterdam,271,0.4,1,Canal Ring,403,5,4.5,804,Hotel,4.8 /5,0,133,1,15-50% offer,2017,11,1,0,1
+Amsterdam,271,0.4,1,Canal Ring,364,5,4.5,804,Hotel,4.8 /5,0,133,1,15-50% offer,2017,11,0,0,1
+Amsterdam,271,0.4,1,Canal Ring,383,5,4.5,804,Hotel,4.8 /5,0,133,1,15-50% offer,2017,12,0,1,1
+Amsterdam,271,0.4,1,Canal Ring,492,5,4.5,804,Hotel,4.8 /5,0,133,1,15-50% offer,2018,6,1,0,1
+Amsterdam,271,0.4,1,Canal Ring,521,5,4.5,804,Hotel,4.8 /5,0,133,1,15-50% offer,2018,4,1,0,1
+Amsterdam,271,0.4,1,Canal Ring,334,5,4.5,804,Hotel,4.8 /5,0,133,1,50%-75% offer,2018,2,1,0,1
+Amsterdam,271,0.4,1,Canal Ring,541,5,4.5,804,Hotel,4.8 /5,0,133,1,15-50% offer,2018,5,1,0,1
+Amsterdam,114,0.5,1,Canal Ring,176,2,4,883,Hotel,4 /5,0,134,0,0% no offer,2017,11,0,0,1
+Amsterdam,461,0.7,1,Canal Ring,192,4,4,880,Hotel,4.3 /5,0,135,1,50%-75% offer,2018,1,1,0,1
+Amsterdam,461,0.7,1,Canal Ring,151,4,4,880,Hotel,4.3 /5,1,135,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,461,0.7,1,Canal Ring,334,4,4,880,Hotel,4.3 /5,0,135,1,1-15% offer,2018,5,1,0,1
+Amsterdam,461,0.7,1,Canal Ring,308,4,4,880,Hotel,4.3 /5,1,135,1,15-50% offer,2017,11,1,0,1
+Amsterdam,461,0.7,1,Canal Ring,156,4,4,880,Hotel,4.3 /5,0,135,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,461,0.7,1,Canal Ring,339,4,4,880,Hotel,4.3 /5,0,135,1,1-15% offer,2018,6,1,0,1
+Amsterdam,461,0.7,1,Canal Ring,820,4,4,880,Hotel,4.3 /5,1,135,1,1-15% offer,2017,12,0,1,4
+Amsterdam,461,0.7,1,Canal Ring,248,4,4,880,Hotel,4.3 /5,1,135,1,15-50% offer,2018,2,1,0,1
+Amsterdam,461,0.7,1,Canal Ring,364,4,4,880,Hotel,4.3 /5,0,135,1,1-15% offer,2018,3,1,0,1
+Amsterdam,93,0.7,1,Canal Ring,230,2,3,726,Hotel,3.5 /5,0,136,1,15-50% offer,2018,1,1,0,1
+Amsterdam,93,0.7,1,Canal Ring,106,2,3,726,Hotel,3.5 /5,0,136,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,93,0.7,1,Canal Ring,698,2,3,726,Hotel,3.5 /5,0,136,1,15-50% offer,2017,12,0,1,4
+Amsterdam,93,0.7,1,Canal Ring,98,2,3,726,Hotel,3.5 /5,1,136,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,93,0.7,1,Canal Ring,214,2,3,726,Hotel,3.5 /5,0,136,1,15-50% offer,2017,11,1,0,1
+Amsterdam,180,0.5,1,Canal Ring,380,5,4.5,1994,Hotel,4.8 /5,0,137,1,50%-75% offer,2017,11,1,0,1
+Amsterdam,180,0.5,1,Canal Ring,363,5,4.5,1994,Hotel,4.8 /5,1,137,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,180,0.5,1,Canal Ring,1207,5,4.5,1994,Hotel,4.8 /5,1,137,0,0% no offer,2018,3,1,0,1
+Amsterdam,180,0.5,1,Canal Ring,358,5,4.5,1994,Hotel,4.8 /5,0,137,1,50%-75% offer,2018,1,1,0,1
+Amsterdam,180,0.5,1,Canal Ring,474,5,4.5,1994,Hotel,4.8 /5,0,137,1,15-50% offer,2018,6,1,0,1
+Amsterdam,180,0.5,1,Canal Ring,358,5,4.5,1994,Hotel,4.8 /5,1,137,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,180,0.5,1,Canal Ring,2249,5,4.5,1994,Hotel,4.8 /5,0,137,1,15-50% offer,2017,12,0,1,4
+Amsterdam,180,0.5,1,Canal Ring,518,5,4.5,1994,Hotel,4.8 /5,0,137,1,15-50% offer,2018,5,1,0,1
+Amsterdam,180,0.5,1,Canal Ring,402,5,4.5,1994,Hotel,4.8 /5,0,137,1,50%-75% offer,2018,2,1,0,1
+Amsterdam,11,0.6,1,Canal Ring,377,5,4.5,449,Hotel,4.3 /5,1,138,0,0% no offer,2017,11,1,0,1
+Amsterdam,11,0.6,1,Canal Ring,377,5,4.5,449,Hotel,4.3 /5,1,138,0,0% no offer,2017,11,0,0,1
+Amsterdam,19,0.8,0.7,Canal Ring,98,1,2.5,44,Hotel,2.9 /5,1,139,1,15-50% offer,2017,11,0,0,1
+Amsterdam,39,1.1,0.8,Canal Ring,444,5,4.5,996,Hotel,4.5 /5,0,140,1,15-50% offer,2018,2,1,0,1
+Amsterdam,39,1.1,0.8,Canal Ring,587,5,4.5,996,Hotel,4.5 /5,0,140,1,1-15% offer,2018,5,1,0,1
+Amsterdam,39,1.1,0.8,Canal Ring,587,5,4.5,996,Hotel,4.5 /5,0,140,1,1-15% offer,2018,6,1,0,1
+Amsterdam,39,1.1,0.8,Canal Ring,641,5,4.5,996,Hotel,4.5 /5,0,140,0,0% no offer,2018,4,1,0,1
+Amsterdam,39,1.1,0.8,Canal Ring,413,5,4.5,996,Hotel,4.5 /5,0,140,1,15-50% offer,2017,11,0,0,1
+Amsterdam,39,1.1,0.8,Canal Ring,733,5,4.5,996,Hotel,4.5 /5,0,140,0,0% no offer,2018,3,1,0,1
+Amsterdam,39,1.1,0.8,Canal Ring,469,5,4.5,996,Hotel,4.5 /5,0,140,1,15-50% offer,2017,11,1,0,1
+Amsterdam,39,1.1,0.8,Canal Ring,2028,5,4.5,996,Hotel,4.5 /5,0,140,1,15-50% offer,2017,12,0,1,4
+Amsterdam,39,1.1,0.8,Canal Ring,444,5,4.5,996,Hotel,4.5 /5,0,140,1,15-50% offer,2018,1,1,0,1
+Amsterdam,39,1.1,0.8,Canal Ring,444,5,4.5,996,Hotel,4.5 /5,0,140,1,15-50% offer,2017,12,0,1,1
+Amsterdam,183,0.2,0.8,Canal Ring,162,2,3,681,Hotel,2.7 /5,1,141,0,0% no offer,2017,12,0,1,1
+Amsterdam,183,0.2,0.8,Canal Ring,138,2,3,681,Hotel,2.7 /5,1,141,0,0% no offer,2017,11,0,0,1
+Amsterdam,20,0.3,0.8,Canal Ring,118,2.5,3.5,123,Hotel,3 /5,1,142,1,1-15% offer,2017,12,0,1,1
+Amsterdam,20,0.3,0.8,Canal Ring,133,2.5,3.5,123,Hotel,3 /5,1,142,0,0% no offer,2017,11,0,0,1
+Amsterdam,193,0.3,0.8,Canal Ring,81,2.5,2.5,173,Hotel,3 /5,1,143,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,193,0.3,0.8,Canal Ring,103,2.5,2.5,173,Hotel,3 /5,1,143,1,15-50% offer,2017,12,0,1,1
+Amsterdam,225,0.3,0.8,Canal Ring,138,2,4.5,1046,Hotel,4.5 /5,1,144,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,225,0.3,0.8,Canal Ring,161,2,4.5,1046,Hotel,4.5 /5,1,144,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,225,0.3,0.9,Canal Ring,146,2,4,4019,Hotel,3.5 /5,1,145,1,1-15% offer,2017,11,0,0,1
+Amsterdam,225,0.3,0.9,Canal Ring,858,2,4,4019,Hotel,3.5 /5,1,145,1,1-15% offer,2017,12,0,1,4
+Amsterdam,225,0.3,0.9,Canal Ring,110,2,4,4019,Hotel,3.5 /5,1,145,1,15-50% offer,2017,12,0,1,1
+Amsterdam,252,0.5,0.5,Canal Ring,188,4,4,995,Hotel,3.9 /5,0,146,1,15-50% offer,2017,12,0,1,1
+Amsterdam,252,0.5,0.5,Canal Ring,188,4,4,995,Hotel,3.9 /5,0,146,1,15-50% offer,2017,11,0,0,1
+Amsterdam,252,0.5,0.5,Canal Ring,887,4,4,995,Hotel,3.9 /5,0,146,1,15-50% offer,2017,12,0,1,4
+Amsterdam,112,0.5,0.6,Canal Ring,180,1,3.5,298,Hotel,3.5 /5,1,147,1,15-50% offer,2018,4,1,0,1
+Amsterdam,112,0.5,0.6,Canal Ring,160,1,3.5,298,Hotel,3.5 /5,0,147,1,15-50% offer,2017,12,0,1,1
+Amsterdam,112,0.5,0.6,Canal Ring,180,1,3.5,298,Hotel,3.5 /5,0,147,1,15-50% offer,2018,6,1,0,1
+Amsterdam,112,0.5,0.6,Canal Ring,96,1,3.5,298,Hotel,3.5 /5,1,147,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,112,0.5,0.6,Canal Ring,180,1,3.5,298,Hotel,3.5 /5,1,147,1,15-50% offer,2018,3,1,0,1
+Amsterdam,112,0.5,0.6,Canal Ring,180,1,3.5,298,Hotel,3.5 /5,0,147,1,15-50% offer,2018,5,1,0,1
+Amsterdam,112,0.5,0.6,Canal Ring,881,1,3.5,298,Hotel,3.5 /5,1,147,1,1-15% offer,2017,12,0,1,4
+Amsterdam,265,0.5,0.6,Canal Ring,912,4,4,1609,Hotel,3.7 /5,0,148,1,15-50% offer,2017,12,0,1,4
+Amsterdam,265,0.5,0.6,Canal Ring,177,4,4,1609,Hotel,3.7 /5,0,148,1,15-50% offer,2017,11,0,0,1
+Amsterdam,265,0.5,0.6,Canal Ring,276,4,4,1609,Hotel,3.7 /5,0,148,0,0% no offer,2017,11,1,0,1
+Amsterdam,260,0.5,0.6,Canal Ring,795,4,3.5,232,Hotel,3.5 /5,0,149,1,1-15% offer,2017,12,0,1,4
+Amsterdam,260,0.5,0.6,Canal Ring,202,4,3.5,232,Hotel,3.5 /5,1,149,1,50%-75% offer,2018,2,1,0,1
+Amsterdam,260,0.5,0.6,Canal Ring,326,4,3.5,232,Hotel,3.5 /5,1,149,1,15-50% offer,2018,4,1,0,1
+Amsterdam,260,0.5,0.6,Canal Ring,261,4,3.5,232,Hotel,3.5 /5,1,149,1,15-50% offer,2017,11,1,0,1
+Amsterdam,260,0.5,0.6,Canal Ring,147,4,3.5,232,Hotel,3.5 /5,0,149,1,1-15% offer,2017,12,0,1,1
+Amsterdam,260,0.5,0.6,Canal Ring,261,4,3.5,232,Hotel,3.5 /5,1,149,1,15-50% offer,2018,6,1,0,1
+Amsterdam,260,0.5,0.6,Canal Ring,322,4,3.5,232,Hotel,3.5 /5,1,149,1,15-50% offer,2018,3,1,0,1
+Amsterdam,260,0.5,0.6,Canal Ring,186,4,3.5,232,Hotel,3.5 /5,1,149,1,50%-75% offer,2018,1,1,0,1
+Amsterdam,260,0.5,0.6,Canal Ring,394,4,3.5,232,Hotel,3.5 /5,1,149,1,1-15% offer,2018,5,1,0,1
+Amsterdam,260,0.5,0.6,Canal Ring,145,4,3.5,232,Hotel,3.5 /5,1,149,1,15-50% offer,2017,11,0,0,1
+Amsterdam,227,0.5,0.6,Canal Ring,122,2,3,485,Hotel,3 /5,1,150,1,1-15% offer,2017,11,0,0,1
+Amsterdam,227,0.5,0.6,Canal Ring,116,2,3,485,Hotel,3 /5,1,150,1,1-15% offer,2017,12,0,1,1
+Amsterdam,94,0.3,0.6,Canal Ring,94,2,2.5,276,Hotel,2.2 /5,0,151,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,94,0.3,0.6,Canal Ring,204,2,2.5,276,Hotel,2.2 /5,0,151,1,15-50% offer,2018,1,1,0,1
+Amsterdam,94,0.3,0.6,Canal Ring,544,2,2.5,276,Hotel,2.2 /5,0,151,1,50%-75% offer,2017,12,0,1,4
+Amsterdam,94,0.3,0.6,Canal Ring,221,2,2.5,276,Hotel,2.2 /5,0,151,1,15-50% offer,2018,2,1,0,1
+Amsterdam,94,0.3,0.6,Canal Ring,90,2,2.5,276,Hotel,2.2 /5,1,151,1,75%+ offer,2017,11,0,0,1
+Amsterdam,97,0.3,0.6,Canal Ring,148,2,3.5,180,Hotel,3.5 /5,1,152,1,15-50% offer,2017,12,0,1,1
+Amsterdam,97,0.3,0.6,Canal Ring,773,2,3.5,180,Hotel,3.5 /5,1,152,1,1-15% offer,2017,12,0,1,4
+Amsterdam,97,0.3,0.6,Canal Ring,160,2,3.5,180,Hotel,3.5 /5,1,152,1,15-50% offer,2017,11,0,0,1
+Amsterdam,50,1.1,0.9,Canal Ring,1079,3,4.5,110,Guest House,4.3 /5,1,153,0,0% no offer,2017,12,0,1,4
+Amsterdam,48,1.1,0.9,Canal Ring,153,2,3.5,749,Hotel,3.5 /5,1,154,0,0% no offer,2017,12,0,1,1
+Amsterdam,48,1.1,0.9,Canal Ring,89,2,3.5,749,Hotel,3.5 /5,1,154,1,15-50% offer,2017,11,0,0,1
+Amsterdam,48,1.1,0.9,Canal Ring,146,2,3.5,749,Hotel,3.5 /5,1,154,0,0% no offer,2018,1,1,0,1
+Amsterdam,48,1.1,0.9,Canal Ring,185,2,3.5,749,Hotel,3.5 /5,1,154,0,0% no offer,2018,2,1,0,1
+Amsterdam,523,0.2,0.7,Canal Ring,1358,4,4.5,3988,Hotel,4.6 /5,1,155,1,15-50% offer,2017,12,0,1,4
+Amsterdam,523,0.2,0.7,Canal Ring,394,4,4.5,3988,Hotel,4.6 /5,0,155,1,15-50% offer,2018,6,1,0,1
+Amsterdam,523,0.2,0.7,Canal Ring,383,4,4.5,3988,Hotel,4.6 /5,0,155,1,15-50% offer,2018,3,1,0,1
+Amsterdam,523,0.2,0.7,Canal Ring,435,4,4.5,3988,Hotel,4.6 /5,0,155,1,1-15% offer,2018,5,1,0,1
+Amsterdam,523,0.2,0.7,Canal Ring,406,4,4.5,3988,Hotel,4.6 /5,1,155,1,1-15% offer,2017,11,1,0,1
+Amsterdam,523,0.2,0.7,Canal Ring,267,4,4.5,3988,Hotel,4.6 /5,0,155,1,15-50% offer,2018,1,1,0,1
+Amsterdam,523,0.2,0.7,Canal Ring,272,4,4.5,3988,Hotel,4.6 /5,0,155,1,15-50% offer,2017,12,0,1,1
+Amsterdam,523,0.2,0.7,Canal Ring,284,4,4.5,3988,Hotel,4.6 /5,0,155,1,15-50% offer,2018,2,1,0,1
+Amsterdam,523,0.2,0.7,Canal Ring,458,4,4.5,3988,Hotel,4.6 /5,0,155,0,0% no offer,2018,4,1,0,1
+Amsterdam,8,0.4,0.8,Canal Ring,2090,4,4.5,109,Apartment,4.4 /5,1,156,0,0% no offer,2017,12,0,1,4
+Amsterdam,8,0.4,0.8,Canal Ring,388,4,4.5,109,Apartment,4.4 /5,1,156,0,0% no offer,2017,11,0,0,1
+Amsterdam,8,0.4,0.8,Canal Ring,529,4,4.5,109,Apartment,4.4 /5,1,156,0,0% no offer,2018,3,1,0,1
+Amsterdam,34,0.4,0.8,Canal Ring,107,2,2.5,205,Hotel,2.5 /5,1,157,1,15-50% offer,2017,11,0,0,1
+Amsterdam,34,0.4,0.8,Canal Ring,130,2,2.5,205,Hotel,2.5 /5,1,157,1,15-50% offer,2017,12,0,1,1
+Amsterdam,116,0.4,0.8,Canal Ring,522,2,3,317,Hotel,2.9 /5,1,158,0,0% no offer,2018,2,1,0,1
+Amsterdam,116,0.4,0.8,Canal Ring,522,2,3,317,Hotel,2.9 /5,1,158,0,0% no offer,2018,1,1,0,1
+Amsterdam,116,0.4,0.8,Canal Ring,141,2,3,317,Hotel,2.9 /5,0,158,1,1-15% offer,2017,11,0,0,1
+Amsterdam,116,0.4,0.8,Canal Ring,213,2,3,317,Hotel,2.9 /5,1,158,0,0% no offer,2017,12,0,1,1
+Amsterdam,526,0.3,0.7,Canal Ring,254,4,4,1056,Hotel,4 /5,0,159,1,15-50% offer,2018,2,1,0,1
+Amsterdam,526,0.3,0.7,Canal Ring,975,4,4,1056,Hotel,4 /5,0,159,1,15-50% offer,2017,12,0,1,4
+Amsterdam,526,0.3,0.7,Canal Ring,206,4,4,1056,Hotel,4 /5,0,159,1,15-50% offer,2017,12,0,1,1
+Amsterdam,526,0.3,0.7,Canal Ring,203,4,4,1056,Hotel,4 /5,0,159,1,15-50% offer,2017,11,0,0,1
+Amsterdam,38,0.6,0.6,Canal Ring,145,2.5,4,308,Hotel,3.5 /5,1,160,0,0% no offer,2017,11,0,0,1
+Amsterdam,41,0.5,0.6,Canal Ring,261,2,4,268,Hotel,3.7 /5,1,161,0,0% no offer,2017,12,0,1,1
+Amsterdam,41,0.5,0.6,Canal Ring,223,2,4,268,Hotel,3.7 /5,1,161,1,1-15% offer,2017,11,0,0,1
+Amsterdam,41,0.5,0.6,Canal Ring,1136,2,4,268,Hotel,3.7 /5,1,161,1,1-15% offer,2017,12,0,1,4
+Amsterdam,493,0.5,0.7,Canal Ring,178,4,3.5,2523,Hotel,3.5 /5,0,167,1,15-50% offer,2017,12,0,1,1
+Amsterdam,493,0.5,0.7,Canal Ring,887,4,3.5,2523,Hotel,3.5 /5,0,167,1,15-50% offer,2017,12,0,1,4
+Amsterdam,493,0.5,0.7,Canal Ring,214,4,3.5,2523,Hotel,3.5 /5,0,167,1,15-50% offer,2017,11,0,0,1
+Amsterdam,493,0.5,0.7,Canal Ring,276,4,3.5,2523,Hotel,3.5 /5,0,167,1,1-15% offer,2017,11,1,0,1
+Amsterdam,353,0.5,0.7,Canal Ring,347,4,4.5,114,Hotel,4 /5,0,168,0,0% no offer,2018,5,1,0,1
+Amsterdam,353,0.5,0.7,Canal Ring,993,4,4.5,114,Hotel,4 /5,0,168,1,15-50% offer,2017,12,0,1,4
+Amsterdam,353,0.5,0.7,Canal Ring,347,4,4.5,114,Hotel,4 /5,0,168,0,0% no offer,2018,4,1,0,1
+Amsterdam,353,0.5,0.7,Canal Ring,300,4,4.5,114,Hotel,4 /5,0,168,1,1-15% offer,2018,6,1,0,1
+Amsterdam,353,0.5,0.7,Canal Ring,242,4,4.5,114,Hotel,4 /5,0,168,1,15-50% offer,2018,2,1,0,1
+Amsterdam,353,0.5,0.7,Canal Ring,254,4,4.5,114,Hotel,4 /5,0,168,1,15-50% offer,2017,11,1,0,1
+Amsterdam,353,0.5,0.7,Canal Ring,184,4,4.5,114,Hotel,4 /5,0,168,1,15-50% offer,2017,12,0,1,1
+Amsterdam,353,0.5,0.7,Canal Ring,184,4,4.5,114,Hotel,4 /5,0,168,1,15-50% offer,2017,11,0,0,1
+Amsterdam,353,0.5,0.7,Canal Ring,242,4,4.5,114,Hotel,4 /5,0,168,1,15-50% offer,2018,1,1,0,1
+Amsterdam,98,0.6,0.8,Canal Ring,926,3,4,152,Hotel,3.9 /5,0,169,1,15-50% offer,2017,12,0,1,4
+Amsterdam,98,0.6,0.8,Canal Ring,329,3,4,152,Hotel,3.9 /5,1,169,0,0% no offer,2018,3,1,0,1
+Amsterdam,98,0.6,0.8,Canal Ring,256,3,4,152,Hotel,3.9 /5,0,169,1,1-15% offer,2017,11,1,0,1
+Amsterdam,98,0.6,0.8,Canal Ring,170,3,4,152,Hotel,3.9 /5,0,169,1,15-50% offer,2017,12,0,1,1
+Amsterdam,98,0.6,0.8,Canal Ring,414,3,4,152,Hotel,3.9 /5,1,169,0,0% no offer,2018,4,1,0,1
+Amsterdam,98,0.6,0.8,Canal Ring,354,3,4,152,Hotel,3.9 /5,1,169,0,0% no offer,2018,6,1,0,1
+Amsterdam,98,0.6,0.8,Canal Ring,207,3,4,152,Hotel,3.9 /5,1,169,1,15-50% offer,2018,2,1,0,1
+Amsterdam,98,0.6,0.8,Canal Ring,207,3,4,152,Hotel,3.9 /5,1,169,1,15-50% offer,2018,1,1,0,1
+Amsterdam,98,0.6,0.8,Canal Ring,134,3,4,152,Hotel,3.9 /5,1,169,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,98,0.6,0.8,Canal Ring,354,3,4,152,Hotel,3.9 /5,1,169,0,0% no offer,2018,5,1,0,1
+Amsterdam,95,0.9,0.6,Canal Ring,193,4,4.5,371,Hotel,4.8 /5,1,170,0,0% no offer,2017,12,0,1,1
+Amsterdam,95,0.9,0.6,Canal Ring,960,4,4.5,371,Hotel,4.8 /5,0,170,0,0% no offer,2017,12,0,1,4
+Amsterdam,95,0.9,0.6,Canal Ring,215,4,4.5,371,Hotel,4.8 /5,1,170,0,0% no offer,2017,11,0,0,1
+Amsterdam,407,1.1,1,Canal Ring,1054,4,4.5,1003,Hotel,4.3 /5,0,171,1,15-50% offer,2017,12,0,1,4
+Amsterdam,407,1.1,1,Canal Ring,187,4,4.5,1003,Hotel,4.3 /5,1,171,1,15-50% offer,2017,12,0,1,1
+Amsterdam,407,1.1,1,Canal Ring,178,4,4.5,1003,Hotel,4.3 /5,1,171,1,15-50% offer,2017,11,0,0,1
+Amsterdam,407,1.1,1,Canal Ring,304,4,4.5,1003,Hotel,4.3 /5,1,171,1,1-15% offer,2018,6,1,0,1
+Amsterdam,407,1.1,1,Canal Ring,220,4,4.5,1003,Hotel,4.3 /5,1,171,1,15-50% offer,2018,2,1,0,1
+Amsterdam,407,1.1,1,Canal Ring,326,4,4.5,1003,Hotel,4.3 /5,0,171,1,1-15% offer,2018,1,1,0,1
+Amsterdam,407,1.1,1,Canal Ring,335,4,4.5,1003,Hotel,4.3 /5,0,171,1,1-15% offer,2017,11,1,0,1
+Amsterdam,407,1.1,1,Canal Ring,342,4,4.5,1003,Hotel,4.3 /5,1,171,0,0% no offer,2018,5,1,0,1
+Amsterdam,326,1,0.9,Canal Ring,138,3,4,1216,Hotel,4 /5,1,172,1,15-50% offer,2017,11,0,0,1
+Amsterdam,20,1,1,Canal Ring,180,4,4.5,486,Hotel,4.4 /5,1,173,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,20,1,1,Canal Ring,1391,4,4.5,486,Hotel,4.4 /5,1,173,1,1-15% offer,2017,12,0,1,4
+Amsterdam,20,1,1,Canal Ring,289,4,4.5,486,Hotel,4.4 /5,1,173,1,15-50% offer,2017,12,0,1,1
+Amsterdam,182,1,1,Canal Ring,1184,4,4.5,486,Hotel,4.3 /5,1,174,0,0% no offer,2017,12,0,1,4
+Amsterdam,182,1,1,Canal Ring,185,4,4.5,486,Hotel,4.3 /5,1,174,1,15-50% offer,2017,11,0,0,1
+Amsterdam,182,1,1,Canal Ring,275,4,4.5,486,Hotel,4.3 /5,1,174,0,0% no offer,2017,12,0,1,1
+Amsterdam,10,0.2,0.4,Dam Square - Central Station,126,3,3,1640,Hotel,3.4 /5,0,175,0,0% no offer,2017,12,0,1,1
+Amsterdam,10,0.2,0.4,Dam Square - Central Station,176,3,3,1640,Hotel,3.4 /5,1,175,0,0% no offer,2018,2,1,0,1
+Amsterdam,10,0.2,0.4,Dam Square - Central Station,124,3,3,1640,Hotel,3.4 /5,0,175,0,0% no offer,2017,11,0,0,1
+Amsterdam,10,0.2,0.4,Dam Square - Central Station,176,3,3,1640,Hotel,3.4 /5,1,175,0,0% no offer,2018,1,1,0,1
+Amsterdam,75,0.2,0.4,Dam Square - Central Station,139,1,2.5,338,Hotel,2.5 /5,1,176,0,0% no offer,2017,11,0,0,1
+Amsterdam,75,0.2,0.4,Dam Square - Central Station,145,1,2.5,338,Hotel,2.5 /5,1,176,0,0% no offer,2017,12,0,1,1
+Amsterdam,72,0.2,0.4,Dam Square - Central Station,106,1.5,2.5,642,Hostel,2.7 /5,1,177,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,72,0.2,0.4,Dam Square - Central Station,202,1.5,2.5,642,Hostel,2.7 /5,1,177,1,15-50% offer,2017,11,1,0,1
+Amsterdam,72,0.2,0.4,Dam Square - Central Station,285,1.5,2.5,642,Hostel,2.7 /5,1,177,1,15-50% offer,2018,1,1,0,1
+Amsterdam,72,0.2,0.4,Dam Square - Central Station,127,1.5,2.5,642,Hostel,2.7 /5,1,177,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,180,0.1,0.5,Dam Square - Central Station,392,5,4,1699,Hotel,4.3 /5,0,178,1,15-50% offer,2017,11,1,0,1
+Amsterdam,180,0.1,0.5,Dam Square - Central Station,1168,5,4,1699,Hotel,4.3 /5,0,178,1,15-50% offer,2017,12,0,1,4
+Amsterdam,180,0.1,0.5,Dam Square - Central Station,259,5,4,1699,Hotel,4.3 /5,0,178,1,15-50% offer,2017,11,0,0,1
+Amsterdam,180,0.1,0.5,Dam Square - Central Station,229,5,4,1699,Hotel,4.3 /5,0,178,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,180,0.1,0.5,Dam Square - Central Station,286,5,4,1699,Hotel,4.3 /5,0,178,1,15-50% offer,2018,1,1,0,1
+Amsterdam,454,0.1,0.5,Dam Square - Central Station,208,4,4,981,Hotel,4 /5,0,179,1,15-50% offer,2017,12,0,1,1
+Amsterdam,454,0.1,0.5,Dam Square - Central Station,219,4,4,981,Hotel,4 /5,0,179,1,15-50% offer,2018,1,1,0,1
+Amsterdam,454,0.1,0.5,Dam Square - Central Station,354,4,4,981,Hotel,4 /5,0,179,0,0% no offer,2017,11,1,0,1
+Amsterdam,454,0.1,0.5,Dam Square - Central Station,315,4,4,981,Hotel,4 /5,0,179,0,0% no offer,2018,2,1,0,1
+Amsterdam,454,0.1,0.5,Dam Square - Central Station,427,4,4,981,Hotel,4 /5,0,179,0,0% no offer,2018,5,1,0,1
+Amsterdam,454,0.1,0.5,Dam Square - Central Station,838,4,4,981,Hotel,4 /5,0,179,1,15-50% offer,2017,12,0,1,4
+Amsterdam,454,0.1,0.5,Dam Square - Central Station,243,4,4,981,Hotel,4 /5,0,179,1,15-50% offer,2017,11,0,0,1
+Amsterdam,454,0.1,0.5,Dam Square - Central Station,365,4,4,981,Hotel,4 /5,0,179,0,0% no offer,2018,6,1,0,1
+Amsterdam,619,0.1,0.5,Dam Square - Central Station,239,4,4.5,683,Hotel,4.3 /5,0,180,1,1-15% offer,2018,1,1,0,1
+Amsterdam,619,0.1,0.5,Dam Square - Central Station,218,4,4.5,683,Hotel,4.3 /5,0,180,1,1-15% offer,2017,12,0,1,1
+Amsterdam,619,0.1,0.5,Dam Square - Central Station,458,4,4.5,683,Hotel,4.3 /5,0,180,1,1-15% offer,2018,4,1,0,1
+Amsterdam,619,0.1,0.5,Dam Square - Central Station,1186,4,4.5,683,Hotel,4.3 /5,0,180,1,1-15% offer,2017,12,0,1,4
+Amsterdam,619,0.1,0.5,Dam Square - Central Station,291,4,4.5,683,Hotel,4.3 /5,0,180,1,1-15% offer,2018,2,1,0,1
+Amsterdam,619,0.1,0.5,Dam Square - Central Station,197,4,4.5,683,Hotel,4.3 /5,0,180,1,1-15% offer,2017,11,0,0,1
+Amsterdam,619,0.1,0.5,Dam Square - Central Station,375,4,4.5,683,Hotel,4.3 /5,0,180,1,1-15% offer,2018,3,1,0,1
+Amsterdam,158,0.1,0.5,Dam Square - Central Station,203,2,3.5,485,Hotel,3.5 /5,0,181,1,15-50% offer,2017,12,0,1,1
+Amsterdam,158,0.1,0.5,Dam Square - Central Station,938,2,3.5,485,Hotel,3.5 /5,0,181,1,1-15% offer,2017,12,0,1,4
+Amsterdam,158,0.1,0.5,Dam Square - Central Station,209,2,3.5,485,Hotel,3.5 /5,0,181,1,15-50% offer,2017,11,0,0,1
+Amsterdam,54,0.1,0.5,Dam Square - Central Station,162,3.5,3.5,811,Hotel,3.4 /5,1,182,1,15-50% offer,2017,11,0,0,1
+Amsterdam,374,0.1,0.6,Dam Square - Central Station,207,3,4,844,Hotel,3.9 /5,1,183,0,0% no offer,2018,2,1,0,1
+Amsterdam,374,0.1,0.6,Dam Square - Central Station,190,3,4,844,Hotel,3.9 /5,1,183,0,0% no offer,2017,12,0,1,1
+Amsterdam,10,0.4,0.4,Dam Square - Central Station,203,3,4,14,Bed and breakfast,4.5 /5,1,184,1,1-15% offer,2017,11,0,0,1
+Amsterdam,560,0.4,0.4,Dam Square - Central Station,87,2.5,2.5,428,Hotel,2.7 /5,0,185,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,560,0.4,0.4,Dam Square - Central Station,197,2.5,2.5,428,Hotel,2.7 /5,0,185,0,0% no offer,2017,12,0,1,1
+Amsterdam,560,0.4,0.4,Dam Square - Central Station,956,2.5,2.5,428,Hotel,2.7 /5,0,185,1,1-15% offer,2017,12,0,1,4
+Amsterdam,2,0.2,0.5,Dam Square - Central Station,2096,3.5,5,3,Apartment,5 /5,1,186,0,0% no offer,2017,12,0,1,4
+Amsterdam,11,0.2,0.5,Dam Square - Central Station,1312,4,4.5,1023,Hotel,4.5 /5,0,187,1,1-15% offer,2017,12,0,1,4
+Amsterdam,11,0.2,0.5,Dam Square - Central Station,278,4,4.5,1023,Hotel,4.5 /5,0,187,0,0% no offer,2017,12,0,1,1
+Amsterdam,1130,0.1,0.5,Dam Square - Central Station,192,3,4,2429,Hotel,4 /5,1,188,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,1130,0.1,0.5,Dam Square - Central Station,192,3,4,2429,Hotel,4 /5,1,188,1,50%-75% offer,2018,1,1,0,1
+Amsterdam,1130,0.1,0.5,Dam Square - Central Station,192,3,4,2429,Hotel,4 /5,1,188,1,50%-75% offer,2018,2,1,0,1
+Amsterdam,1130,0.1,0.5,Dam Square - Central Station,169,3,4,2429,Hotel,4 /5,1,188,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,43,0.1,0.6,Dam Square - Central Station,175,1,4,428,Hotel,3.7 /5,0,189,1,1-15% offer,2017,11,0,0,1
+Amsterdam,43,0.1,0.6,Dam Square - Central Station,767,1,4,428,Hotel,3.7 /5,1,189,0,0% no offer,2017,12,0,1,4
+Amsterdam,43,0.1,0.6,Dam Square - Central Station,175,1,4,428,Hotel,3.7 /5,1,189,1,1-15% offer,2017,12,0,1,1
+Amsterdam,666,0.1,0.6,Dam Square - Central Station,197,4,4,1911,Hotel,4 /5,1,190,1,15-50% offer,2017,12,0,1,1
+Amsterdam,666,0.1,0.6,Dam Square - Central Station,219,4,4,1911,Hotel,4 /5,0,190,1,15-50% offer,2018,1,1,0,1
+Amsterdam,666,0.1,0.6,Dam Square - Central Station,207,4,4,1911,Hotel,4 /5,0,190,1,15-50% offer,2017,11,0,0,1
+Amsterdam,666,0.1,0.6,Dam Square - Central Station,870,4,4,1911,Hotel,4 /5,1,190,1,1-15% offer,2017,12,0,1,4
+Amsterdam,236,0.2,0.7,Dam Square - Central Station,156,3,4,1048,Hotel,3.7 /5,1,191,1,15-50% offer,2017,11,0,0,1
+Amsterdam,236,0.2,0.7,Dam Square - Central Station,203,3,4,1048,Hotel,3.7 /5,1,191,1,15-50% offer,2017,12,0,1,1
+Amsterdam,240,0.5,0.2,Dam Square - Central Station,411,5,5,259,Hotel,4.8 /5,0,192,1,15-50% offer,2018,2,1,0,1
+Amsterdam,240,0.5,0.2,Dam Square - Central Station,430,5,5,259,Hotel,4.8 /5,0,192,1,15-50% offer,2018,6,1,0,1
+Amsterdam,240,0.5,0.2,Dam Square - Central Station,411,5,5,259,Hotel,4.8 /5,0,192,1,15-50% offer,2018,3,1,0,1
+Amsterdam,240,0.5,0.2,Dam Square - Central Station,363,5,5,259,Hotel,4.8 /5,1,192,1,15-50% offer,2017,12,0,1,1
+Amsterdam,240,0.5,0.2,Dam Square - Central Station,374,5,5,259,Hotel,4.8 /5,0,192,1,15-50% offer,2017,11,0,0,1
+Amsterdam,240,0.5,0.2,Dam Square - Central Station,424,5,5,259,Hotel,4.8 /5,1,192,1,15-50% offer,2017,11,1,0,1
+Amsterdam,240,0.5,0.2,Dam Square - Central Station,440,5,5,259,Hotel,4.8 /5,0,192,1,15-50% offer,2018,5,1,0,1
+Amsterdam,240,0.5,0.2,Dam Square - Central Station,440,5,5,259,Hotel,4.8 /5,0,192,1,15-50% offer,2018,4,1,0,1
+Amsterdam,240,0.5,0.2,Dam Square - Central Station,411,5,5,259,Hotel,4.8 /5,0,192,1,15-50% offer,2018,1,1,0,1
+Amsterdam,240,0.5,0.2,Dam Square - Central Station,2281,5,5,259,Hotel,4.8 /5,1,192,1,1-15% offer,2017,12,0,1,4
+Amsterdam,109,0.2,0.3,Dam Square - Central Station,104,2,3,453,Hostel,3.2 /5,1,193,0,0% no offer,2017,11,0,0,1
+Amsterdam,109,0.2,0.3,Dam Square - Central Station,917,2,3,453,Hostel,3.2 /5,1,193,0,0% no offer,2017,12,0,1,4
+Amsterdam,109,0.2,0.3,Dam Square - Central Station,104,2,3,453,Hostel,3.2 /5,1,193,0,0% no offer,2017,12,0,1,1
+Amsterdam,151,0.3,0.3,Dam Square - Central Station,156,1,3.5,297,Hotel,3 /5,0,194,1,1-15% offer,2018,1,1,0,1
+Amsterdam,151,0.3,0.3,Dam Square - Central Station,156,1,3.5,297,Hotel,3 /5,1,194,1,1-15% offer,2018,5,1,0,1
+Amsterdam,151,0.3,0.3,Dam Square - Central Station,156,1,3.5,297,Hotel,3 /5,1,194,1,1-15% offer,2018,4,1,0,1
+Amsterdam,151,0.3,0.3,Dam Square - Central Station,127,1,3.5,297,Hotel,3 /5,1,194,1,15-50% offer,2018,2,1,0,1
+Amsterdam,151,0.3,0.3,Dam Square - Central Station,139,1,3.5,297,Hotel,3 /5,1,194,1,15-50% offer,2017,12,0,1,1
+Amsterdam,151,0.3,0.3,Dam Square - Central Station,156,1,3.5,297,Hotel,3 /5,1,194,1,1-15% offer,2018,6,1,0,1
+Amsterdam,151,0.3,0.3,Dam Square - Central Station,139,1,3.5,297,Hotel,3 /5,1,194,1,15-50% offer,2017,11,0,0,1
+Amsterdam,128,0.2,0.3,Dam Square - Central Station,91,1,3.5,239,Hotel,3.2 /5,1,195,1,15-50% offer,2017,11,0,0,1
+Amsterdam,128,0.2,0.3,Dam Square - Central Station,197,1,3.5,239,Hotel,3.2 /5,1,195,0,0% no offer,2017,12,0,1,1
+Amsterdam,264,0.2,0.4,Dam Square - Central Station,359,5,4.5,2660,Hotel,4.6 /5,0,196,1,15-50% offer,2018,1,1,0,1
+Amsterdam,264,0.2,0.4,Dam Square - Central Station,1836,5,4.5,2660,Hotel,4.6 /5,0,196,0,0% no offer,2017,12,0,1,4
+Amsterdam,264,0.2,0.4,Dam Square - Central Station,444,5,4.5,2660,Hotel,4.6 /5,0,196,0,0% no offer,2018,5,1,0,1
+Amsterdam,264,0.2,0.4,Dam Square - Central Station,359,5,4.5,2660,Hotel,4.6 /5,0,196,1,15-50% offer,2018,2,1,0,1
+Amsterdam,264,0.2,0.4,Dam Square - Central Station,469,5,4.5,2660,Hotel,4.6 /5,0,196,0,0% no offer,2018,6,1,0,1
+Amsterdam,264,0.2,0.4,Dam Square - Central Station,379,5,4.5,2660,Hotel,4.6 /5,0,196,1,1-15% offer,2017,11,0,0,1
+Amsterdam,264,0.2,0.4,Dam Square - Central Station,424,5,4.5,2660,Hotel,4.6 /5,0,196,0,0% no offer,2017,12,0,1,1
+Amsterdam,264,0.2,0.4,Dam Square - Central Station,424,5,4.5,2660,Hotel,4.6 /5,0,196,0,0% no offer,2017,11,1,0,1
+Amsterdam,264,0.2,0.4,Dam Square - Central Station,492,5,4.5,2660,Hotel,4.6 /5,0,196,0,0% no offer,2018,3,1,0,1
+Amsterdam,4,0.2,0.4,Dam Square - Central Station,898,5,4.5,2660,Hotel,4.8 /5,0,197,0,0% no offer,2018,6,1,0,1
+Amsterdam,4,0.2,0.4,Dam Square - Central Station,1056,5,4.5,2660,Hotel,4.8 /5,0,197,0,0% no offer,2018,4,1,0,1
+Amsterdam,4,0.2,0.4,Dam Square - Central Station,898,5,4.5,2660,Hotel,4.8 /5,0,197,0,0% no offer,2018,5,1,0,1
+Amsterdam,4,0.2,0.4,Dam Square - Central Station,1056,5,4.5,2660,Hotel,4.8 /5,0,197,0,0% no offer,2018,3,1,0,1
+Amsterdam,4,0.2,0.4,Dam Square - Central Station,898,5,4.5,2660,Hotel,4.8 /5,0,197,0,0% no offer,2017,11,1,0,1
+Amsterdam,4,0.2,0.4,Dam Square - Central Station,3308,5,4.5,2660,Hotel,4.8 /5,0,197,0,0% no offer,2017,12,0,1,4
+Amsterdam,4,0.2,0.4,Dam Square - Central Station,804,5,4.5,2660,Hotel,4.8 /5,0,197,0,0% no offer,2018,2,1,0,1
+Amsterdam,4,0.2,0.4,Dam Square - Central Station,804,5,4.5,2660,Hotel,4.8 /5,0,197,0,0% no offer,2017,11,0,0,1
+Amsterdam,4,0.2,0.4,Dam Square - Central Station,898,5,4.5,2660,Hotel,4.8 /5,0,197,0,0% no offer,2017,12,0,1,1
+Amsterdam,4,0.2,0.4,Dam Square - Central Station,804,5,4.5,2660,Hotel,4.8 /5,0,197,0,0% no offer,2018,1,1,0,1
+Amsterdam,32,0.1,0.5,Dam Square - Central Station,271,3,4.5,114,Bed and breakfast,3.9 /5,1,198,0,0% no offer,2017,11,0,0,1
+Amsterdam,32,0.1,0.5,Dam Square - Central Station,229,3,4.5,114,Bed and breakfast,3.9 /5,1,198,1,1-15% offer,2017,12,0,1,1
+Amsterdam,74,0.7,0.2,Dam Square - Central Station,175,3.5,3,76,Apartment,3.5 /5,1,199,0,0% no offer,2017,11,0,0,1
+Amsterdam,74,0.7,0.2,Dam Square - Central Station,972,3.5,3,76,Apartment,3.5 /5,1,199,0,0% no offer,2017,12,0,1,4
+Amsterdam,37,0.7,0.2,Dam Square - Central Station,263,4,4.5,34,Apartment,3.5 /5,1,200,0,0% no offer,2017,11,1,0,1
+Amsterdam,37,0.7,0.2,Dam Square - Central Station,194,4,4.5,34,Apartment,3.5 /5,1,200,0,0% no offer,2017,11,0,0,1
+Amsterdam,37,0.7,0.2,Dam Square - Central Station,1138,4,4.5,34,Apartment,3.5 /5,1,200,0,0% no offer,2017,12,0,1,4
+Amsterdam,1202,0.5,0.2,Dam Square - Central Station,232,5,4.5,3968,Hotel,4.3 /5,0,201,1,50%-75% offer,2018,2,1,0,1
+Amsterdam,1202,0.5,0.2,Dam Square - Central Station,228,5,4.5,3968,Hotel,4.3 /5,0,201,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,1202,0.5,0.2,Dam Square - Central Station,775,5,4.5,3968,Hotel,4.3 /5,1,201,0,0% no offer,2018,3,1,0,1
+Amsterdam,1202,0.5,0.2,Dam Square - Central Station,561,5,4.5,3968,Hotel,4.3 /5,1,201,0,0% no offer,2017,11,1,0,1
+Amsterdam,1202,0.5,0.2,Dam Square - Central Station,1182,5,4.5,3968,Hotel,4.3 /5,0,201,1,15-50% offer,2017,12,0,1,4
+Amsterdam,1202,0.5,0.2,Dam Square - Central Station,238,5,4.5,3968,Hotel,4.3 /5,0,201,1,50%-75% offer,2018,1,1,0,1
+Amsterdam,1202,0.5,0.2,Dam Square - Central Station,809,5,4.5,3968,Hotel,4.3 /5,1,201,0,0% no offer,2018,4,1,0,1
+Amsterdam,1202,0.5,0.2,Dam Square - Central Station,349,5,4.5,3968,Hotel,4.3 /5,0,201,1,15-50% offer,2018,6,1,0,1
+Amsterdam,1202,0.5,0.2,Dam Square - Central Station,363,5,4.5,3968,Hotel,4.3 /5,0,201,1,15-50% offer,2018,5,1,0,1
+Amsterdam,1202,0.5,0.2,Dam Square - Central Station,238,5,4.5,3968,Hotel,4.3 /5,0,201,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,101,0.4,0.6,Dam Square - Central Station,139,3,3.5,524,Hotel,3.5 /5,1,202,0,0% no offer,2017,11,0,0,1
+Amsterdam,205,0.5,0.2,Dam Square - Central Station,199,3,4,219,Hotel,3.7 /5,0,203,0,0% no offer,2018,1,1,0,1
+Amsterdam,205,0.5,0.2,Dam Square - Central Station,242,3,4,219,Hotel,3.7 /5,1,203,0,0% no offer,2018,5,1,0,1
+Amsterdam,205,0.5,0.2,Dam Square - Central Station,199,3,4,219,Hotel,3.7 /5,0,203,0,0% no offer,2018,2,1,0,1
+Amsterdam,205,0.5,0.2,Dam Square - Central Station,242,3,4,219,Hotel,3.7 /5,1,203,0,0% no offer,2018,4,1,0,1
+Amsterdam,205,0.5,0.2,Dam Square - Central Station,982,3,4,219,Hotel,3.7 /5,1,203,0,0% no offer,2017,12,0,1,4
+Amsterdam,205,0.5,0.2,Dam Square - Central Station,134,3,4,219,Hotel,3.7 /5,1,203,1,15-50% offer,2017,11,0,0,1
+Amsterdam,326,0.5,0.1,Dam Square - Central Station,149,3,3.5,252,Hotel,3.9 /5,1,204,1,15-50% offer,2017,11,0,0,1
+Amsterdam,326,0.5,0.1,Dam Square - Central Station,280,3,3.5,252,Hotel,3.9 /5,1,204,0,0% no offer,2017,11,1,0,1
+Amsterdam,326,0.5,0.1,Dam Square - Central Station,280,3,3.5,252,Hotel,3.9 /5,1,204,0,0% no offer,2018,1,1,0,1
+Amsterdam,326,0.5,0.1,Dam Square - Central Station,190,3,3.5,252,Hotel,3.9 /5,1,204,1,15-50% offer,2018,2,1,0,1
+Amsterdam,326,0.5,0.1,Dam Square - Central Station,781,3,3.5,252,Hotel,3.9 /5,1,204,1,15-50% offer,2017,12,0,1,4
+Amsterdam,326,0.5,0.1,Dam Square - Central Station,302,3,3.5,252,Hotel,3.9 /5,0,204,0,0% no offer,2018,4,1,0,1
+Amsterdam,326,0.5,0.1,Dam Square - Central Station,280,3,3.5,252,Hotel,3.9 /5,1,204,0,0% no offer,2018,6,1,0,1
+Amsterdam,326,0.5,0.1,Dam Square - Central Station,145,3,3.5,252,Hotel,3.9 /5,1,204,1,15-50% offer,2017,12,0,1,1
+Amsterdam,199,0.6,0.1,Dam Square - Central Station,133,3,3.5,603,Hotel,3.7 /5,1,205,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,199,0.6,0.1,Dam Square - Central Station,199,3,3.5,603,Hotel,3.7 /5,0,205,1,15-50% offer,2018,6,1,0,1
+Amsterdam,199,0.6,0.1,Dam Square - Central Station,133,3,3.5,603,Hotel,3.7 /5,1,205,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,13,0.6,0.1,Dam Square - Central Station,239,4,4.5,31,Hotel,4.3 /5,1,206,0,0% no offer,2017,12,0,1,1
+Amsterdam,13,0.6,0.1,Dam Square - Central Station,203,4,4.5,31,Hotel,4.3 /5,1,206,0,0% no offer,2017,11,0,0,1
+Amsterdam,13,0.6,0.1,Dam Square - Central Station,922,4,4.5,31,Hotel,4.3 /5,1,206,1,1-15% offer,2017,12,0,1,4
+Amsterdam,241,0.6,0.1,Dam Square - Central Station,142,3,3.5,249,Hotel,3.9 /5,1,207,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,241,0.6,0.1,Dam Square - Central Station,129,3,3.5,249,Hotel,3.9 /5,1,207,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,241,0.6,0.1,Dam Square - Central Station,804,3,3.5,249,Hotel,3.9 /5,1,207,0,0% no offer,2018,3,1,0,1
+Amsterdam,317,0.2,0.6,Dam Square - Central Station,768,3,3,577,Hotel,3.2 /5,1,208,0,0% no offer,2017,12,0,1,4
+Amsterdam,317,0.2,0.6,Dam Square - Central Station,166,3,3,577,Hotel,3.2 /5,0,208,1,15-50% offer,2017,12,0,1,1
+Amsterdam,317,0.2,0.6,Dam Square - Central Station,113,3,3,577,Hotel,3.2 /5,0,208,1,15-50% offer,2017,11,0,0,1
+Amsterdam,7,0.2,0.5,Dam Square - Central Station,202,3,3.5,505,Hotel,4 /5,1,209,0,0% no offer,2017,12,0,1,1
+Amsterdam,7,0.2,0.5,Dam Square - Central Station,167,3,3.5,505,Hotel,4 /5,1,209,0,0% no offer,2017,11,0,0,1
+Amsterdam,614,0.3,0.4,Dam Square - Central Station,347,4,4.5,3347,Hotel,4.4 /5,0,210,1,1-15% offer,2017,11,1,0,1
+Amsterdam,614,0.3,0.4,Dam Square - Central Station,254,4,4.5,3347,Hotel,4.4 /5,0,210,1,15-50% offer,2017,11,0,0,1
+Amsterdam,614,0.3,0.4,Dam Square - Central Station,265,4,4.5,3347,Hotel,4.4 /5,0,210,1,15-50% offer,2017,12,0,1,1
+Amsterdam,614,0.3,0.4,Dam Square - Central Station,196,4,4.5,3347,Hotel,4.4 /5,0,210,1,1-15% offer,2018,1,1,0,1
+Amsterdam,614,0.3,0.4,Dam Square - Central Station,439,4,4.5,3347,Hotel,4.4 /5,0,210,0,0% no offer,2018,5,1,0,1
+Amsterdam,614,0.3,0.4,Dam Square - Central Station,344,4,4.5,3347,Hotel,4.4 /5,0,210,1,1-15% offer,2018,6,1,0,1
+Amsterdam,614,0.3,0.4,Dam Square - Central Station,216,4,4.5,3347,Hotel,4.4 /5,0,210,1,1-15% offer,2018,2,1,0,1
+Amsterdam,614,0.3,0.4,Dam Square - Central Station,1197,4,4.5,3347,Hotel,4.4 /5,0,210,1,1-15% offer,2017,12,0,1,4
+Amsterdam,724,0.5,0.6,Dam Square - Central Station,149,3,4,5202,Hotel,3.7 /5,0,212,1,15-50% offer,2017,12,0,1,1
+Amsterdam,724,0.5,0.6,Dam Square - Central Station,138,3,4,5202,Hotel,3.7 /5,0,212,1,15-50% offer,2017,11,0,0,1
+Amsterdam,11,0.3,0.3,Dam Square - Central Station,1704,3,4,4,Apartment,4.1 /5,1,216,0,0% no offer,2017,12,0,1,4
+Amsterdam,120,0.2,0.4,Dam Square - Central Station,119,2,4,1293,Hostel,3.7 /5,1,217,0,0% no offer,2017,11,0,0,1
+Amsterdam,120,0.2,0.4,Dam Square - Central Station,863,2,4,1293,Hostel,3.7 /5,0,217,0,0% no offer,2017,12,0,1,4
+Amsterdam,120,0.2,0.4,Dam Square - Central Station,114,2,4,1293,Hostel,3.7 /5,0,217,0,0% no offer,2017,12,0,1,1
+Amsterdam,82,0.3,0.3,Dam Square - Central Station,93,2.5,3,676,Hotel,2.5 /5,1,218,1,75%+ offer,2017,11,0,0,1
+Amsterdam,82,0.3,0.3,Dam Square - Central Station,281,2.5,3,676,Hotel,2.5 /5,1,218,1,15-50% offer,2017,12,0,1,1
+Amsterdam,273,1.3,1.4,De Pijp,184,4,4.5,1382,Hotel,4.5 /5,0,219,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,273,1.3,1.4,De Pijp,175,4,4.5,1382,Hotel,4.5 /5,0,219,1,50%-75% offer,2018,1,1,0,1
+Amsterdam,273,1.3,1.4,De Pijp,896,4,4.5,1382,Hotel,4.5 /5,0,219,1,15-50% offer,2017,12,0,1,4
+Amsterdam,273,1.3,1.4,De Pijp,264,4,4.5,1382,Hotel,4.5 /5,0,219,1,15-50% offer,2017,11,1,0,1
+Amsterdam,273,1.3,1.4,De Pijp,175,4,4.5,1382,Hotel,4.5 /5,0,219,1,50%-75% offer,2018,2,1,0,1
+Amsterdam,273,1.3,1.4,De Pijp,262,4,4.5,1382,Hotel,4.5 /5,0,219,1,15-50% offer,2017,11,0,0,1
+Amsterdam,7,1.2,1,De Pijp,114,2.5,3.5,118,Hotel,3 /5,1,220,0,0% no offer,2017,11,0,0,1
+Amsterdam,7,1.2,1,De Pijp,133,2.5,3.5,118,Hotel,3 /5,1,220,0,0% no offer,2018,2,1,0,1
+Amsterdam,7,1.2,1,De Pijp,672,2.5,3.5,118,Hotel,3 /5,1,220,0,0% no offer,2017,12,0,1,4
+Amsterdam,127,1.3,1.2,De Pijp,204,3,3.5,408,Hotel,3.5 /5,0,221,1,15-50% offer,2018,6,1,0,1
+Amsterdam,127,1.3,1.2,De Pijp,235,3,3.5,408,Hotel,3.5 /5,0,221,1,1-15% offer,2018,5,1,0,1
+Amsterdam,127,1.3,1.2,De Pijp,230,3,3.5,408,Hotel,3.5 /5,0,221,1,1-15% offer,2018,4,1,0,1
+Amsterdam,127,1.3,1.2,De Pijp,151,3,3.5,408,Hotel,3.5 /5,0,221,1,15-50% offer,2018,1,1,0,1
+Amsterdam,127,1.3,1.2,De Pijp,204,3,3.5,408,Hotel,3.5 /5,1,221,1,15-50% offer,2018,3,1,0,1
+Amsterdam,127,1.3,1.2,De Pijp,264,3,3.5,408,Hotel,3.5 /5,1,221,0,0% no offer,2017,11,1,0,1
+Amsterdam,127,1.3,1.2,De Pijp,94,3,3.5,408,Hotel,3.5 /5,0,221,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,127,1.3,1.2,De Pijp,136,3,3.5,408,Hotel,3.5 /5,0,221,1,15-50% offer,2018,2,1,0,1
+Amsterdam,127,1.3,1.2,De Pijp,669,3,3.5,408,Hotel,3.5 /5,1,221,1,15-50% offer,2017,12,0,1,4
+Amsterdam,127,1.3,1.2,De Pijp,97,3,3.5,408,Hotel,3.5 /5,1,221,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,117,1.6,1.7,De Pijp,124,4,3,340,Hotel,3 /5,0,222,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,117,1.6,1.7,De Pijp,140,4,3,340,Hotel,3 /5,0,222,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,117,1.6,1.7,De Pijp,692,4,3,340,Hotel,3 /5,0,222,1,15-50% offer,2017,12,0,1,4
+Amsterdam,590,1.7,1.7,De Pijp,905,5,4.5,2545,Hotel,4.5 /5,0,223,1,15-50% offer,2017,12,0,1,4
+Amsterdam,590,1.7,1.7,De Pijp,379,5,4.5,2545,Hotel,4.5 /5,0,223,1,1-15% offer,2018,5,1,0,1
+Amsterdam,590,1.7,1.7,De Pijp,360,5,4.5,2545,Hotel,4.5 /5,0,223,1,1-15% offer,2018,4,1,0,1
+Amsterdam,590,1.7,1.7,De Pijp,308,5,4.5,2545,Hotel,4.5 /5,0,223,1,1-15% offer,2017,11,1,0,1
+Amsterdam,590,1.7,1.7,De Pijp,360,5,4.5,2545,Hotel,4.5 /5,0,223,1,1-15% offer,2018,6,1,0,1
+Amsterdam,590,1.7,1.7,De Pijp,217,5,4.5,2545,Hotel,4.5 /5,0,223,1,1-15% offer,2018,2,1,0,1
+Amsterdam,590,1.7,1.7,De Pijp,202,5,4.5,2545,Hotel,4.5 /5,0,223,1,1-15% offer,2017,12,0,1,1
+Amsterdam,590,1.7,1.7,De Pijp,202,5,4.5,2545,Hotel,4.5 /5,0,223,1,1-15% offer,2018,1,1,0,1
+Amsterdam,590,1.7,1.7,De Pijp,261,5,4.5,2545,Hotel,4.5 /5,0,223,1,1-15% offer,2017,11,0,0,1
+Amsterdam,590,1.7,1.7,De Pijp,320,5,4.5,2545,Hotel,4.5 /5,0,223,1,1-15% offer,2018,3,1,0,1
+Amsterdam,78,1.1,1,De Pijp,95,2,3,111,Hotel,3.2 /5,1,224,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,78,1.1,1,De Pijp,134,2,3,111,Hotel,3.2 /5,0,224,1,15-50% offer,2018,1,1,0,1
+Amsterdam,78,1.1,1,De Pijp,172,2,3,111,Hotel,3.2 /5,0,224,1,1-15% offer,2018,2,1,0,1
+Amsterdam,78,1.1,1,De Pijp,83,2,3,111,Hotel,3.2 /5,1,224,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,65,1.1,1,De Pijp,172,2,3,265,Hotel,3.2 /5,0,225,0,0% no offer,2018,2,1,0,1
+Amsterdam,65,1.1,1,De Pijp,134,2,3,265,Hotel,3.2 /5,0,225,1,15-50% offer,2018,1,1,0,1
+Amsterdam,65,1.1,1,De Pijp,95,2,3,265,Hotel,3.2 /5,0,225,1,15-50% offer,2017,12,0,1,1
+Amsterdam,119,1.5,1.6,De Pijp,412,4,4,637,Hotel,4.1 /5,0,226,0,0% no offer,2018,5,1,0,1
+Amsterdam,119,1.5,1.6,De Pijp,847,4,4,637,Hotel,4.1 /5,0,226,1,15-50% offer,2017,12,0,1,4
+Amsterdam,119,1.5,1.6,De Pijp,412,4,4,637,Hotel,4.1 /5,0,226,0,0% no offer,2018,6,1,0,1
+Amsterdam,119,1.5,1.6,De Pijp,271,4,4,637,Hotel,4.1 /5,0,226,1,15-50% offer,2017,11,1,0,1
+Amsterdam,119,1.5,1.6,De Pijp,316,4,4,637,Hotel,4.1 /5,0,226,1,1-15% offer,2018,3,1,0,1
+Amsterdam,119,1.5,1.6,De Pijp,221,4,4,637,Hotel,4.1 /5,0,226,1,15-50% offer,2018,2,1,0,1
+Amsterdam,119,1.5,1.6,De Pijp,178,4,4,637,Hotel,4.1 /5,0,226,1,15-50% offer,2017,12,0,1,1
+Amsterdam,119,1.5,1.6,De Pijp,210,4,4,637,Hotel,4.1 /5,0,226,1,15-50% offer,2018,1,1,0,1
+Amsterdam,112,1.3,1.3,De Pijp,580,3,3.5,580,Hotel,3.5 /5,1,227,0,0% no offer,2018,2,1,0,1
+Amsterdam,48,1.3,1.3,De Pijp,83,3,3,73,Hotel,3.5 /5,1,228,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,48,1.3,1.3,De Pijp,88,3,3,73,Hotel,3.5 /5,1,228,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,45,1.4,1.4,De Pijp,92,2,2.5,250,Hotel,2 /5,0,229,0,0% no offer,2017,12,0,1,1
+Amsterdam,45,1.4,1.4,De Pijp,542,2,2.5,250,Hotel,2 /5,1,229,0,0% no offer,2017,12,0,1,4
+Amsterdam,45,1.4,1.4,De Pijp,78,2,2.5,250,Hotel,2 /5,0,229,0,0% no offer,2017,11,0,0,1
+Amsterdam,191,1.1,1,De Pijp,155,3,3.5,541,Hotel,3.7 /5,0,230,0,0% no offer,2017,12,0,1,1
+Amsterdam,191,1.1,1,De Pijp,218,3,3.5,541,Hotel,3.7 /5,0,230,0,0% no offer,2017,11,1,0,1
+Amsterdam,191,1.1,1,De Pijp,280,3,3.5,541,Hotel,3.7 /5,0,230,0,0% no offer,2018,5,1,0,1
+Amsterdam,191,1.1,1,De Pijp,176,3,3.5,541,Hotel,3.7 /5,0,230,0,0% no offer,2018,1,1,0,1
+Amsterdam,191,1.1,1,De Pijp,134,3,3.5,541,Hotel,3.7 /5,0,230,1,1-15% offer,2017,11,0,0,1
+Amsterdam,191,1.1,1,De Pijp,218,3,3.5,541,Hotel,3.7 /5,0,230,0,0% no offer,2018,6,1,0,1
+Amsterdam,191,1.1,1,De Pijp,155,3,3.5,541,Hotel,3.7 /5,0,230,0,0% no offer,2018,2,1,0,1
+Amsterdam,222,1.1,1,De Pijp,176,3,3.5,940,Hotel,3.7 /5,0,231,1,15-50% offer,2017,11,0,0,1
+Amsterdam,222,1.1,1,De Pijp,280,3,3.5,940,Hotel,3.7 /5,0,231,0,0% no offer,2018,5,1,0,1
+Amsterdam,222,1.1,1,De Pijp,197,3,3.5,940,Hotel,3.7 /5,0,231,1,15-50% offer,2018,6,1,0,1
+Amsterdam,222,1.1,1,De Pijp,176,3,3.5,940,Hotel,3.7 /5,0,231,1,15-50% offer,2018,1,1,0,1
+Amsterdam,222,1.1,1,De Pijp,260,3,3.5,940,Hotel,3.7 /5,0,231,1,1-15% offer,2017,11,1,0,1
+Amsterdam,222,1.1,1,De Pijp,155,3,3.5,940,Hotel,3.7 /5,0,231,1,15-50% offer,2018,2,1,0,1
+Amsterdam,222,1.1,1,De Pijp,176,3,3.5,940,Hotel,3.7 /5,0,231,1,15-50% offer,2017,12,0,1,1
+Amsterdam,222,1.1,1,De Pijp,789,3,3.5,940,Hotel,3.7 /5,0,231,1,15-50% offer,2017,12,0,1,4
+Amsterdam,62,1.4,1.5,De Pijp,110,1,4,231,Hotel,3.7 /5,1,232,1,15-50% offer,2017,11,0,0,1
+Amsterdam,60,1.5,1.6,De Pijp,156,3.5,5,117,Bed and breakfast,4.6 /5,1,233,0,0% no offer,2017,11,0,0,1
+Amsterdam,258,1.4,1.5,De Pijp,73,2,3.5,1094,Hotel,3.4 /5,1,234,0,0% no offer,2017,11,0,0,1
+Amsterdam,258,1.4,1.5,De Pijp,485,2,3.5,1094,Hotel,3.4 /5,0,234,0,0% no offer,2017,12,0,1,4
+Amsterdam,258,1.4,1.5,De Pijp,85,2,3.5,1094,Hotel,3.4 /5,0,234,0,0% no offer,2017,12,0,1,1
+Amsterdam,61,1.1,1,De Pijp,109,3.5,4,42,Bed and breakfast,4 /5,1,235,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,61,1.1,1,De Pijp,178,3.5,4,42,Bed and breakfast,4 /5,1,235,1,15-50% offer,2017,12,0,1,1
+Amsterdam,61,1.1,1,De Pijp,691,3.5,4,42,Bed and breakfast,4 /5,1,235,1,15-50% offer,2017,12,0,1,4
+Diemen,11,4.1,3.8,Diemen,91,1.5,4,20,Hostel,3.9 /5,1,236,0,0% no offer,2018,6,1,0,1
+Diemen,11,4.1,3.8,Diemen,81,1.5,4,20,Hostel,3.9 /5,1,236,0,0% no offer,2017,12,0,1,1
+Diemen,11,4.1,3.8,Diemen,461,1.5,4,20,Hostel,3.9 /5,0,236,0,0% no offer,2017,12,0,1,4
+Diemen,11,4.1,3.8,Diemen,141,1.5,4,20,Hostel,3.9 /5,1,236,0,0% no offer,2017,11,1,0,1
+Diemen,11,4.1,3.8,Diemen,101,1.5,4,20,Hostel,3.9 /5,1,236,0,0% no offer,2018,2,1,0,1
+Diemen,11,4.1,3.8,Diemen,83,1.5,4,20,Hostel,3.9 /5,1,236,0,0% no offer,2017,11,0,0,1
+Diemen,11,4.1,3.8,Diemen,111,1.5,4,20,Hostel,3.9 /5,0,236,0,0% no offer,2018,1,1,0,1
+Amsterdam,105,0.5,0.8,Haarlemmerbuurt,148,3,5,925,Bed and breakfast,4.5 /5,1,239,1,1-15% offer,2017,12,0,1,1
+Amsterdam,105,0.5,0.8,Haarlemmerbuurt,148,3,5,925,Bed and breakfast,4.5 /5,1,239,1,1-15% offer,2017,11,0,0,1
+Amsterdam,143,0.7,1.1,Haarlemmerbuurt,127,2,3.5,137,Hotel,3.5 /5,1,240,0,0% no offer,2017,12,0,1,1
+Amsterdam,143,0.7,1.1,Haarlemmerbuurt,148,2,3.5,137,Hotel,3.5 /5,1,240,0,0% no offer,2018,1,1,0,1
+Amsterdam,143,0.7,1.1,Haarlemmerbuurt,148,2,3.5,137,Hotel,3.5 /5,1,240,0,0% no offer,2018,2,1,0,1
+Amsterdam,143,0.7,1.1,Haarlemmerbuurt,176,2,3.5,137,Hotel,3.5 /5,1,240,0,0% no offer,2018,5,1,0,1
+Amsterdam,143,0.7,1.1,Haarlemmerbuurt,153,2,3.5,137,Hotel,3.5 /5,1,240,0,0% no offer,2017,11,0,0,1
+Amsterdam,146,0.5,0.9,Haarlemmerbuurt,226,3,4,91,Hotel,4.1 /5,0,241,1,15-50% offer,2018,1,1,0,1
+Amsterdam,146,0.5,0.9,Haarlemmerbuurt,168,3,4,91,Hotel,4.1 /5,1,241,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,146,0.5,0.9,Haarlemmerbuurt,168,3,4,91,Hotel,4.1 /5,1,241,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,146,0.5,0.9,Haarlemmerbuurt,284,3,4,91,Hotel,4.1 /5,1,241,1,15-50% offer,2017,11,1,0,1
+Amsterdam,146,0.5,0.9,Haarlemmerbuurt,1137,3,4,91,Hotel,4.1 /5,1,241,1,15-50% offer,2017,12,0,1,4
+Amsterdam,365,0.5,0.8,Haarlemmerbuurt,257,1,3,661,Hotel,2.9 /5,0,242,0,0% no offer,2018,4,1,0,1
+Amsterdam,365,0.5,0.8,Haarlemmerbuurt,126,1,3,661,Hotel,2.9 /5,1,242,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,365,0.5,0.8,Haarlemmerbuurt,224,1,3,661,Hotel,2.9 /5,0,242,1,1-15% offer,2018,1,1,0,1
+Amsterdam,365,0.5,0.8,Haarlemmerbuurt,265,1,3,661,Hotel,2.9 /5,1,242,0,0% no offer,2017,11,1,0,1
+Amsterdam,365,0.5,0.8,Haarlemmerbuurt,190,1,3,661,Hotel,2.9 /5,0,242,1,15-50% offer,2018,2,1,0,1
+Amsterdam,365,0.5,0.8,Haarlemmerbuurt,595,1,3,661,Hotel,2.9 /5,1,242,1,15-50% offer,2017,12,0,1,4
+Amsterdam,365,0.5,0.8,Haarlemmerbuurt,257,1,3,661,Hotel,2.9 /5,0,242,0,0% no offer,2018,5,1,0,1
+Amsterdam,365,0.5,0.8,Haarlemmerbuurt,122,1,3,661,Hotel,2.9 /5,1,242,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,365,0.5,0.8,Haarlemmerbuurt,190,1,3,661,Hotel,2.9 /5,0,242,1,15-50% offer,2018,3,1,0,1
+Amsterdam,365,0.5,0.8,Haarlemmerbuurt,257,1,3,661,Hotel,2.9 /5,0,242,0,0% no offer,2018,6,1,0,1
+Amsterdam,1201,0.7,1,Haarlemmerbuurt,187,4,4.5,3254,Hotel,4.5 /5,0,243,1,15-50% offer,2017,11,0,0,1
+Amsterdam,1201,0.7,1,Haarlemmerbuurt,187,4,4.5,3254,Hotel,4.5 /5,0,243,1,15-50% offer,2018,1,1,0,1
+Amsterdam,1201,0.7,1,Haarlemmerbuurt,187,4,4.5,3254,Hotel,4.5 /5,0,243,1,15-50% offer,2017,12,0,1,1
+Amsterdam,1201,0.7,1,Haarlemmerbuurt,833,4,4.5,3254,Hotel,4.5 /5,0,243,1,15-50% offer,2017,12,0,1,4
+Halfweg,95,5.8,6.4,Halfweg,92,2,3.5,21,Hotel,3.5 /5,0,245,0,0% no offer,2017,11,1,0,1
+Hoofddorp,327,10,11,Hoofddorp,74,3,3.5,365,Hotel,3.7 /5,0,246,1,50%-75% offer,2018,1,1,0,1
+Hoofddorp,327,10,11,Hoofddorp,74,3,3.5,365,Hotel,3.7 /5,0,246,1,50%-75% offer,2017,12,0,1,1
+Hoofddorp,327,10,11,Hoofddorp,80,3,3.5,365,Hotel,3.7 /5,0,246,1,15-50% offer,2017,11,1,0,1
+Hoofddorp,327,10,11,Hoofddorp,85,3,3.5,365,Hotel,3.7 /5,0,246,1,15-50% offer,2017,11,0,0,1
+Hoofddorp,327,10,11,Hoofddorp,287,3,3.5,365,Hotel,3.7 /5,0,246,1,1-15% offer,2017,12,0,1,4
+Hoofddorp,327,10,11,Hoofddorp,69,3,3.5,365,Hotel,3.7 /5,0,246,1,50%-75% offer,2018,2,1,0,1
+Hoofddorp,370,9.5,9.9,Hoofddorp,127,3,4,707,Hotel,4.3 /5,0,247,1,15-50% offer,2018,2,1,0,1
+Hoofddorp,370,9.5,9.9,Hoofddorp,119,3,4,707,Hotel,4.3 /5,0,247,1,15-50% offer,2018,1,1,0,1
+Hoofddorp,370,9.5,9.9,Hoofddorp,414,3,4,707,Hotel,4.3 /5,0,247,1,50%-75% offer,2017,12,0,1,4
+Hoofddorp,370,9.5,9.9,Hoofddorp,124,3,4,707,Hotel,4.3 /5,0,247,1,15-50% offer,2018,6,1,0,1
+Hoofddorp,370,9.5,9.9,Hoofddorp,134,3,4,707,Hotel,4.3 /5,0,247,1,15-50% offer,2017,11,1,0,1
+Hoofddorp,370,9.5,9.9,Hoofddorp,135,3,4,707,Hotel,4.3 /5,0,247,1,15-50% offer,2018,5,1,0,1
+Hoofddorp,370,9.5,9.9,Hoofddorp,89,3,4,707,Hotel,4.3 /5,0,247,1,50%-75% offer,2017,12,0,1,1
+Hoofddorp,370,9.5,9.9,Hoofddorp,118,3,4,707,Hotel,4.3 /5,0,247,1,15-50% offer,2017,11,0,0,1
+Hoofddorp,370,9.5,9.9,Hoofddorp,135,3,4,707,Hotel,4.3 /5,0,247,1,15-50% offer,2018,4,1,0,1
+Hoofddorp,90,9.6,10,Hoofddorp,75,4,3.5,147,Hotel,3.7 /5,0,248,1,50%-75% offer,2018,2,1,0,1
+Hoofddorp,90,9.6,10,Hoofddorp,81,4,3.5,147,Hotel,3.7 /5,0,248,1,50%-75% offer,2017,12,0,1,1
+Hoofddorp,90,9.6,10,Hoofddorp,127,4,3.5,147,Hotel,3.7 /5,0,248,1,15-50% offer,2018,6,1,0,1
+Hoofddorp,90,9.6,10,Hoofddorp,104,4,3.5,147,Hotel,3.7 /5,0,248,1,15-50% offer,2017,11,1,0,1
+Hoofddorp,90,9.6,10,Hoofddorp,89,4,3.5,147,Hotel,3.7 /5,0,248,1,15-50% offer,2017,11,0,0,1
+Hoofddorp,90,9.6,10,Hoofddorp,127,4,3.5,147,Hotel,3.7 /5,0,248,1,15-50% offer,2018,5,1,0,1
+Hoofddorp,90,9.6,10,Hoofddorp,354,4,3.5,147,Hotel,3.7 /5,0,248,1,15-50% offer,2017,12,0,1,4
+Hoofddorp,90,9.6,10,Hoofddorp,81,4,3.5,147,Hotel,3.7 /5,0,248,1,50%-75% offer,2018,1,1,0,1
+Hoofddorp,401,9.1,9.5,Hoofddorp,130,4,4,1860,Hotel,4 /5,0,249,0,0% no offer,2018,6,1,0,1
+Hoofddorp,401,9.1,9.5,Hoofddorp,66,4,4,1860,Hotel,4 /5,0,249,1,15-50% offer,2018,2,1,0,1
+Hoofddorp,401,9.1,9.5,Hoofddorp,460,4,4,1860,Hotel,4 /5,0,249,1,1-15% offer,2017,12,0,1,4
+Hoofddorp,401,9.1,9.5,Hoofddorp,101,4,4,1860,Hotel,4 /5,0,249,1,15-50% offer,2017,11,0,0,1
+Hoofddorp,401,9.1,9.5,Hoofddorp,148,4,4,1860,Hotel,4 /5,0,249,0,0% no offer,2018,3,1,0,1
+Hoofddorp,401,9.1,9.5,Hoofddorp,124,4,4,1860,Hotel,4 /5,0,249,1,1-15% offer,2018,5,1,0,1
+Hoofddorp,401,9.1,9.5,Hoofddorp,158,4,4,1860,Hotel,4 /5,0,249,0,0% no offer,2018,4,1,0,1
+Hoofddorp,401,9.1,9.5,Hoofddorp,81,4,4,1860,Hotel,4 /5,0,249,1,15-50% offer,2018,1,1,0,1
+Hoofddorp,401,9.1,9.5,Hoofddorp,102,4,4,1860,Hotel,4 /5,0,249,1,15-50% offer,2017,12,0,1,1
+Hoofddorp,401,9.1,9.5,Hoofddorp,105,4,4,1860,Hotel,4 /5,0,249,1,15-50% offer,2017,11,1,0,1
+Hoofddorp,642,9.6,10,Hoofddorp,73,3,4,1216,Hotel,4.3 /5,0,250,1,50%-75% offer,2017,12,0,1,1
+Hoofddorp,642,9.6,10,Hoofddorp,175,3,4,1216,Hotel,4.3 /5,0,250,0,0% no offer,2018,3,1,0,1
+Hoofddorp,642,9.6,10,Hoofddorp,138,3,4,1216,Hotel,4.3 /5,0,250,1,1-15% offer,2018,4,1,0,1
+Hoofddorp,642,9.6,10,Hoofddorp,82,3,4,1216,Hotel,4.3 /5,0,250,1,15-50% offer,2018,2,1,0,1
+Hoofddorp,642,9.6,10,Hoofddorp,107,3,4,1216,Hotel,4.3 /5,0,250,1,15-50% offer,2017,11,0,0,1
+Hoofddorp,642,9.6,10,Hoofddorp,330,3,4,1216,Hotel,4.3 /5,0,250,1,15-50% offer,2017,12,0,1,4
+Hoofddorp,642,9.6,10,Hoofddorp,97,3,4,1216,Hotel,4.3 /5,0,250,1,15-50% offer,2017,11,1,0,1
+Hoofddorp,642,9.6,10,Hoofddorp,110,3,4,1216,Hotel,4.3 /5,0,250,1,15-50% offer,2018,5,1,0,1
+Hoofddorp,642,9.6,10,Hoofddorp,73,3,4,1216,Hotel,4.3 /5,0,250,1,50%-75% offer,2018,1,1,0,1
+Hoofddorp,642,9.6,10,Hoofddorp,101,3,4,1216,Hotel,4.3 /5,0,250,1,15-50% offer,2018,6,1,0,1
+Hoofddorp,421,9.4,9.8,Hoofddorp,167,4,4,1491,Hotel,4 /5,0,251,1,15-50% offer,2018,3,1,0,1
+Hoofddorp,421,9.4,9.8,Hoofddorp,508,4,4,1491,Hotel,4 /5,0,251,1,50%-75% offer,2017,12,0,1,4
+Hoofddorp,421,9.4,9.8,Hoofddorp,157,4,4,1491,Hotel,4 /5,0,251,1,15-50% offer,2017,11,0,0,1
+Hoofddorp,421,9.4,9.8,Hoofddorp,147,4,4,1491,Hotel,4 /5,0,251,1,15-50% offer,2018,5,1,0,1
+Hoofddorp,421,9.4,9.8,Hoofddorp,98,4,4,1491,Hotel,4 /5,0,251,1,50%-75% offer,2018,1,1,0,1
+Hoofddorp,421,9.4,9.8,Hoofddorp,127,4,4,1491,Hotel,4 /5,0,251,1,50%-75% offer,2017,11,1,0,1
+Hoofddorp,421,9.4,9.8,Hoofddorp,138,4,4,1491,Hotel,4 /5,0,251,1,15-50% offer,2018,6,1,0,1
+Hoofddorp,421,9.4,9.8,Hoofddorp,111,4,4,1491,Hotel,4 /5,0,251,1,50%-75% offer,2017,12,0,1,1
+Hoofddorp,421,9.4,9.8,Hoofddorp,107,4,4,1491,Hotel,4 /5,0,251,1,50%-75% offer,2018,2,1,0,1
+Hoofddorp,421,9.4,9.8,Hoofddorp,167,4,4,1491,Hotel,4 /5,0,251,1,15-50% offer,2018,4,1,0,1
+Hoofddorp,1494,12,12,Hoofddorp,129,4,4,3518,Hotel,4.1 /5,0,252,1,15-50% offer,2018,6,1,0,1
+Hoofddorp,1494,12,12,Hoofddorp,77,4,4,3518,Hotel,4.1 /5,0,252,1,15-50% offer,2017,12,0,1,1
+Hoofddorp,1494,12,12,Hoofddorp,103,4,4,3518,Hotel,4.1 /5,1,252,1,50%-75% offer,2017,11,0,0,1
+Hoofddorp,1494,12,12,Hoofddorp,77,4,4,3518,Hotel,4.1 /5,0,252,1,15-50% offer,2018,1,1,0,1
+Hoofddorp,1494,12,12,Hoofddorp,164,4,4,3518,Hotel,4.1 /5,0,252,1,15-50% offer,2018,3,1,0,1
+Hoofddorp,1494,12,12,Hoofddorp,77,4,4,3518,Hotel,4.1 /5,0,252,1,15-50% offer,2018,2,1,0,1
+Hoofddorp,1494,12,12,Hoofddorp,134,4,4,3518,Hotel,4.1 /5,0,252,1,15-50% offer,2018,4,1,0,1
+Hoofddorp,1494,12,12,Hoofddorp,397,4,4,3518,Hotel,4.1 /5,0,252,1,15-50% offer,2017,12,0,1,4
+Hoofddorp,1494,12,12,Hoofddorp,134,4,4,3518,Hotel,4.1 /5,0,252,1,15-50% offer,2018,5,1,0,1
+Hoofddorp,1494,12,12,Hoofddorp,114,4,4,3518,Hotel,4.1 /5,0,252,1,15-50% offer,2017,11,1,0,1
+Hoofddorp,1886,9.3,9.7,Hoofddorp,103,4,4.5,1676,Hotel,4.5 /5,0,253,1,50%-75% offer,2018,1,1,0,1
+Hoofddorp,1886,9.3,9.7,Hoofddorp,103,4,4.5,1676,Hotel,4.5 /5,0,253,1,50%-75% offer,2017,12,0,1,1
+Hoofddorp,1886,9.3,9.7,Hoofddorp,413,4,4.5,1676,Hotel,4.5 /5,0,253,1,50%-75% offer,2017,12,0,1,4
+Hoofddorp,1886,9.3,9.7,Hoofddorp,167,4,4.5,1676,Hotel,4.5 /5,0,253,1,15-50% offer,2017,11,0,0,1
+Hoofddorp,1886,9.3,9.7,Hoofddorp,103,4,4.5,1676,Hotel,4.5 /5,0,253,1,50%-75% offer,2018,2,1,0,1
+Hoofddorp,1886,9.3,9.7,Hoofddorp,103,4,4.5,1676,Hotel,4.5 /5,0,253,1,50%-75% offer,2017,11,1,0,1
+Hoofddorp,1886,9.3,9.7,Hoofddorp,145,4,4.5,1676,Hotel,4.5 /5,0,253,1,15-50% offer,2018,6,1,0,1
+Hoofddorp,1886,9.3,9.7,Hoofddorp,145,4,4.5,1676,Hotel,4.5 /5,0,253,1,15-50% offer,2018,5,1,0,1
+Hoofddorp,1886,9.3,9.7,Hoofddorp,135,4,4.5,1676,Hotel,4.5 /5,0,253,1,15-50% offer,2018,4,1,0,1
+Hoofddorp,1886,9.3,9.7,Hoofddorp,166,4,4.5,1676,Hotel,4.5 /5,0,253,1,15-50% offer,2018,3,1,0,1
+Hoofddorp,235,9.9,10,Hoofddorp,397,4,4.5,697,Hotel,4.5 /5,0,254,0,0% no offer,2017,12,0,1,4
+Hoofddorp,235,9.9,10,Hoofddorp,91,4,4.5,697,Hotel,4.5 /5,0,254,0,0% no offer,2018,1,1,0,1
+Hoofddorp,235,9.9,10,Hoofddorp,156,4,4.5,697,Hotel,4.5 /5,0,254,0,0% no offer,2017,11,0,0,1
+Hoofddorp,235,9.9,10,Hoofddorp,91,4,4.5,697,Hotel,4.5 /5,0,254,0,0% no offer,2017,12,0,1,1
+Hoofddorp,235,9.9,10,Hoofddorp,91,4,4.5,697,Hotel,4.5 /5,0,254,0,0% no offer,2017,11,1,0,1
+Hoofddorp,235,9.9,10,Hoofddorp,91,4,4.5,697,Hotel,4.5 /5,0,254,0,0% no offer,2018,2,1,0,1
+Hoofddorp,1257,9.1,9.5,Hoofddorp,69,4,3,1123,Hotel,3.5 /5,0,255,1,15-50% offer,2018,2,1,0,1
+Hoofddorp,1257,9.1,9.5,Hoofddorp,91,4,3,1123,Hotel,3.5 /5,0,255,1,15-50% offer,2017,11,1,0,1
+Hoofddorp,1257,9.1,9.5,Hoofddorp,74,4,3,1123,Hotel,3.5 /5,0,255,1,15-50% offer,2018,1,1,0,1
+Hoofddorp,1257,9.1,9.5,Hoofddorp,74,4,3,1123,Hotel,3.5 /5,0,255,1,15-50% offer,2017,12,0,1,1
+Hoofddorp,1257,9.1,9.5,Hoofddorp,85,4,3,1123,Hotel,3.5 /5,0,255,1,15-50% offer,2017,11,0,0,1
+Hoofddorp,1257,9.1,9.5,Hoofddorp,308,4,3,1123,Hotel,3.5 /5,0,255,1,1-15% offer,2017,12,0,1,4
+Hoofddorp,1783,9.1,9.5,Hoofddorp,321,4,3.5,705,Hotel,4 /5,0,256,1,15-50% offer,2017,12,0,1,4
+Hoofddorp,1783,9.1,9.5,Hoofddorp,69,4,3.5,705,Hotel,4 /5,0,256,1,50%-75% offer,2018,2,1,0,1
+Hoofddorp,1783,9.1,9.5,Hoofddorp,91,4,3.5,705,Hotel,4 /5,0,256,1,15-50% offer,2017,11,1,0,1
+Hoofddorp,1783,9.1,9.5,Hoofddorp,74,4,3.5,705,Hotel,4 /5,0,256,1,15-50% offer,2018,1,1,0,1
+Hoofddorp,1783,9.1,9.5,Hoofddorp,103,4,3.5,705,Hotel,4 /5,0,256,1,15-50% offer,2017,11,0,0,1
+Hoofddorp,1783,9.1,9.5,Hoofddorp,85,4,3.5,705,Hotel,4 /5,0,256,1,15-50% offer,2017,12,0,1,1
+Amsterdam,151,0.5,1.1,Jordaan,177,3,4.5,266,Hotel,4.6 /5,1,257,1,15-50% offer,2017,11,0,0,1
+Amsterdam,171,0.7,1.2,Jordaan,130,3,4,347,Hotel,4.1 /5,1,260,1,15-50% offer,2017,11,0,0,1
+Amsterdam,171,0.7,1.2,Jordaan,865,3,4,347,Hotel,4.1 /5,1,260,1,1-15% offer,2017,12,0,1,4
+Amsterdam,83,0.6,1,Jordaan,932,3.5,4.5,69,Hotel,4.6 /5,1,261,0,0% no offer,2017,12,0,1,4
+Amsterdam,83,0.6,1,Jordaan,161,3.5,4.5,69,Hotel,4.6 /5,1,261,0,0% no offer,2017,11,0,0,1
+Amsterdam,83,0.6,1,Jordaan,172,3.5,4.5,69,Hotel,4.6 /5,1,261,0,0% no offer,2017,12,0,1,1
+Amsterdam,2,0.5,1,Jordaan,1020,2.5,5,2,Apartment,3.5 /5,1,262,0,0% no offer,2017,12,0,1,4
+Amsterdam,NA,0.7,1.2,Jordaan,149,3,4.5,64,Bed and breakfast,NA,1,263,0,0% no offer,2017,12,0,1,1
+Amsterdam,20,0.7,1.3,Jordaan,293,3.5,4.5,101,Hotel,4.5 /5,1,264,1,15-50% offer,2017,12,0,1,1
+Amsterdam,20,0.7,1.3,Jordaan,234,3.5,4.5,101,Hotel,4.5 /5,1,264,1,15-50% offer,2017,11,0,0,1
+Amsterdam,20,0.7,1.3,Jordaan,1286,3.5,4.5,101,Hotel,4.5 /5,1,264,1,1-15% offer,2017,12,0,1,4
+Amsterdam,19,1,1.6,Jordaan,426,4.5,3,28,Apartment,3.2 /5,1,267,1,15-50% offer,2017,12,0,1,1
+Amsterdam,19,1,1.6,Jordaan,439,4.5,3,28,Apartment,3.2 /5,1,267,1,15-50% offer,2017,11,0,0,1
+Amsterdam,19,1,1.6,Jordaan,505,4.5,3,28,Apartment,3.2 /5,1,267,0,0% no offer,2018,3,1,0,1
+Amsterdam,19,1,1.6,Jordaan,505,4.5,3,28,Apartment,3.2 /5,1,267,0,0% no offer,2018,1,1,0,1
+Amsterdam,19,1,1.6,Jordaan,505,4.5,3,28,Apartment,3.2 /5,1,267,0,0% no offer,2018,2,1,0,1
+Amsterdam,19,1,1.6,Jordaan,1708,4.5,3,28,Apartment,3.2 /5,1,267,1,15-50% offer,2017,12,0,1,4
+Amsterdam,192,1.1,1.3,Jordaan,172,4,4.5,428,Apartment,4.4 /5,1,268,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,192,1.1,1.3,Jordaan,905,4,4.5,428,Apartment,4.4 /5,1,268,1,15-50% offer,2017,12,0,1,4
+Amsterdam,192,1.1,1.3,Jordaan,228,4,4.5,428,Apartment,4.4 /5,0,268,1,15-50% offer,2017,12,0,1,1
+Amsterdam,192,1.1,1.3,Jordaan,325,4,4.5,428,Apartment,4.4 /5,1,268,1,1-15% offer,2017,11,1,0,1
+Lijnden,827,5.6,6.1,Lijnden,91,4,4,2316,Hotel,4 /5,0,269,1,15-50% offer,2017,12,0,1,1
+Lijnden,827,5.6,6.1,Lijnden,124,4,4,2316,Hotel,4 /5,0,269,1,15-50% offer,2018,2,1,0,1
+Lijnden,827,5.6,6.1,Lijnden,198,4,4,2316,Hotel,4 /5,0,269,1,15-50% offer,2018,4,1,0,1
+Lijnden,827,5.6,6.1,Lijnden,180,4,4,2316,Hotel,4 /5,0,269,1,15-50% offer,2018,5,1,0,1
+Lijnden,827,5.6,6.1,Lijnden,134,4,4,2316,Hotel,4 /5,0,269,1,15-50% offer,2018,1,1,0,1
+Lijnden,827,5.6,6.1,Lijnden,423,4,4,2316,Hotel,4 /5,0,269,1,15-50% offer,2017,12,0,1,4
+Lijnden,827,5.6,6.1,Lijnden,119,4,4,2316,Hotel,4 /5,0,269,1,15-50% offer,2018,6,1,0,1
+Lijnden,827,5.6,6.1,Lijnden,184,4,4,2316,Hotel,4 /5,0,269,1,15-50% offer,2017,11,0,0,1
+Lijnden,827,5.6,6.1,Lijnden,91,4,4,2316,Hotel,4 /5,0,269,1,15-50% offer,2017,11,1,0,1
+Amsterdam,398,1.2,1.5,Museum Quarter,102,4,3,717,Hotel,3.5 /5,0,270,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,398,1.2,1.5,Museum Quarter,114,4,3,717,Hotel,3.5 /5,0,270,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,398,1.2,1.5,Museum Quarter,720,4,3,717,Hotel,3.5 /5,0,270,1,15-50% offer,2017,12,0,1,4
+Amsterdam,235,1.3,1.6,Museum Quarter,95,2,2,783,Hotel,2.5 /5,0,271,1,15-50% offer,2017,12,0,1,1
+Amsterdam,235,1.3,1.6,Museum Quarter,495,2,2,783,Hotel,2.5 /5,0,271,1,1-15% offer,2017,12,0,1,4
+Amsterdam,235,1.3,1.6,Museum Quarter,87,2,2,783,Hotel,2.5 /5,1,271,1,15-50% offer,2017,11,0,0,1
+Amsterdam,197,1.5,1.7,Museum Quarter,94,3,4,175,Hotel,4.3 /5,1,272,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,197,1.5,1.7,Museum Quarter,178,3,4,175,Hotel,4.3 /5,0,272,1,15-50% offer,2018,2,1,0,1
+Amsterdam,197,1.5,1.7,Museum Quarter,130,3,4,175,Hotel,4.3 /5,1,272,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,197,1.5,1.7,Museum Quarter,642,3,4,175,Hotel,4.3 /5,1,272,1,15-50% offer,2017,12,0,1,4
+Amsterdam,197,1.5,1.7,Museum Quarter,135,3,4,175,Hotel,4.3 /5,1,272,1,50%-75% offer,2018,1,1,0,1
+Amsterdam,525,1.6,1.9,Museum Quarter,93,3,3.5,757,Hotel,3.7 /5,0,273,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,525,1.6,1.9,Museum Quarter,142,3,3.5,757,Hotel,3.7 /5,0,273,1,15-50% offer,2017,12,0,1,1
+Amsterdam,525,1.6,1.9,Museum Quarter,186,3,3.5,757,Hotel,3.7 /5,1,273,1,1-15% offer,2017,11,1,0,1
+Amsterdam,525,1.6,1.9,Museum Quarter,679,3,3.5,757,Hotel,3.7 /5,0,273,1,15-50% offer,2017,12,0,1,4
+Amsterdam,139,1.4,1.7,Museum Quarter,126,3,3.5,214,Hotel,3.7 /5,1,274,1,15-50% offer,2018,1,1,0,1
+Amsterdam,139,1.4,1.7,Museum Quarter,96,3,3.5,214,Hotel,3.7 /5,1,274,1,15-50% offer,2017,11,0,0,1
+Amsterdam,139,1.4,1.7,Museum Quarter,719,3,3.5,214,Hotel,3.7 /5,0,274,0,0% no offer,2017,12,0,1,4
+Amsterdam,139,1.4,1.7,Museum Quarter,226,3,3.5,214,Hotel,3.7 /5,0,274,0,0% no offer,2017,11,1,0,1
+Amsterdam,139,1.4,1.7,Museum Quarter,150,3,3.5,214,Hotel,3.7 /5,1,274,0,0% no offer,2017,12,0,1,1
+Amsterdam,139,1.4,1.7,Museum Quarter,168,3,3.5,214,Hotel,3.7 /5,0,274,0,0% no offer,2018,2,1,0,1
+Amsterdam,213,1.4,1.7,Museum Quarter,265,3,4,959,Hotel,4.1 /5,0,275,0,0% no offer,2018,5,1,0,1
+Amsterdam,213,1.4,1.7,Museum Quarter,178,3,4,959,Hotel,4.1 /5,0,275,1,15-50% offer,2018,2,1,0,1
+Amsterdam,213,1.4,1.7,Museum Quarter,189,3,4,959,Hotel,4.1 /5,0,275,1,15-50% offer,2018,1,1,0,1
+Amsterdam,213,1.4,1.7,Museum Quarter,759,3,4,959,Hotel,4.1 /5,0,275,1,15-50% offer,2017,12,0,1,4
+Amsterdam,213,1.4,1.7,Museum Quarter,157,3,4,959,Hotel,4.1 /5,0,275,1,15-50% offer,2017,12,0,1,1
+Amsterdam,213,1.4,1.7,Museum Quarter,125,3,4,959,Hotel,4.1 /5,0,275,1,15-50% offer,2017,11,0,0,1
+Amsterdam,61,1,1,Museum Quarter,158,3.5,4,463,Hotel,4.3 /5,0,276,0,0% no offer,2017,12,0,1,1
+Amsterdam,61,1,1,Museum Quarter,137,3.5,4,463,Hotel,4.3 /5,1,276,1,1-15% offer,2017,11,0,0,1
+Amsterdam,61,1,1,Museum Quarter,726,3.5,4,463,Hotel,4.3 /5,1,276,0,0% no offer,2017,12,0,1,4
+Amsterdam,85,1,1,Museum Quarter,595,2,3,210,Hotel,3 /5,0,277,1,1-15% offer,2017,12,0,1,4
+Amsterdam,85,1,1,Museum Quarter,148,2,3,210,Hotel,3 /5,1,277,1,1-15% offer,2017,11,0,0,1
+Amsterdam,85,1,1,Museum Quarter,99,2,3,210,Hotel,3 /5,0,277,1,1-15% offer,2017,12,0,1,1
+Amsterdam,26,0.9,1,Museum Quarter,104,1,3,209,Hotel,3 /5,1,278,1,15-50% offer,2017,11,0,0,1
+Amsterdam,26,0.9,1,Museum Quarter,153,1,3,209,Hotel,3 /5,0,278,1,15-50% offer,2017,12,0,1,1
+Amsterdam,26,0.9,1,Museum Quarter,766,1,3,209,Hotel,3 /5,1,278,0,0% no offer,2017,12,0,1,4
+Amsterdam,128,1.3,1.5,Museum Quarter,127,2,3.5,509,Hotel,3.2 /5,1,279,1,15-50% offer,2017,12,0,1,1
+Amsterdam,128,1.3,1.5,Museum Quarter,141,2,3.5,509,Hotel,3.2 /5,1,279,1,1-15% offer,2018,2,1,0,1
+Amsterdam,128,1.3,1.5,Museum Quarter,81,2,3.5,509,Hotel,3.2 /5,1,279,1,15-50% offer,2017,11,0,0,1
+Amsterdam,128,1.3,1.5,Museum Quarter,690,2,3.5,509,Hotel,3.2 /5,1,279,0,0% no offer,2017,12,0,1,4
+Amsterdam,128,1.3,1.5,Museum Quarter,226,2,3.5,509,Hotel,3.2 /5,1,279,0,0% no offer,2017,11,1,0,1
+Amsterdam,128,1.3,1.5,Museum Quarter,110,2,3.5,509,Hotel,3.2 /5,1,279,1,15-50% offer,2018,1,1,0,1
+Amsterdam,88,1.3,1.6,Museum Quarter,272,3,4,338,Apartment,3.9 /5,1,280,0,0% no offer,2017,11,1,0,1
+Amsterdam,49,1.4,1.6,Museum Quarter,531,2,2.5,301,Hostel,3 /5,1,281,0,0% no offer,2017,12,0,1,4
+Amsterdam,49,1.4,1.6,Museum Quarter,75,2,2.5,301,Hostel,3 /5,1,281,0,0% no offer,2017,11,0,0,1
+Amsterdam,49,1.4,1.6,Museum Quarter,91,2,2.5,301,Hostel,3 /5,1,281,0,0% no offer,2017,12,0,1,1
+Amsterdam,728,1.2,1.4,Museum Quarter,260,4,4,1869,Hotel,4 /5,0,282,1,15-50% offer,2018,5,1,0,1
+Amsterdam,728,1.2,1.4,Museum Quarter,155,4,4,1869,Hotel,4 /5,0,282,1,50%-75% offer,2018,1,1,0,1
+Amsterdam,728,1.2,1.4,Museum Quarter,295,4,4,1869,Hotel,4 /5,0,282,1,1-15% offer,2018,3,1,0,1
+Amsterdam,728,1.2,1.4,Museum Quarter,798,4,4,1869,Hotel,4 /5,0,282,1,15-50% offer,2017,12,0,1,4
+Amsterdam,728,1.2,1.4,Museum Quarter,160,4,4,1869,Hotel,4 /5,1,282,1,15-50% offer,2017,11,0,0,1
+Amsterdam,728,1.2,1.4,Museum Quarter,172,4,4,1869,Hotel,4 /5,0,282,1,15-50% offer,2017,12,0,1,1
+Amsterdam,728,1.2,1.4,Museum Quarter,134,4,4,1869,Hotel,4 /5,0,282,1,50%-75% offer,2018,2,1,0,1
+Amsterdam,728,1.2,1.4,Museum Quarter,213,4,4,1869,Hotel,4 /5,0,282,1,15-50% offer,2017,11,1,0,1
+Amsterdam,331,1,1.3,Museum Quarter,132,3,4.5,1373,Hotel,4.1 /5,0,283,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,81,1,1.3,Museum Quarter,110,1,4,207,Hotel,3.7 /5,0,284,1,15-50% offer,2017,11,0,0,1
+Amsterdam,81,1,1.3,Museum Quarter,696,1,4,207,Hotel,3.7 /5,1,284,0,0% no offer,2017,12,0,1,4
+Amsterdam,222,1.1,1.4,Museum Quarter,150,3,4.5,1872,Hotel,4.5 /5,1,285,1,15-50% offer,2017,11,0,0,1
+Amsterdam,516,1,1.3,Museum Quarter,172,4,4,1070,Hotel,4.3 /5,0,286,1,15-50% offer,2017,11,0,0,1
+Amsterdam,516,1,1.3,Museum Quarter,336,4,4,1070,Hotel,4.3 /5,0,286,0,0% no offer,2018,1,1,0,1
+Amsterdam,516,1,1.3,Museum Quarter,265,4,4,1070,Hotel,4.3 /5,0,286,0,0% no offer,2017,11,1,0,1
+Amsterdam,516,1,1.3,Museum Quarter,748,4,4,1070,Hotel,4.3 /5,1,286,1,15-50% offer,2017,12,0,1,4
+Amsterdam,516,1,1.3,Museum Quarter,336,4,4,1070,Hotel,4.3 /5,0,286,0,0% no offer,2018,3,1,0,1
+Amsterdam,516,1,1.3,Museum Quarter,224,4,4,1070,Hotel,4.3 /5,0,286,1,15-50% offer,2018,2,1,0,1
+Amsterdam,516,1,1.3,Museum Quarter,370,4,4,1070,Hotel,4.3 /5,0,286,0,0% no offer,2018,4,1,0,1
+Amsterdam,516,1,1.3,Museum Quarter,156,4,4,1070,Hotel,4.3 /5,0,286,1,15-50% offer,2017,12,0,1,1
+Amsterdam,546,1.1,1.4,Museum Quarter,226,4,4.5,1094,Hotel,4.5 /5,0,287,1,15-50% offer,2017,11,0,0,1
+Amsterdam,359,1,1.3,Museum Quarter,133,3,4,1128,Hotel,4 /5,0,288,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,359,1,1.3,Museum Quarter,153,3,4,1128,Hotel,4 /5,0,288,1,15-50% offer,2017,12,0,1,1
+Amsterdam,22,1.3,1.6,Museum Quarter,99,2.5,3,7,Hotel,4.5 /5,0,289,0,0% no offer,2017,11,0,0,1
+Amsterdam,22,1.3,1.6,Museum Quarter,123,2.5,3,7,Hotel,4.5 /5,0,289,0,0% no offer,2017,12,0,1,1
+Amsterdam,43,1.3,1.6,Museum Quarter,80,1,2,232,Hostel,2.7 /5,1,290,0,0% no offer,2017,11,0,0,1
+Amsterdam,43,1.3,1.6,Museum Quarter,92,1,2,232,Hostel,2.7 /5,1,290,0,0% no offer,2017,12,0,1,1
+Amsterdam,43,1.3,1.6,Museum Quarter,542,1,2,232,Hostel,2.7 /5,1,290,0,0% no offer,2017,12,0,1,4
+Amsterdam,43,0.8,1.1,Museum Quarter,105,2,3,177,Hostel,2.7 /5,1,291,0,0% no offer,2017,11,0,0,1
+Amsterdam,43,0.8,1.1,Museum Quarter,92,2,3,177,Hostel,2.7 /5,1,291,0,0% no offer,2017,12,0,1,1
+Amsterdam,85,1.2,1.5,Museum Quarter,156,3,4,241,Hotel,4.3 /5,1,292,1,15-50% offer,2017,12,0,1,1
+Amsterdam,85,1.2,1.5,Museum Quarter,120,3,4,241,Hotel,4.3 /5,1,292,1,15-50% offer,2017,11,0,0,1
+Amsterdam,85,1.2,1.5,Museum Quarter,825,3,4,241,Hotel,4.3 /5,1,292,1,1-15% offer,2017,12,0,1,4
+Amsterdam,120,0.7,1.2,Museum Quarter,98,2,2.5,598,Hotel,2.7 /5,1,293,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,120,0.7,1.2,Museum Quarter,110,2,2.5,598,Hotel,2.7 /5,1,293,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,120,0.7,1.2,Museum Quarter,226,2,2.5,598,Hotel,2.7 /5,1,293,1,15-50% offer,2017,11,1,0,1
+Amsterdam,120,0.7,1.2,Museum Quarter,679,2,2.5,598,Hotel,2.7 /5,1,293,1,15-50% offer,2017,12,0,1,4
+Amsterdam,71,0.7,1.2,Museum Quarter,101,2,4,458,Hotel,3.7 /5,1,294,1,1-15% offer,2017,11,0,0,1
+Amsterdam,71,0.7,1.2,Museum Quarter,142,2,4,458,Hotel,3.7 /5,0,294,1,1-15% offer,2017,12,0,1,1
+Amsterdam,71,0.7,1.2,Museum Quarter,669,2,4,458,Hotel,3.7 /5,0,294,1,1-15% offer,2017,12,0,1,4
+Amsterdam,40,0.8,1.2,Museum Quarter,724,2,3,230,Hotel,3 /5,0,295,1,15-50% offer,2017,12,0,1,4
+Amsterdam,40,0.8,1.2,Museum Quarter,90,2,3,230,Hotel,3 /5,1,295,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,40,0.8,1.2,Museum Quarter,132,2,3,230,Hotel,3 /5,0,295,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,438,0.8,1.2,Museum Quarter,201,3,2.5,937,Hotel,2.9 /5,0,296,1,15-50% offer,2018,1,1,0,1
+Amsterdam,438,0.8,1.2,Museum Quarter,336,3,2.5,937,Hotel,2.9 /5,1,296,0,0% no offer,2018,6,1,0,1
+Amsterdam,438,0.8,1.2,Museum Quarter,336,3,2.5,937,Hotel,2.9 /5,1,296,0,0% no offer,2018,4,1,0,1
+Amsterdam,438,0.8,1.2,Museum Quarter,314,3,2.5,937,Hotel,2.9 /5,0,296,0,0% no offer,2017,11,1,0,1
+Amsterdam,438,0.8,1.2,Museum Quarter,126,3,2.5,937,Hotel,2.9 /5,1,296,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,438,0.8,1.2,Museum Quarter,835,3,2.5,937,Hotel,2.9 /5,0,296,1,15-50% offer,2017,12,0,1,4
+Amsterdam,438,0.8,1.2,Museum Quarter,111,3,2.5,937,Hotel,2.9 /5,1,296,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,438,0.8,1.2,Museum Quarter,336,3,2.5,937,Hotel,2.9 /5,1,296,0,0% no offer,2018,5,1,0,1
+Amsterdam,438,0.8,1.2,Museum Quarter,269,3,2.5,937,Hotel,2.9 /5,1,296,1,1-15% offer,2018,2,1,0,1
+Amsterdam,438,0.8,1.2,Museum Quarter,336,3,2.5,937,Hotel,2.9 /5,1,296,0,0% no offer,2018,3,1,0,1
+Amsterdam,672,0.8,1.2,Museum Quarter,205,4,4,3196,Hotel,4.1 /5,0,297,1,1-15% offer,2017,12,0,1,1
+Amsterdam,672,0.8,1.2,Museum Quarter,204,4,4,3196,Hotel,4.1 /5,0,297,1,15-50% offer,2017,11,0,0,1
+Amsterdam,672,0.8,1.2,Museum Quarter,1021,4,4,3196,Hotel,4.1 /5,0,297,1,15-50% offer,2017,12,0,1,4
+Amsterdam,21,0.7,1,Museum Quarter,635,1,2.5,237,Hostel,2.5 /5,1,298,0,0% no offer,2017,12,0,1,4
+Amsterdam,21,0.7,1,Museum Quarter,105,1,2.5,237,Hostel,2.5 /5,1,298,0,0% no offer,2017,11,0,0,1
+Amsterdam,21,0.7,1,Museum Quarter,118,1,2.5,237,Hostel,2.5 /5,1,298,0,0% no offer,2017,12,0,1,1
+Amsterdam,7,0.7,1.2,Museum Quarter,3620,4,2.5,873,Apartment,4.9 /5,1,299,1,1-15% offer,2017,12,0,1,4
+Amsterdam,7,0.7,1.2,Museum Quarter,953,4,2.5,873,Apartment,4.9 /5,1,299,0,0% no offer,2017,11,0,0,1
+Amsterdam,146,0.7,1.2,Museum Quarter,134,3,3,503,Hotel,3.5 /5,0,300,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,146,0.7,1.2,Museum Quarter,232,3,3,503,Hotel,3.5 /5,1,300,1,1-15% offer,2018,5,1,0,1
+Amsterdam,146,0.7,1.2,Museum Quarter,323,3,3,503,Hotel,3.5 /5,1,300,0,0% no offer,2018,4,1,0,1
+Amsterdam,146,0.7,1.2,Museum Quarter,1128,3,3,503,Hotel,3.5 /5,1,300,0,0% no offer,2017,12,0,1,4
+Amsterdam,146,0.7,1.2,Museum Quarter,260,3,3,503,Hotel,3.5 /5,1,300,0,0% no offer,2017,11,1,0,1
+Amsterdam,146,0.7,1.2,Museum Quarter,191,3,3,503,Hotel,3.5 /5,1,300,1,15-50% offer,2018,1,1,0,1
+Amsterdam,146,0.7,1.2,Museum Quarter,171,3,3,503,Hotel,3.5 /5,1,300,1,15-50% offer,2017,12,0,1,1
+Amsterdam,146,0.7,1.2,Museum Quarter,221,3,3,503,Hotel,3.5 /5,1,300,1,15-50% offer,2018,6,1,0,1
+Amsterdam,146,0.7,1.2,Museum Quarter,181,3,3,503,Hotel,3.5 /5,1,300,1,15-50% offer,2018,2,1,0,1
+Amsterdam,62,0.7,1.2,Museum Quarter,203,1,2.5,873,Hotel,2 /5,1,301,0,0% no offer,2017,11,1,0,1
+Amsterdam,62,0.7,1.2,Museum Quarter,75,1,2.5,873,Hotel,2 /5,1,301,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,62,0.7,1.2,Museum Quarter,104,1,2.5,873,Hotel,2 /5,1,301,1,15-50% offer,2017,12,0,1,1
+Amsterdam,62,0.7,1.2,Museum Quarter,905,1,2.5,873,Hotel,2 /5,1,301,0,0% no offer,2017,12,0,1,4
+Amsterdam,98,0.8,1.2,Museum Quarter,139,2,4,337,Hotel,3.5 /5,1,302,1,15-50% offer,2017,11,0,0,1
+Amsterdam,80,0.8,1.2,Museum Quarter,150,2,4.5,285,Hotel,4.1 /5,1,303,0,0% no offer,2017,11,0,0,1
+Amsterdam,173,0.8,1.2,Museum Quarter,140,2.5,4.5,1091,Hotel,4.3 /5,1,304,0,0% no offer,2017,12,0,1,1
+Amsterdam,173,0.8,1.2,Museum Quarter,138,2.5,4.5,1091,Hotel,4.3 /5,1,304,1,1-15% offer,2017,11,0,0,1
+Amsterdam,28,1.4,1.6,Museum Quarter,179,3.5,4.5,177,Apartment,4.3 /5,1,305,1,15-50% offer,2017,12,0,1,1
+Amsterdam,28,1.4,1.6,Museum Quarter,121,3.5,4.5,177,Apartment,4.3 /5,1,305,1,15-50% offer,2017,11,0,0,1
+Amsterdam,28,1.4,1.6,Museum Quarter,882,3.5,4.5,177,Apartment,4.3 /5,1,305,1,1-15% offer,2017,12,0,1,4
+Amsterdam,1121,0.9,1.3,Museum Quarter,551,3,4,769,Hotel,3.9 /5,0,306,0,0% no offer,2018,2,1,0,1
+Amsterdam,1121,0.9,1.3,Museum Quarter,800,3,4,769,Hotel,3.9 /5,0,306,1,1-15% offer,2017,12,0,1,4
+Amsterdam,1121,0.9,1.3,Museum Quarter,551,3,4,769,Hotel,3.9 /5,0,306,0,0% no offer,2018,5,1,0,1
+Amsterdam,1121,0.9,1.3,Museum Quarter,153,3,4,769,Hotel,3.9 /5,0,306,1,15-50% offer,2017,12,0,1,1
+Amsterdam,1121,0.9,1.3,Museum Quarter,551,3,4,769,Hotel,3.9 /5,0,306,0,0% no offer,2018,6,1,0,1
+Amsterdam,1121,0.9,1.3,Museum Quarter,197,3,4,769,Hotel,3.9 /5,0,306,1,1-15% offer,2017,11,1,0,1
+Amsterdam,1121,0.9,1.3,Museum Quarter,551,3,4,769,Hotel,3.9 /5,0,306,0,0% no offer,2018,3,1,0,1
+Amsterdam,1121,0.9,1.3,Museum Quarter,104,3,4,769,Hotel,3.9 /5,0,306,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,1121,0.9,1.3,Museum Quarter,551,3,4,769,Hotel,3.9 /5,0,306,0,0% no offer,2018,4,1,0,1
+Amsterdam,79,1,1.3,Museum Quarter,95,2,2.5,107,Hotel,2.7 /5,0,307,0,0% no offer,2017,11,0,0,1
+Amsterdam,79,1,1.3,Museum Quarter,127,2,2.5,107,Hotel,2.7 /5,1,307,0,0% no offer,2018,2,1,0,1
+Amsterdam,79,1,1.3,Museum Quarter,174,2,2.5,107,Hotel,2.7 /5,1,307,0,0% no offer,2018,5,1,0,1
+Amsterdam,79,1,1.3,Museum Quarter,110,2,2.5,107,Hotel,2.7 /5,1,307,0,0% no offer,2017,12,0,1,1
+Amsterdam,79,1,1.3,Museum Quarter,127,2,2.5,107,Hotel,2.7 /5,1,307,0,0% no offer,2018,1,1,0,1
+Amsterdam,406,0.9,1.2,Museum Quarter,236,3,3.5,548,Hotel,3.7 /5,1,308,0,0% no offer,2018,3,1,0,1
+Amsterdam,406,0.9,1.2,Museum Quarter,190,3,3.5,548,Hotel,3.7 /5,1,308,1,1-15% offer,2017,12,0,1,1
+Amsterdam,406,0.9,1.2,Museum Quarter,109,3,3.5,548,Hotel,3.7 /5,1,308,1,15-50% offer,2017,11,0,0,1
+Amsterdam,406,0.9,1.2,Museum Quarter,819,3,3.5,548,Hotel,3.7 /5,0,308,0,0% no offer,2017,12,0,1,4
+Amsterdam,419,0.9,1.2,Museum Quarter,156,3,3.5,2799,Hotel,3.7 /5,0,309,1,15-50% offer,2018,2,1,0,1
+Amsterdam,419,0.9,1.2,Museum Quarter,147,3,3.5,2799,Hotel,3.7 /5,0,309,1,15-50% offer,2018,1,1,0,1
+Amsterdam,419,0.9,1.2,Museum Quarter,295,3,3.5,2799,Hotel,3.7 /5,0,309,0,0% no offer,2017,11,1,0,1
+Amsterdam,419,0.9,1.2,Museum Quarter,216,3,3.5,2799,Hotel,3.7 /5,0,309,1,15-50% offer,2018,5,1,0,1
+Amsterdam,419,0.9,1.2,Museum Quarter,607,3,3.5,2799,Hotel,3.7 /5,0,309,1,15-50% offer,2017,12,0,1,4
+Amsterdam,419,0.9,1.2,Museum Quarter,97,3,3.5,2799,Hotel,3.7 /5,0,309,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,419,0.9,1.2,Museum Quarter,216,3,3.5,2799,Hotel,3.7 /5,0,309,1,15-50% offer,2018,6,1,0,1
+Amsterdam,419,0.9,1.2,Museum Quarter,107,3,3.5,2799,Hotel,3.7 /5,0,309,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,419,0.9,1.2,Museum Quarter,265,3,3.5,2799,Hotel,3.7 /5,0,309,0,0% no offer,2018,3,1,0,1
+Amsterdam,254,1,1.4,Museum Quarter,632,3,4,684,Hotel,3.9 /5,1,310,1,15-50% offer,2017,12,0,1,4
+Amsterdam,254,1,1.4,Museum Quarter,102,3,4,684,Hotel,3.9 /5,1,310,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,254,1,1.4,Museum Quarter,128,3,4,684,Hotel,3.9 /5,1,310,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,342,1,1.4,Museum Quarter,180,4,4,771,Hotel,4.3 /5,1,311,1,15-50% offer,2017,12,0,1,1
+Amsterdam,342,1,1.4,Museum Quarter,150,4,4,771,Hotel,4.3 /5,1,311,1,15-50% offer,2017,11,0,0,1
+Amsterdam,342,1,1.4,Museum Quarter,851,4,4,771,Hotel,4.3 /5,1,311,1,15-50% offer,2017,12,0,1,4
+Amsterdam,459,1,1.4,Museum Quarter,201,2,2.5,574,Hotel,2.9 /5,1,312,1,1-15% offer,2018,5,1,0,1
+Amsterdam,459,1,1.4,Museum Quarter,179,2,2.5,574,Hotel,2.9 /5,0,312,1,15-50% offer,2018,2,1,0,1
+Amsterdam,459,1,1.4,Museum Quarter,201,2,2.5,574,Hotel,2.9 /5,1,312,1,1-15% offer,2018,6,1,0,1
+Amsterdam,459,1,1.4,Museum Quarter,552,2,2.5,574,Hotel,2.9 /5,1,312,1,15-50% offer,2017,12,0,1,4
+Amsterdam,459,1,1.4,Museum Quarter,161,2,2.5,574,Hotel,2.9 /5,1,312,1,15-50% offer,2017,11,0,0,1
+Amsterdam,459,1,1.4,Museum Quarter,269,2,2.5,574,Hotel,2.9 /5,1,312,0,0% no offer,2018,3,1,0,1
+Amsterdam,459,1,1.4,Museum Quarter,111,2,2.5,574,Hotel,2.9 /5,1,312,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,459,1,1.4,Museum Quarter,156,2,2.5,574,Hotel,2.9 /5,1,312,1,15-50% offer,2018,1,1,0,1
+Amsterdam,459,1,1.4,Museum Quarter,277,2,2.5,574,Hotel,2.9 /5,1,312,0,0% no offer,2017,11,1,0,1
+Amsterdam,459,1,1.4,Museum Quarter,201,2,2.5,574,Hotel,2.9 /5,1,312,1,1-15% offer,2018,4,1,0,1
+Amsterdam,772,0.9,1.3,Museum Quarter,322,5,4,2961,Hotel,4.1 /5,0,313,1,15-50% offer,2018,4,1,0,1
+Amsterdam,772,0.9,1.3,Museum Quarter,381,5,4,2961,Hotel,4.1 /5,0,313,1,15-50% offer,2018,3,1,0,1
+Amsterdam,772,0.9,1.3,Museum Quarter,212,5,4,2961,Hotel,4.1 /5,0,313,1,50%-75% offer,2018,2,1,0,1
+Amsterdam,772,0.9,1.3,Museum Quarter,268,5,4,2961,Hotel,4.1 /5,0,313,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,772,0.9,1.3,Museum Quarter,240,5,4,2961,Hotel,4.1 /5,0,313,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,772,0.9,1.3,Museum Quarter,322,5,4,2961,Hotel,4.1 /5,0,313,1,15-50% offer,2018,5,1,0,1
+Amsterdam,772,0.9,1.3,Museum Quarter,212,5,4,2961,Hotel,4.1 /5,0,313,1,50%-75% offer,2018,1,1,0,1
+Amsterdam,772,0.9,1.3,Museum Quarter,1207,5,4,2961,Hotel,4.1 /5,0,313,1,15-50% offer,2017,12,0,1,4
+Amsterdam,772,0.9,1.3,Museum Quarter,322,5,4,2961,Hotel,4.1 /5,0,313,1,15-50% offer,2018,6,1,0,1
+Amsterdam,772,0.9,1.3,Museum Quarter,370,5,4,2961,Hotel,4.1 /5,0,313,1,15-50% offer,2017,11,1,0,1
+Amsterdam,1013,0.9,1.2,Museum Quarter,211,4,4,2732,Hotel,4.1 /5,0,314,1,15-50% offer,2017,11,0,0,1
+Amsterdam,1013,0.9,1.2,Museum Quarter,880,4,4,2732,Hotel,4.1 /5,0,314,1,15-50% offer,2017,12,0,1,4
+Amsterdam,1013,0.9,1.2,Museum Quarter,179,4,4,2732,Hotel,4.1 /5,0,314,1,15-50% offer,2017,12,0,1,1
+Amsterdam,43,1,1.2,Museum Quarter,116,2,2,289,Hotel,2.9 /5,1,315,1,15-50% offer,2017,11,0,0,1
+Amsterdam,472,0.9,1.3,Museum Quarter,176,4,4,2661,Hotel,3.9 /5,0,316,1,15-50% offer,2017,12,0,1,1
+Amsterdam,472,0.9,1.3,Museum Quarter,200,4,4,2661,Hotel,3.9 /5,0,316,1,15-50% offer,2018,1,1,0,1
+Amsterdam,472,0.9,1.3,Museum Quarter,166,4,4,2661,Hotel,3.9 /5,0,316,1,15-50% offer,2017,11,0,0,1
+Amsterdam,472,0.9,1.3,Museum Quarter,362,4,4,2661,Hotel,3.9 /5,0,316,0,0% no offer,2017,11,1,0,1
+Amsterdam,472,0.9,1.3,Museum Quarter,219,4,4,2661,Hotel,3.9 /5,0,316,1,15-50% offer,2018,2,1,0,1
+Amsterdam,472,0.9,1.3,Museum Quarter,890,4,4,2661,Hotel,3.9 /5,0,316,1,15-50% offer,2017,12,0,1,4
+Amsterdam,20,1,1.2,Museum Quarter,254,2,2,338,Hotel,3.5 /5,1,317,0,0% no offer,2018,3,1,0,1
+Amsterdam,20,1,1.2,Museum Quarter,87,2,2,338,Hotel,3.5 /5,1,317,1,15-50% offer,2017,12,0,1,1
+Amsterdam,581,1,1.3,Museum Quarter,124,3,3.5,106,Hotel,3.7 /5,0,318,0,0% no offer,2017,11,0,0,1
+Amsterdam,581,1,1.3,Museum Quarter,768,3,3.5,106,Hotel,3.7 /5,0,318,0,0% no offer,2017,12,0,1,4
+Amsterdam,581,1,1.3,Museum Quarter,249,3,3.5,106,Hotel,3.7 /5,0,318,0,0% no offer,2017,11,1,0,1
+Amsterdam,581,1,1.3,Museum Quarter,134,3,3.5,106,Hotel,3.7 /5,0,318,0,0% no offer,2017,12,0,1,1
+Amsterdam,581,1,1.3,Museum Quarter,145,3,3.5,106,Hotel,3.7 /5,0,318,0,0% no offer,2018,1,1,0,1
+Amsterdam,144,1.2,1.5,Museum Quarter,508,5,4.5,1341,Hotel,4.8 /5,0,319,1,50%-75% offer,2018,2,1,0,1
+Amsterdam,144,1.2,1.5,Museum Quarter,488,5,4.5,1341,Hotel,4.8 /5,0,319,1,50%-75% offer,2018,3,1,0,1
+Amsterdam,144,1.2,1.5,Museum Quarter,513,5,4.5,1341,Hotel,4.8 /5,0,319,1,50%-75% offer,2017,11,1,0,1
+Amsterdam,144,1.2,1.5,Museum Quarter,508,5,4.5,1341,Hotel,4.8 /5,0,319,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,144,1.2,1.5,Museum Quarter,2704,5,4.5,1341,Hotel,4.8 /5,1,319,1,15-50% offer,2017,12,0,1,4
+Amsterdam,144,1.2,1.5,Museum Quarter,587,5,4.5,1341,Hotel,4.8 /5,0,319,1,15-50% offer,2018,6,1,0,1
+Amsterdam,144,1.2,1.5,Museum Quarter,587,5,4.5,1341,Hotel,4.8 /5,0,319,1,15-50% offer,2018,5,1,0,1
+Amsterdam,144,1.2,1.5,Museum Quarter,606,5,4.5,1341,Hotel,4.8 /5,1,319,1,15-50% offer,2018,4,1,0,1
+Amsterdam,144,1.2,1.5,Museum Quarter,488,5,4.5,1341,Hotel,4.8 /5,0,319,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,144,1.2,1.5,Museum Quarter,429,5,4.5,1341,Hotel,4.8 /5,0,319,1,50%-75% offer,2018,1,1,0,1
+Amsterdam,212,1.3,1.7,Museum Quarter,121,3,4,177,Hotel,4 /5,0,320,1,15-50% offer,2017,12,0,1,1
+Amsterdam,212,1.3,1.7,Museum Quarter,120,3,4,177,Hotel,4 /5,1,320,1,15-50% offer,2017,11,0,0,1
+Amsterdam,205,1.1,1.4,Museum Quarter,207,3,4,941,Hotel,4 /5,1,321,0,0% no offer,2017,11,1,0,1
+Amsterdam,205,1.1,1.4,Museum Quarter,172,3,4,941,Hotel,4 /5,0,321,1,1-15% offer,2018,2,1,0,1
+Amsterdam,205,1.1,1.4,Museum Quarter,172,3,4,941,Hotel,4 /5,0,321,1,1-15% offer,2018,1,1,0,1
+Amsterdam,509,0.9,1.3,Museum Quarter,139,4,4,1460,Hotel,4 /5,1,324,1,15-50% offer,2017,12,0,1,1
+Amsterdam,509,0.9,1.3,Museum Quarter,127,4,4,1460,Hotel,4 /5,0,324,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,509,0.9,1.3,Museum Quarter,911,4,4,1460,Hotel,4 /5,0,324,1,1-15% offer,2017,12,0,1,4
+Amsterdam,59,1,1.4,Museum Quarter,122,3,3.5,449,Hotel,3.4 /5,1,325,1,15-50% offer,2017,12,0,1,1
+Amsterdam,59,1,1.4,Museum Quarter,138,3,3.5,449,Hotel,3.4 /5,1,325,1,15-50% offer,2017,11,0,0,1
+Amsterdam,190,1,1.4,Museum Quarter,121,3,4,560,Hotel,3.9 /5,1,326,1,15-50% offer,2017,11,0,0,1
+Amsterdam,190,1,1.4,Museum Quarter,127,3,4,560,Hotel,3.9 /5,1,326,1,15-50% offer,2017,12,0,1,1
+Amsterdam,190,1,1.4,Museum Quarter,690,3,4,560,Hotel,3.9 /5,1,326,1,1-15% offer,2017,12,0,1,4
+Amsterdam,95,1.1,1.4,Museum Quarter,53,2,4,833,Hostel,4 /5,1,327,0,0% no offer,2017,11,0,0,1
+Amsterdam,95,1.1,1.4,Museum Quarter,50,2,4,833,Hostel,4 /5,0,327,0,0% no offer,2017,12,0,1,1
+Amsterdam,95,1.1,1.4,Museum Quarter,457,2,4,833,Hostel,4 /5,0,327,0,0% no offer,2017,12,0,1,4
+Amsterdam,925,1.1,1.4,Museum Quarter,117,3,3.5,1026,Hotel,3.7 /5,0,328,1,15-50% offer,2017,12,0,1,1
+Amsterdam,925,1.1,1.4,Museum Quarter,114,3,3.5,1026,Hotel,3.7 /5,0,328,1,15-50% offer,2017,11,0,0,1
+Amsterdam,925,1.1,1.4,Museum Quarter,220,3,3.5,1026,Hotel,3.7 /5,0,328,0,0% no offer,2018,2,1,0,1
+Amsterdam,925,1.1,1.4,Museum Quarter,168,3,3.5,1026,Hotel,3.7 /5,0,328,1,15-50% offer,2018,1,1,0,1
+Amsterdam,925,1.1,1.4,Museum Quarter,653,3,3.5,1026,Hotel,3.7 /5,1,328,1,15-50% offer,2017,12,0,1,4
+Amsterdam,415,0.9,1.3,Museum Quarter,161,3,3.5,507,Hotel,3.7 /5,0,329,1,1-15% offer,2018,2,1,0,1
+Amsterdam,415,0.9,1.3,Museum Quarter,646,3,3.5,507,Hotel,3.7 /5,0,329,1,1-15% offer,2017,12,0,1,4
+Amsterdam,415,0.9,1.3,Museum Quarter,102,3,3.5,507,Hotel,3.7 /5,1,329,1,15-50% offer,2017,12,0,1,1
+Amsterdam,415,0.9,1.3,Museum Quarter,141,3,3.5,507,Hotel,3.7 /5,0,329,1,15-50% offer,2018,1,1,0,1
+Amsterdam,415,0.9,1.3,Museum Quarter,126,3,3.5,507,Hotel,3.7 /5,1,329,1,15-50% offer,2017,11,0,0,1
+Amsterdam,186,1.3,1.6,Museum Quarter,150,3,2.5,855,Hotel,3 /5,0,330,1,15-50% offer,2018,1,1,0,1
+Amsterdam,186,1.3,1.6,Museum Quarter,150,3,2.5,855,Hotel,3 /5,0,330,1,15-50% offer,2017,12,0,1,1
+Amsterdam,186,1.3,1.6,Museum Quarter,301,3,2.5,855,Hotel,3 /5,0,330,0,0% no offer,2018,3,1,0,1
+Amsterdam,186,1.3,1.6,Museum Quarter,161,3,2.5,855,Hotel,3 /5,0,330,1,15-50% offer,2018,2,1,0,1
+Amsterdam,186,1.3,1.6,Museum Quarter,808,3,2.5,855,Hotel,3 /5,0,330,0,0% no offer,2017,12,0,1,4
+Amsterdam,186,1.3,1.6,Museum Quarter,218,3,2.5,855,Hotel,3 /5,1,330,0,0% no offer,2017,11,1,0,1
+Amsterdam,186,1.3,1.6,Museum Quarter,312,3,2.5,855,Hotel,3 /5,0,330,0,0% no offer,2018,4,1,0,1
+Amsterdam,186,1.3,1.6,Museum Quarter,92,3,2.5,855,Hotel,3 /5,0,330,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,186,1.3,1.6,Museum Quarter,260,3,2.5,855,Hotel,3 /5,0,330,0,0% no offer,2018,5,1,0,1
+Amsterdam,113,0.8,1.1,Museum Quarter,126,2,2.5,708,Hotel,2.7 /5,1,331,1,50%-75% offer,2018,1,1,0,1
+Amsterdam,113,0.8,1.1,Museum Quarter,84,2,2.5,708,Hotel,2.7 /5,1,331,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,113,0.8,1.1,Museum Quarter,142,2,2.5,708,Hotel,2.7 /5,1,331,1,15-50% offer,2017,11,1,0,1
+Amsterdam,113,0.8,1.1,Museum Quarter,107,2,2.5,708,Hotel,2.7 /5,1,331,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,113,0.8,1.1,Museum Quarter,680,2,2.5,708,Hotel,2.7 /5,1,331,1,15-50% offer,2017,12,0,1,4
+Amsterdam,44,0.9,1,Museum Quarter,150,1.5,2,308,Bed and breakfast,2.7 /5,1,332,0,0% no offer,2017,12,0,1,1
+Amsterdam,44,0.9,1,Museum Quarter,80,1.5,2,308,Bed and breakfast,2.7 /5,1,332,1,1-15% offer,2017,11,0,0,1
+Amsterdam,167,1.6,1.9,Museum Quarter,751,3,4.5,882,Hotel,4.3 /5,0,333,0,0% no offer,2017,12,0,1,4
+Amsterdam,167,1.6,1.9,Museum Quarter,320,3,4.5,882,Hotel,4.3 /5,1,333,0,0% no offer,2018,3,1,0,1
+Amsterdam,167,1.6,1.9,Museum Quarter,126,3,4.5,882,Hotel,4.3 /5,1,333,1,15-50% offer,2017,11,0,0,1
+Amsterdam,167,1.6,1.9,Museum Quarter,160,3,4.5,882,Hotel,4.3 /5,0,333,1,1-15% offer,2017,12,0,1,1
+Amsterdam,NA,1.4,1.7,Museum Quarter,233,3.5,5,21,Bed and breakfast,NA,1,334,0,0% no offer,2017,11,0,0,1
+Amsterdam,763,1.9,1.6,Oost,592,3.5,4,2911,Hotel,4.3 /5,0,335,1,15-50% offer,2017,12,0,1,4
+Amsterdam,763,1.9,1.6,Oost,104,3.5,4,2911,Hotel,4.3 /5,0,335,1,15-50% offer,2017,11,0,0,1
+Amsterdam,763,1.9,1.6,Oost,127,3.5,4,2911,Hotel,4.3 /5,0,335,1,15-50% offer,2017,12,0,1,1
+Amsterdam,372,2.4,2,Oost,138,4,5,453,Hotel,4.6 /5,0,336,1,15-50% offer,2017,12,0,1,1
+Amsterdam,372,2.4,2,Oost,833,4,5,453,Hotel,4.6 /5,0,336,1,1-15% offer,2017,12,0,1,4
+Amsterdam,372,2.4,2,Oost,149,4,5,453,Hotel,4.6 /5,0,336,1,15-50% offer,2017,11,0,0,1
+Amsterdam,573,2.7,2.6,Oost,114,4,4,2112,Hotel,4.1 /5,0,337,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,573,2.7,2.6,Oost,219,4,4,2112,Hotel,4.1 /5,0,337,1,1-15% offer,2018,5,1,0,1
+Amsterdam,573,2.7,2.6,Oost,149,4,4,2112,Hotel,4.1 /5,0,337,1,15-50% offer,2017,11,1,0,1
+Amsterdam,573,2.7,2.6,Oost,96,4,4,2112,Hotel,4.1 /5,0,337,1,50%-75% offer,2018,1,1,0,1
+Amsterdam,573,2.7,2.6,Oost,126,4,4,2112,Hotel,4.1 /5,0,337,1,15-50% offer,2018,2,1,0,1
+Amsterdam,573,2.7,2.6,Oost,219,4,4,2112,Hotel,4.1 /5,0,337,1,1-15% offer,2018,6,1,0,1
+Amsterdam,573,2.7,2.6,Oost,88,4,4,2112,Hotel,4.1 /5,0,337,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,573,2.7,2.6,Oost,552,4,4,2112,Hotel,4.1 /5,0,337,1,15-50% offer,2017,12,0,1,4
+Amsterdam,805,1.5,1.2,Oost,245,3.5,4.5,1576,Hotel,4.5 /5,0,338,1,15-50% offer,2018,3,1,0,1
+Amsterdam,805,1.5,1.2,Oost,250,3.5,4.5,1576,Hotel,4.5 /5,0,338,1,15-50% offer,2018,4,1,0,1
+Amsterdam,805,1.5,1.2,Oost,161,3.5,4.5,1576,Hotel,4.5 /5,1,338,1,15-50% offer,2018,1,1,0,1
+Amsterdam,805,1.5,1.2,Oost,142,3.5,4.5,1576,Hotel,4.5 /5,0,338,1,1-15% offer,2017,12,0,1,1
+Amsterdam,805,1.5,1.2,Oost,112,3.5,4.5,1576,Hotel,4.5 /5,1,338,1,15-50% offer,2017,11,0,0,1
+Amsterdam,805,1.5,1.2,Oost,206,3.5,4.5,1576,Hotel,4.5 /5,0,338,1,15-50% offer,2018,6,1,0,1
+Amsterdam,805,1.5,1.2,Oost,245,3.5,4.5,1576,Hotel,4.5 /5,0,338,1,15-50% offer,2018,5,1,0,1
+Amsterdam,805,1.5,1.2,Oost,640,3.5,4.5,1576,Hotel,4.5 /5,0,338,1,15-50% offer,2017,12,0,1,4
+Amsterdam,805,1.5,1.2,Oost,186,3.5,4.5,1576,Hotel,4.5 /5,1,338,1,15-50% offer,2018,2,1,0,1
+Amsterdam,203,1.6,1.3,Oost,114,3,4.5,1424,Hotel,4.5 /5,1,339,1,15-50% offer,2017,12,0,1,1
+Amsterdam,203,1.6,1.3,Oost,219,3,4.5,1424,Hotel,4.5 /5,1,339,0,0% no offer,2017,11,0,0,1
+Amsterdam,69,1.9,1.5,Oost-Watergraafsmeer,103,3.5,3.5,23,Hotel,3.7 /5,0,341,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,69,1.9,1.5,Oost-Watergraafsmeer,92,3.5,3.5,23,Hotel,3.7 /5,0,341,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,69,1.9,1.5,Oost-Watergraafsmeer,141,3.5,3.5,23,Hotel,3.7 /5,0,341,1,15-50% offer,2018,1,1,0,1
+Amsterdam,69,1.9,1.5,Oost-Watergraafsmeer,151,3.5,3.5,23,Hotel,3.7 /5,0,341,1,15-50% offer,2018,2,1,0,1
+Amsterdam,69,1.9,1.5,Oost-Watergraafsmeer,516,3.5,3.5,23,Hotel,3.7 /5,0,341,1,1-15% offer,2017,12,0,1,4
+Amsterdam,100,1.9,1.4,Oost-Watergraafsmeer,78,1.5,3,435,Hostel,2.9 /5,1,342,0,0% no offer,2017,11,0,0,1
+Amsterdam,100,1.9,1.4,Oost-Watergraafsmeer,313,1.5,3,435,Hostel,2.9 /5,1,342,0,0% no offer,2018,4,1,0,1
+Amsterdam,100,1.9,1.4,Oost-Watergraafsmeer,78,1.5,3,435,Hostel,2.9 /5,1,342,0,0% no offer,2017,12,0,1,1
+Amsterdam,100,1.9,1.4,Oost-Watergraafsmeer,417,1.5,3,435,Hostel,2.9 /5,1,342,0,0% no offer,2018,3,1,0,1
+Duivendrecht,411,3.1,2.8,Oost-Watergraafsmeer,122,3,3,623,Hotel,3.7 /5,0,345,1,15-50% offer,2018,2,1,0,1
+Duivendrecht,411,3.1,2.8,Oost-Watergraafsmeer,393,3,3,623,Hotel,3.7 /5,0,345,1,1-15% offer,2017,12,0,1,4
+Duivendrecht,411,3.1,2.8,Oost-Watergraafsmeer,88,3,3,623,Hotel,3.7 /5,0,345,1,15-50% offer,2017,12,0,1,1
+Duivendrecht,411,3.1,2.8,Oost-Watergraafsmeer,97,3,3,623,Hotel,3.7 /5,0,345,1,15-50% offer,2017,11,0,0,1
+Duivendrecht,411,3.1,2.8,Oost-Watergraafsmeer,140,3,3,623,Hotel,3.7 /5,0,345,1,15-50% offer,2017,11,1,0,1
+Duivendrecht,411,3.1,2.8,Oost-Watergraafsmeer,111,3,3,623,Hotel,3.7 /5,0,345,1,15-50% offer,2018,1,1,0,1
+Amsterdam,1368,0.4,0.5,Oude Centrum,275,4,4,3942,Hotel,4 /5,0,346,1,1-15% offer,2018,2,1,0,1
+Amsterdam,1368,0.4,0.5,Oude Centrum,296,4,4,3942,Hotel,4 /5,0,346,1,1-15% offer,2017,11,1,0,1
+Amsterdam,1368,0.4,0.5,Oude Centrum,982,4,4,3942,Hotel,4 /5,1,346,1,1-15% offer,2017,12,0,1,4
+Amsterdam,1368,0.4,0.5,Oude Centrum,354,4,4,3942,Hotel,4 /5,0,346,1,1-15% offer,2018,6,1,0,1
+Amsterdam,1368,0.4,0.5,Oude Centrum,186,4,4,3942,Hotel,4 /5,0,346,1,1-15% offer,2017,12,0,1,1
+Amsterdam,1368,0.4,0.5,Oude Centrum,245,4,4,3942,Hotel,4 /5,0,346,1,1-15% offer,2018,1,1,0,1
+Amsterdam,1368,0.4,0.5,Oude Centrum,230,4,4,3942,Hotel,4 /5,0,346,1,1-15% offer,2017,11,0,0,1
+Amsterdam,1368,0.4,0.5,Oude Centrum,413,4,4,3942,Hotel,4 /5,0,346,1,1-15% offer,2018,5,1,0,1
+Amsterdam,141,0.3,0.5,Oude Centrum,672,2,2,263,Hostel,2.5 /5,1,347,1,50%-75% offer,2017,12,0,1,4
+Amsterdam,141,0.3,0.5,Oude Centrum,110,2,2,263,Hostel,2.5 /5,1,347,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,141,0.3,0.5,Oude Centrum,121,2,2,263,Hostel,2.5 /5,1,347,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,118,0.3,0.5,Oude Centrum,80,1,2.5,320,Hotel,2.5 /5,1,348,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,118,0.3,0.5,Oude Centrum,150,1,2.5,320,Hotel,2.5 /5,1,348,1,15-50% offer,2017,12,0,1,1
+Amsterdam,118,0.3,0.5,Oude Centrum,869,1,2.5,320,Hotel,2.5 /5,1,348,0,0% no offer,2017,12,0,1,4
+Amsterdam,446,0.2,0.5,Oude Centrum,261,3,2.5,773,Hotel,2.7 /5,0,349,0,0% no offer,2018,5,1,0,1
+Amsterdam,446,0.2,0.5,Oude Centrum,261,3,2.5,773,Hotel,2.7 /5,0,349,0,0% no offer,2018,6,1,0,1
+Amsterdam,446,0.2,0.5,Oude Centrum,214,3,2.5,773,Hotel,2.7 /5,0,349,0,0% no offer,2018,2,1,0,1
+Amsterdam,446,0.2,0.5,Oude Centrum,296,3,2.5,773,Hotel,2.7 /5,0,349,0,0% no offer,2018,3,1,0,1
+Amsterdam,446,0.2,0.5,Oude Centrum,296,3,2.5,773,Hotel,2.7 /5,0,349,0,0% no offer,2018,4,1,0,1
+Amsterdam,446,0.2,0.5,Oude Centrum,145,3,2.5,773,Hotel,2.7 /5,0,349,1,15-50% offer,2017,12,0,1,1
+Amsterdam,446,0.2,0.5,Oude Centrum,766,3,2.5,773,Hotel,2.7 /5,0,349,0,0% no offer,2017,12,0,1,4
+Amsterdam,446,0.2,0.5,Oude Centrum,110,3,2.5,773,Hotel,2.7 /5,0,349,1,15-50% offer,2017,11,0,0,1
+Amsterdam,446,0.2,0.5,Oude Centrum,191,3,2.5,773,Hotel,2.7 /5,0,349,0,0% no offer,2018,1,1,0,1
+Amsterdam,439,0.2,0.5,Oude Centrum,284,1,2,867,Hotel,2.2 /5,0,350,0,0% no offer,2018,6,1,0,1
+Amsterdam,439,0.2,0.5,Oude Centrum,284,1,2,867,Hotel,2.2 /5,0,350,0,0% no offer,2018,2,1,0,1
+Amsterdam,439,0.2,0.5,Oude Centrum,284,1,2,867,Hotel,2.2 /5,0,350,0,0% no offer,2018,3,1,0,1
+Amsterdam,439,0.2,0.5,Oude Centrum,104,1,2,867,Hotel,2.2 /5,0,350,1,15-50% offer,2017,11,0,0,1
+Amsterdam,439,0.2,0.5,Oude Centrum,116,1,2,867,Hotel,2.2 /5,0,350,1,1-15% offer,2017,12,0,1,1
+Amsterdam,439,0.2,0.5,Oude Centrum,284,1,2,867,Hotel,2.2 /5,0,350,0,0% no offer,2018,4,1,0,1
+Amsterdam,439,0.2,0.5,Oude Centrum,667,1,2,867,Hotel,2.2 /5,0,350,0,0% no offer,2017,12,0,1,4
+Amsterdam,439,0.2,0.5,Oude Centrum,284,1,2,867,Hotel,2.2 /5,0,350,0,0% no offer,2018,5,1,0,1
+Amsterdam,751,0.2,0.5,Oude Centrum,187,3,4,1229,Hotel,3.9 /5,0,351,1,15-50% offer,2018,2,1,0,1
+Amsterdam,751,0.2,0.5,Oude Centrum,320,3,4,1229,Hotel,3.9 /5,1,351,0,0% no offer,2018,3,1,0,1
+Amsterdam,751,0.2,0.5,Oude Centrum,213,3,4,1229,Hotel,3.9 /5,0,351,1,15-50% offer,2018,1,1,0,1
+Amsterdam,751,0.2,0.5,Oude Centrum,133,3,4,1229,Hotel,3.9 /5,1,351,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,751,0.2,0.5,Oude Centrum,240,3,4,1229,Hotel,3.9 /5,1,351,1,15-50% offer,2018,4,1,0,1
+Amsterdam,751,0.2,0.5,Oude Centrum,325,3,4,1229,Hotel,3.9 /5,0,351,0,0% no offer,2017,11,1,0,1
+Amsterdam,751,0.2,0.5,Oude Centrum,219,3,4,1229,Hotel,3.9 /5,1,351,1,15-50% offer,2018,6,1,0,1
+Amsterdam,751,0.2,0.5,Oude Centrum,256,3,4,1229,Hotel,3.9 /5,1,351,1,15-50% offer,2018,5,1,0,1
+Amsterdam,751,0.2,0.5,Oude Centrum,165,3,4,1229,Hotel,3.9 /5,1,351,1,15-50% offer,2017,11,0,0,1
+Amsterdam,751,0.2,0.5,Oude Centrum,787,3,4,1229,Hotel,3.9 /5,0,351,1,1-15% offer,2017,12,0,1,4
+Amsterdam,132,0.2,0.5,Oude Centrum,136,2,2.5,312,Hotel,2.9 /5,0,352,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,132,0.2,0.5,Oude Centrum,136,2,2.5,312,Hotel,2.9 /5,0,352,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,132,0.2,0.5,Oude Centrum,749,2,2.5,312,Hotel,2.9 /5,0,352,1,15-50% offer,2017,12,0,1,4
+Amsterdam,41,0.3,0.5,Oude Centrum,91,2,2,292,Hotel,2.4 /5,1,353,0,0% no offer,2017,11,0,0,1
+Amsterdam,101,0.7,0.4,Oude Centrum,364,3.5,4.5,144,Apartment,4.6 /5,1,354,1,1-15% offer,2017,12,0,1,1
+Amsterdam,101,0.7,0.4,Oude Centrum,281,3.5,4.5,144,Apartment,4.6 /5,1,354,1,1-15% offer,2017,11,0,0,1
+Amsterdam,498,0.4,0.7,Oude Centrum,1056,3,4,1003,Hotel,4 /5,1,355,1,15-50% offer,2017,12,0,1,4
+Amsterdam,498,0.4,0.7,Oude Centrum,192,3,4,1003,Hotel,4 /5,1,355,1,15-50% offer,2017,12,0,1,1
+Amsterdam,498,0.4,0.7,Oude Centrum,198,3,4,1003,Hotel,4 /5,1,355,1,15-50% offer,2017,11,0,0,1
+Amsterdam,637,0.3,0.6,Oude Centrum,344,5,4,3341,Hotel,4 /5,0,356,1,15-50% offer,2018,6,1,0,1
+Amsterdam,637,0.3,0.6,Oude Centrum,193,5,4,3341,Hotel,4 /5,0,356,1,50%-75% offer,2018,2,1,0,1
+Amsterdam,637,0.3,0.6,Oude Centrum,196,5,4,3341,Hotel,4 /5,0,356,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,637,0.3,0.6,Oude Centrum,275,5,4,3341,Hotel,4 /5,0,356,1,15-50% offer,2017,11,1,0,1
+Amsterdam,637,0.3,0.6,Oude Centrum,416,5,4,3341,Hotel,4 /5,0,356,0,0% no offer,2018,4,1,0,1
+Amsterdam,637,0.3,0.6,Oude Centrum,206,5,4,3341,Hotel,4 /5,0,356,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,637,0.3,0.6,Oude Centrum,393,5,4,3341,Hotel,4 /5,0,356,1,1-15% offer,2018,3,1,0,1
+Amsterdam,637,0.3,0.6,Oude Centrum,1055,5,4,3341,Hotel,4 /5,0,356,1,15-50% offer,2017,12,0,1,4
+Amsterdam,637,0.3,0.6,Oude Centrum,344,5,4,3341,Hotel,4 /5,0,356,1,15-50% offer,2018,5,1,0,1
+Amsterdam,637,0.3,0.6,Oude Centrum,193,5,4,3341,Hotel,4 /5,0,356,1,50%-75% offer,2018,1,1,0,1
+Amsterdam,351,0.4,0.8,Oude Centrum,198,3,4.5,1461,Hotel,4.8 /5,1,357,1,15-50% offer,2017,11,0,0,1
+Amsterdam,351,0.4,0.8,Oude Centrum,250,3,4.5,1461,Hotel,4.8 /5,1,357,1,15-50% offer,2017,12,0,1,1
+Amsterdam,351,0.4,0.8,Oude Centrum,1222,3,4.5,1461,Hotel,4.8 /5,1,357,1,15-50% offer,2017,12,0,1,4
+Amsterdam,377,0.4,0.6,Oude Centrum,260,3,3.5,1833,Hotel,3.9 /5,0,358,1,15-50% offer,2018,6,1,0,1
+Amsterdam,377,0.4,0.6,Oude Centrum,312,3,3.5,1833,Hotel,3.9 /5,0,358,1,15-50% offer,2018,4,1,0,1
+Amsterdam,377,0.4,0.6,Oude Centrum,176,3,3.5,1833,Hotel,3.9 /5,0,358,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,377,0.4,0.6,Oude Centrum,312,3,3.5,1833,Hotel,3.9 /5,0,358,1,15-50% offer,2017,11,1,0,1
+Amsterdam,377,0.4,0.6,Oude Centrum,218,3,3.5,1833,Hotel,3.9 /5,0,358,1,15-50% offer,2018,1,1,0,1
+Amsterdam,377,0.4,0.6,Oude Centrum,312,3,3.5,1833,Hotel,3.9 /5,0,358,1,15-50% offer,2018,5,1,0,1
+Amsterdam,377,0.4,0.6,Oude Centrum,197,3,3.5,1833,Hotel,3.9 /5,0,358,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,377,0.4,0.6,Oude Centrum,239,3,3.5,1833,Hotel,3.9 /5,0,358,1,15-50% offer,2018,2,1,0,1
+Amsterdam,13,0.4,0.6,Oude Centrum,214,2.5,1.5,70,Hotel,2.5 /5,1,359,0,0% no offer,2018,3,1,0,1
+Amsterdam,13,0.4,0.6,Oude Centrum,1160,2.5,1.5,70,Hotel,2.5 /5,1,359,0,0% no offer,2017,12,0,1,4
+Amsterdam,13,0.4,0.6,Oude Centrum,290,2.5,1.5,70,Hotel,2.5 /5,1,359,0,0% no offer,2017,12,0,1,1
+Amsterdam,13,0.4,0.6,Oude Centrum,214,2.5,1.5,70,Hotel,2.5 /5,1,359,0,0% no offer,2018,2,1,0,1
+Amsterdam,13,0.4,0.6,Oude Centrum,214,2.5,1.5,70,Hotel,2.5 /5,1,359,0,0% no offer,2018,1,1,0,1
+Amsterdam,13,0.4,0.6,Oude Centrum,127,2.5,1.5,70,Hotel,2.5 /5,1,359,1,1-15% offer,2017,11,0,0,1
+Amsterdam,12,0.4,0.6,Oude Centrum,638,2,2,137,Hotel,2.5 /5,0,360,1,15-50% offer,2017,12,0,1,4
+Amsterdam,12,0.4,0.6,Oude Centrum,116,2,2,137,Hotel,2.5 /5,0,360,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,12,0.4,0.6,Oude Centrum,290,2,2,137,Hotel,2.5 /5,1,360,0,0% no offer,2017,11,1,0,1
+Amsterdam,12,0.4,0.6,Oude Centrum,116,2,2,137,Hotel,2.5 /5,0,360,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,29,0.4,0.6,Oude Centrum,92,2.5,2,100,Guest House,2 /5,1,361,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,29,0.4,0.6,Oude Centrum,661,2.5,2,100,Guest House,2 /5,1,361,1,15-50% offer,2017,12,0,1,4
+Amsterdam,29,0.4,0.6,Oude Centrum,232,2.5,2,100,Guest House,2 /5,1,361,0,0% no offer,2017,11,1,0,1
+Amsterdam,29,0.4,0.6,Oude Centrum,81,2.5,2,100,Guest House,2 /5,1,361,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,108,0.4,0.4,Oude Centrum,208,1,3.5,454,Hotel,3.5 /5,0,362,0,0% no offer,2018,1,1,0,1
+Amsterdam,108,0.4,0.4,Oude Centrum,110,1,3.5,454,Hotel,3.5 /5,1,362,1,15-50% offer,2017,11,0,0,1
+Amsterdam,108,0.4,0.4,Oude Centrum,129,1,3.5,454,Hotel,3.5 /5,1,362,1,15-50% offer,2017,12,0,1,1
+Amsterdam,108,0.4,0.4,Oude Centrum,752,1,3.5,454,Hotel,3.5 /5,1,362,0,0% no offer,2017,12,0,1,4
+Amsterdam,10,0.2,0.6,Oude Centrum,915,3.5,4.5,18,Hotel,4.8 /5,1,363,1,15-50% offer,2017,12,0,1,4
+Amsterdam,10,0.2,0.6,Oude Centrum,198,3.5,4.5,18,Hotel,4.8 /5,1,363,1,15-50% offer,2017,12,0,1,1
+Amsterdam,10,0.2,0.6,Oude Centrum,259,3.5,4.5,18,Hotel,4.8 /5,1,363,1,15-50% offer,2017,11,0,0,1
+Amsterdam,89,0.3,0.5,Oude Centrum,63,2,4,1276,Hostel,4 /5,1,364,0,0% no offer,2017,11,0,0,1
+Amsterdam,89,0.3,0.5,Oude Centrum,63,2,4,1276,Hostel,4 /5,1,364,0,0% no offer,2017,12,0,1,1
+Amsterdam,89,0.3,0.5,Oude Centrum,469,2,4,1276,Hostel,4 /5,1,364,0,0% no offer,2017,12,0,1,4
+Amsterdam,3032,0.2,0.6,Oude Centrum,177,4,4,3506,Hotel,4.1 /5,0,365,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,3032,0.2,0.6,Oude Centrum,903,4,4,3506,Hotel,4.1 /5,1,365,1,15-50% offer,2017,12,0,1,4
+Amsterdam,3032,0.2,0.6,Oude Centrum,192,4,4,3506,Hotel,4.1 /5,0,365,1,15-50% offer,2017,12,0,1,1
+Amsterdam,3032,0.2,0.6,Oude Centrum,243,4,4,3506,Hotel,4.1 /5,0,365,1,15-50% offer,2018,3,1,0,1
+Amsterdam,636,0.3,0.6,Oude Centrum,291,3,3.5,1550,Hotel,3.7 /5,1,366,0,0% no offer,2018,6,1,0,1
+Amsterdam,636,0.3,0.6,Oude Centrum,370,3,3.5,1550,Hotel,3.7 /5,1,366,0,0% no offer,2018,3,1,0,1
+Amsterdam,636,0.3,0.6,Oude Centrum,381,3,3.5,1550,Hotel,3.7 /5,1,366,0,0% no offer,2018,4,1,0,1
+Amsterdam,636,0.3,0.6,Oude Centrum,167,3,3.5,1550,Hotel,3.7 /5,0,366,1,15-50% offer,2017,12,0,1,1
+Amsterdam,636,0.3,0.6,Oude Centrum,195,3,3.5,1550,Hotel,3.7 /5,1,366,1,15-50% offer,2018,2,1,0,1
+Amsterdam,636,0.3,0.6,Oude Centrum,207,3,3.5,1550,Hotel,3.7 /5,1,366,1,15-50% offer,2018,1,1,0,1
+Amsterdam,636,0.3,0.6,Oude Centrum,280,3,3.5,1550,Hotel,3.7 /5,1,366,0,0% no offer,2018,5,1,0,1
+Amsterdam,636,0.3,0.6,Oude Centrum,841,3,3.5,1550,Hotel,3.7 /5,1,366,1,15-50% offer,2017,12,0,1,4
+Amsterdam,636,0.3,0.6,Oude Centrum,143,3,3.5,1550,Hotel,3.7 /5,0,366,1,15-50% offer,2017,11,0,0,1
+Amsterdam,626,0.3,0.6,Oude Centrum,295,4.5,4.5,310,Hotel,4.5 /5,0,367,1,1-15% offer,2017,11,0,0,1
+Amsterdam,626,0.3,0.6,Oude Centrum,1124,4.5,4.5,310,Hotel,4.5 /5,0,367,1,15-50% offer,2017,12,0,1,4
+Amsterdam,626,0.3,0.6,Oude Centrum,220,4.5,4.5,310,Hotel,4.5 /5,0,367,1,15-50% offer,2018,1,1,0,1
+Amsterdam,626,0.3,0.6,Oude Centrum,230,4.5,4.5,310,Hotel,4.5 /5,0,367,1,15-50% offer,2017,12,0,1,1
+Amsterdam,626,0.3,0.6,Oude Centrum,248,4.5,4.5,310,Hotel,4.5 /5,0,367,1,15-50% offer,2018,2,1,0,1
+Amsterdam,874,0.2,0.6,Oude Centrum,233,3,4,2176,Hotel,4 /5,0,368,1,1-15% offer,2018,1,1,0,1
+Amsterdam,874,0.2,0.6,Oude Centrum,221,3,4,2176,Hotel,4 /5,0,368,1,15-50% offer,2018,2,1,0,1
+Amsterdam,874,0.2,0.6,Oude Centrum,873,3,4,2176,Hotel,4 /5,0,368,1,15-50% offer,2017,12,0,1,4
+Amsterdam,874,0.2,0.6,Oude Centrum,178,3,4,2176,Hotel,4 /5,0,368,1,15-50% offer,2017,11,0,0,1
+Amsterdam,473,0.2,0.6,Oude Centrum,300,4,4.5,1794,Hotel,4.5 /5,0,369,1,1-15% offer,2017,11,1,0,1
+Amsterdam,473,0.2,0.6,Oude Centrum,236,4,4.5,1794,Hotel,4.5 /5,0,369,1,15-50% offer,2017,11,0,0,1
+Amsterdam,473,0.2,0.6,Oude Centrum,202,4,4.5,1794,Hotel,4.5 /5,0,369,1,15-50% offer,2017,12,0,1,1
+Amsterdam,272,0.2,0.6,Oude Centrum,187,3,4,913,Hotel,4 /5,1,370,1,15-50% offer,2017,11,0,0,1
+Amsterdam,1213,0.6,0.3,Oude Centrum,207,4,4.5,7152,Hotel,4.4 /5,0,371,1,15-50% offer,2017,12,0,1,1
+Amsterdam,1213,0.6,0.3,Oude Centrum,1736,4,4.5,7152,Hotel,4.4 /5,0,371,0,0% no offer,2017,12,0,1,4
+Amsterdam,1213,0.6,0.3,Oude Centrum,231,4,4.5,7152,Hotel,4.4 /5,0,371,1,15-50% offer,2018,1,1,0,1
+Amsterdam,1213,0.6,0.3,Oude Centrum,458,4,4.5,7152,Hotel,4.4 /5,0,371,0,0% no offer,2017,11,1,0,1
+Amsterdam,1213,0.6,0.3,Oude Centrum,228,4,4.5,7152,Hotel,4.4 /5,0,371,1,15-50% offer,2017,11,0,0,1
+Amsterdam,145,0.4,0.3,Oude Centrum,133,3,3.5,210,Hotel,3.2 /5,1,372,1,15-50% offer,2017,11,0,0,1
+Amsterdam,145,0.4,0.3,Oude Centrum,149,3,3.5,210,Hotel,3.2 /5,0,372,1,15-50% offer,2017,12,0,1,1
+Amsterdam,145,0.4,0.3,Oude Centrum,842,3,3.5,210,Hotel,3.2 /5,1,372,0,0% no offer,2017,12,0,1,4
+Amsterdam,310,0.4,0.6,Oude Centrum,1006,3,4,919,Hotel,4 /5,1,373,0,0% no offer,2017,12,0,1,4
+Amsterdam,310,0.4,0.6,Oude Centrum,172,3,4,919,Hotel,4 /5,1,373,1,1-15% offer,2017,12,0,1,1
+Amsterdam,513,0.4,0.5,Oude Centrum,502,5,4.5,1504,Hotel,4.5 /5,0,374,1,1-15% offer,2018,6,1,0,1
+Amsterdam,513,0.4,0.5,Oude Centrum,281,5,4.5,1504,Hotel,4.5 /5,0,374,1,1-15% offer,2017,11,0,0,1
+Amsterdam,513,0.4,0.5,Oude Centrum,275,5,4.5,1504,Hotel,4.5 /5,0,374,1,1-15% offer,2018,2,1,0,1
+Amsterdam,513,0.4,0.5,Oude Centrum,502,5,4.5,1504,Hotel,4.5 /5,0,374,1,1-15% offer,2018,5,1,0,1
+Amsterdam,513,0.4,0.5,Oude Centrum,375,5,4.5,1504,Hotel,4.5 /5,0,374,1,1-15% offer,2017,11,1,0,1
+Amsterdam,513,0.4,0.5,Oude Centrum,502,5,4.5,1504,Hotel,4.5 /5,0,374,1,1-15% offer,2018,4,1,0,1
+Amsterdam,513,0.4,0.5,Oude Centrum,285,5,4.5,1504,Hotel,4.5 /5,0,374,1,1-15% offer,2017,12,0,1,1
+Amsterdam,513,0.4,0.5,Oude Centrum,1387,5,4.5,1504,Hotel,4.5 /5,0,374,1,1-15% offer,2017,12,0,1,4
+Amsterdam,49,0.4,0.4,Oude Centrum,156,3,3.5,651,Hotel,3.5 /5,0,375,1,15-50% offer,2017,12,0,1,1
+Amsterdam,49,0.4,0.4,Oude Centrum,138,3,3.5,651,Hotel,3.5 /5,0,375,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,49,0.4,0.4,Oude Centrum,847,3,3.5,651,Hotel,3.5 /5,0,375,1,15-50% offer,2017,12,0,1,4
+Amsterdam,107,0.4,0.4,Oude Centrum,237,5,4.5,775,Hotel,4.4 /5,0,376,1,15-50% offer,2017,12,0,1,1
+Amsterdam,107,0.4,0.4,Oude Centrum,220,5,4.5,775,Hotel,4.4 /5,0,376,1,15-50% offer,2017,11,0,0,1
+Amsterdam,107,0.4,0.4,Oude Centrum,397,5,4.5,775,Hotel,4.4 /5,0,376,0,0% no offer,2018,6,1,0,1
+Amsterdam,107,0.4,0.4,Oude Centrum,218,5,4.5,775,Hotel,4.4 /5,0,376,1,15-50% offer,2018,1,1,0,1
+Amsterdam,107,0.4,0.4,Oude Centrum,257,5,4.5,775,Hotel,4.4 /5,0,376,1,15-50% offer,2018,2,1,0,1
+Amsterdam,107,0.4,0.4,Oude Centrum,1130,5,4.5,775,Hotel,4.4 /5,0,376,1,1-15% offer,2017,12,0,1,4
+Amsterdam,107,0.4,0.4,Oude Centrum,305,5,4.5,775,Hotel,4.4 /5,0,376,1,1-15% offer,2017,11,1,0,1
+Amsterdam,358,0.3,0.7,Oude Centrum,135,3,4,951,Hotel,3.7 /5,1,377,1,15-50% offer,2017,11,0,0,1
+Amsterdam,358,0.3,0.7,Oude Centrum,145,3,4,951,Hotel,3.7 /5,1,377,1,15-50% offer,2017,12,0,1,1
+Amsterdam,358,0.3,0.7,Oude Centrum,731,3,4,951,Hotel,3.7 /5,1,377,0,0% no offer,2017,12,0,1,4
+Amsterdam,294,0.3,0.6,Oude Centrum,166,3,4,961,Hotel,4.1 /5,1,378,1,15-50% offer,2017,11,0,0,1
+Amsterdam,294,0.3,0.6,Oude Centrum,1056,3,4,961,Hotel,4.1 /5,0,378,1,1-15% offer,2017,12,0,1,4
+Amsterdam,168,0.2,0.6,Oude Centrum,148,2,4,942,Hostel,4 /5,0,379,0,0% no offer,2017,12,0,1,1
+Amsterdam,168,0.2,0.6,Oude Centrum,854,2,4,942,Hostel,4 /5,0,379,0,0% no offer,2017,12,0,1,4
+Amsterdam,168,0.2,0.6,Oude Centrum,143,2,4,942,Hostel,4 /5,0,379,0,0% no offer,2017,11,0,0,1
+Amsterdam,3,0.2,0.6,Oude Centrum,183,3.5,5,182,Bed and breakfast,4.6 /5,1,380,0,0% no offer,2017,11,0,0,1
+Amsterdam,3,0.2,0.6,Oude Centrum,206,3.5,5,182,Bed and breakfast,4.6 /5,1,380,0,0% no offer,2017,12,0,1,1
+Amsterdam,491,0.4,0.4,Oude Centrum,149,3,4.5,1059,Hotel,4.1 /5,0,382,1,15-50% offer,2017,12,0,1,1
+Amsterdam,491,0.4,0.4,Oude Centrum,161,3,4.5,1059,Hotel,4.1 /5,1,382,1,15-50% offer,2017,11,0,0,1
+Amsterdam,491,0.4,0.4,Oude Centrum,207,3,4.5,1059,Hotel,4.1 /5,0,382,1,15-50% offer,2018,1,1,0,1
+Amsterdam,491,0.4,0.4,Oude Centrum,842,3,4.5,1059,Hotel,4.1 /5,0,382,1,15-50% offer,2017,12,0,1,4
+Amsterdam,274,0.3,0.4,Oude Centrum,157,2,3,735,Hotel,3 /5,1,383,1,50%-75% offer,2018,1,1,0,1
+Amsterdam,274,0.3,0.4,Oude Centrum,267,2,3,735,Hotel,3 /5,0,383,1,15-50% offer,2017,11,1,0,1
+Amsterdam,274,0.3,0.4,Oude Centrum,116,2,3,735,Hotel,3 /5,1,383,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,274,0.3,0.4,Oude Centrum,129,2,3,735,Hotel,3 /5,0,383,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,734,0.3,0.4,Oude Centrum,265,3,4,1357,Hotel,3.7 /5,0,384,1,15-50% offer,2018,6,1,0,1
+Amsterdam,734,0.3,0.4,Oude Centrum,289,3,4,1357,Hotel,3.7 /5,1,384,1,15-50% offer,2017,11,1,0,1
+Amsterdam,734,0.3,0.4,Oude Centrum,172,3,4,1357,Hotel,3.7 /5,1,384,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,734,0.3,0.4,Oude Centrum,184,3,4,1357,Hotel,3.7 /5,1,384,1,15-50% offer,2017,12,0,1,1
+Amsterdam,734,0.3,0.4,Oude Centrum,196,3,4,1357,Hotel,3.7 /5,1,384,1,15-50% offer,2018,2,1,0,1
+Amsterdam,734,0.3,0.4,Oude Centrum,289,3,4,1357,Hotel,3.7 /5,0,384,1,15-50% offer,2018,4,1,0,1
+Amsterdam,734,0.3,0.4,Oude Centrum,854,3,4,1357,Hotel,3.7 /5,1,384,1,15-50% offer,2017,12,0,1,4
+Amsterdam,734,0.3,0.4,Oude Centrum,265,3,4,1357,Hotel,3.7 /5,0,384,1,15-50% offer,2018,5,1,0,1
+Amsterdam,734,0.3,0.4,Oude Centrum,219,3,4,1357,Hotel,3.7 /5,0,384,1,15-50% offer,2018,1,1,0,1
+Amsterdam,18,0.4,0.4,Oude Centrum,121,2.5,3.5,471,Hotel,3.2 /5,1,385,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,18,0.4,0.4,Oude Centrum,133,2.5,3.5,471,Hotel,3.2 /5,1,385,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,23,0.4,0.4,Oude Centrum,98,2.5,3,130,Hotel,2.7 /5,1,386,1,15-50% offer,2017,12,0,1,1
+Amsterdam,23,0.4,0.4,Oude Centrum,98,2.5,3,130,Hotel,2.7 /5,1,386,1,15-50% offer,2017,11,0,0,1
+Amsterdam,109,1,0.5,Plantage - Eastern Docklands,127,3,4,189,Hotel,4.4 /5,0,387,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,109,1,0.5,Plantage - Eastern Docklands,155,3,4,189,Hotel,4.4 /5,0,387,1,15-50% offer,2017,12,0,1,1
+Amsterdam,376,1.5,1,Plantage - Eastern Docklands,113,3,4,858,Hotel,4 /5,0,388,1,1-15% offer,2017,11,0,0,1
+Amsterdam,376,1.5,1,Plantage - Eastern Docklands,151,3,4,858,Hotel,4 /5,0,388,1,1-15% offer,2017,12,0,1,1
+Amsterdam,376,1.5,1,Plantage - Eastern Docklands,696,3,4,858,Hotel,4 /5,0,388,1,15-50% offer,2017,12,0,1,4
+Amsterdam,473,1.7,1.2,Plantage - Eastern Docklands,668,4,4,1854,Hotel,4.3 /5,0,389,1,15-50% offer,2017,12,0,1,4
+Amsterdam,473,1.7,1.2,Plantage - Eastern Docklands,139,4,4,1854,Hotel,4.3 /5,0,389,1,15-50% offer,2017,11,0,0,1
+Amsterdam,473,1.7,1.2,Plantage - Eastern Docklands,146,4,4,1854,Hotel,4.3 /5,0,389,1,1-15% offer,2017,12,0,1,1
+Amsterdam,150,1.4,0.9,Plantage - Eastern Docklands,136,2,4.5,602,Hostel,4.3 /5,0,390,0,0% no offer,2017,12,0,1,1
+Amsterdam,150,1.4,0.9,Plantage - Eastern Docklands,651,2,4.5,602,Hostel,4.3 /5,0,390,0,0% no offer,2017,12,0,1,4
+Amsterdam,150,1.4,0.9,Plantage - Eastern Docklands,121,2,4.5,602,Hostel,4.3 /5,0,390,0,0% no offer,2017,11,0,0,1
+Amsterdam,344,1.8,1.2,Plantage - Eastern Docklands,165,3,4,1518,Hotel,4 /5,0,391,1,15-50% offer,2018,3,1,0,1
+Amsterdam,344,1.8,1.2,Plantage - Eastern Docklands,689,3,4,1518,Hotel,4 /5,0,391,1,1-15% offer,2017,12,0,1,4
+Amsterdam,344,1.8,1.2,Plantage - Eastern Docklands,154,3,4,1518,Hotel,4 /5,0,391,1,15-50% offer,2018,6,1,0,1
+Amsterdam,344,1.8,1.2,Plantage - Eastern Docklands,165,3,4,1518,Hotel,4 /5,0,391,1,15-50% offer,2018,4,1,0,1
+Amsterdam,344,1.8,1.2,Plantage - Eastern Docklands,165,3,4,1518,Hotel,4 /5,1,391,1,15-50% offer,2018,5,1,0,1
+Amsterdam,344,1.8,1.2,Plantage - Eastern Docklands,110,3,4,1518,Hotel,4 /5,1,391,1,50%-75% offer,2018,1,1,0,1
+Amsterdam,344,1.8,1.2,Plantage - Eastern Docklands,110,3,4,1518,Hotel,4 /5,1,391,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,344,1.8,1.2,Plantage - Eastern Docklands,286,3,4,1518,Hotel,4 /5,1,391,0,0% no offer,2017,11,1,0,1
+Amsterdam,344,1.8,1.2,Plantage - Eastern Docklands,132,3,4,1518,Hotel,4 /5,0,391,1,15-50% offer,2018,2,1,0,1
+Amsterdam,344,1.8,1.2,Plantage - Eastern Docklands,88,3,4,1518,Hotel,4 /5,0,391,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,137,1.4,0.8,Plantage - Eastern Docklands,194,4,4.5,357,Apartment,4.4 /5,1,392,1,15-50% offer,2017,11,0,0,1
+Amsterdam,137,1.4,0.8,Plantage - Eastern Docklands,877,4,4.5,357,Apartment,4.4 /5,0,392,1,15-50% offer,2017,12,0,1,4
+Amsterdam,137,1.4,0.8,Plantage - Eastern Docklands,212,4,4.5,357,Apartment,4.4 /5,0,392,1,15-50% offer,2017,12,0,1,1
+Amsterdam,137,1.4,0.8,Plantage - Eastern Docklands,308,4,4.5,357,Apartment,4.4 /5,1,392,1,15-50% offer,2017,11,1,0,1
+Amsterdam,137,1.4,0.8,Plantage - Eastern Docklands,236,4,4.5,357,Apartment,4.4 /5,0,392,1,15-50% offer,2018,1,1,0,1
+Amsterdam,29,1.6,1.2,Plantage - Eastern Docklands,613,5,5,226,Guest House,5 /5,1,393,0,0% no offer,2018,3,1,0,1
+Amsterdam,29,1.6,1.2,Plantage - Eastern Docklands,613,5,5,226,Guest House,5 /5,1,393,0,0% no offer,2018,2,1,0,1
+Amsterdam,29,1.6,1.2,Plantage - Eastern Docklands,613,5,5,226,Guest House,5 /5,1,393,0,0% no offer,2018,6,1,0,1
+Amsterdam,29,1.6,1.2,Plantage - Eastern Docklands,574,5,5,226,Guest House,5 /5,1,393,1,1-15% offer,2017,11,0,0,1
+Amsterdam,29,1.6,1.2,Plantage - Eastern Docklands,613,5,5,226,Guest House,5 /5,1,393,0,0% no offer,2018,4,1,0,1
+Amsterdam,29,1.6,1.2,Plantage - Eastern Docklands,613,5,5,226,Guest House,5 /5,1,393,0,0% no offer,2018,1,1,0,1
+Amsterdam,29,1.6,1.2,Plantage - Eastern Docklands,613,5,5,226,Guest House,5 /5,1,393,0,0% no offer,2017,11,1,0,1
+Amsterdam,29,1.6,1.2,Plantage - Eastern Docklands,613,5,5,226,Guest House,5 /5,1,393,0,0% no offer,2018,5,1,0,1
+Amsterdam,106,1.8,1.2,Plantage - Eastern Docklands,155,3,4.5,405,Hotel,4.5 /5,0,394,1,15-50% offer,2017,11,0,0,1
+Amsterdam,106,1.8,1.2,Plantage - Eastern Docklands,218,3,4.5,405,Hotel,4.5 /5,0,394,1,15-50% offer,2018,6,1,0,1
+Amsterdam,106,1.8,1.2,Plantage - Eastern Docklands,176,3,4.5,405,Hotel,4.5 /5,0,394,1,15-50% offer,2018,2,1,0,1
+Amsterdam,106,1.8,1.2,Plantage - Eastern Docklands,218,3,4.5,405,Hotel,4.5 /5,0,394,1,15-50% offer,2017,12,0,1,1
+Amsterdam,106,1.8,1.2,Plantage - Eastern Docklands,239,3,4.5,405,Hotel,4.5 /5,0,394,1,1-15% offer,2018,5,1,0,1
+Amsterdam,106,1.8,1.2,Plantage - Eastern Docklands,197,3,4.5,405,Hotel,4.5 /5,0,394,1,15-50% offer,2018,1,1,0,1
+Amsterdam,106,1.8,1.2,Plantage - Eastern Docklands,852,3,4.5,405,Hotel,4.5 /5,0,394,1,15-50% offer,2017,12,0,1,4
+Amsterdam,106,1.8,1.2,Plantage - Eastern Docklands,197,3,4.5,405,Hotel,4.5 /5,0,394,1,15-50% offer,2017,11,1,0,1
+Amsterdam,106,1.8,1.2,Plantage - Eastern Docklands,260,3,4.5,405,Hotel,4.5 /5,0,394,1,1-15% offer,2018,4,1,0,1
+Amsterdam,116,0.9,0.5,Plantage - Eastern Docklands,138,2,3,499,Hotel,3 /5,1,395,1,50%-75% offer,2018,1,1,0,1
+Amsterdam,116,0.9,0.5,Plantage - Eastern Docklands,107,2,3,499,Hotel,3 /5,1,395,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,116,0.9,0.5,Plantage - Eastern Docklands,200,2,3,499,Hotel,3 /5,1,395,1,15-50% offer,2018,2,1,0,1
+Amsterdam,116,0.9,0.5,Plantage - Eastern Docklands,231,2,3,499,Hotel,3 /5,0,395,1,15-50% offer,2017,11,1,0,1
+Amsterdam,116,0.9,0.5,Plantage - Eastern Docklands,91,2,3,499,Hotel,3 /5,1,395,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,116,0.9,0.5,Plantage - Eastern Docklands,731,2,3,499,Hotel,3 /5,0,395,1,15-50% offer,2017,12,0,1,4
+Amsterdam,41,0.9,0.4,Plantage - Eastern Docklands,191,2,4,327,Hotel,3.7 /5,1,396,1,15-50% offer,2017,12,0,1,1
+Amsterdam,41,0.9,0.4,Plantage - Eastern Docklands,772,2,4,327,Hotel,3.7 /5,1,396,1,15-50% offer,2017,12,0,1,4
+Amsterdam,41,0.9,0.4,Plantage - Eastern Docklands,162,2,4,327,Hotel,3.7 /5,1,396,1,15-50% offer,2017,11,0,0,1
+Amsterdam,34,0.9,0.5,Plantage - Eastern Docklands,116,3,2.5,183,Hotel,3.7 /5,1,397,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,34,0.9,0.5,Plantage - Eastern Docklands,197,3,2.5,183,Hotel,3.7 /5,1,397,1,15-50% offer,2018,5,1,0,1
+Amsterdam,34,0.9,0.5,Plantage - Eastern Docklands,679,3,2.5,183,Hotel,3.7 /5,1,397,1,1-15% offer,2017,12,0,1,4
+Amsterdam,34,0.9,0.5,Plantage - Eastern Docklands,197,3,2.5,183,Hotel,3.7 /5,1,397,1,15-50% offer,2018,6,1,0,1
+Amsterdam,34,0.9,0.5,Plantage - Eastern Docklands,85,3,2.5,183,Hotel,3.7 /5,1,397,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,34,0.9,0.5,Plantage - Eastern Docklands,197,3,2.5,183,Hotel,3.7 /5,1,397,1,15-50% offer,2018,4,1,0,1
+Amsterdam,5,1,0.5,Plantage - Eastern Docklands,170,4,5,4,Apartment,4.4 /5,1,398,1,15-50% offer,2017,11,0,0,1
+Amsterdam,5,1,0.5,Plantage - Eastern Docklands,1039,4,5,4,Apartment,4.4 /5,1,398,0,0% no offer,2017,12,0,1,4
+Amsterdam,5,1,0.5,Plantage - Eastern Docklands,176,4,5,4,Apartment,4.4 /5,1,398,1,15-50% offer,2017,12,0,1,1
+Amsterdam,197,1,0.5,Plantage - Eastern Docklands,125,3,3.5,1142,Hotel,3.5 /5,0,399,1,1-15% offer,2017,11,0,0,1
+Amsterdam,29,0.9,0.5,Plantage - Eastern Docklands,197,3.5,3.5,82,Apartment,4.1 /5,1,400,0,0% no offer,2017,11,0,0,1
+Amsterdam,29,0.9,0.5,Plantage - Eastern Docklands,893,3.5,3.5,82,Apartment,4.1 /5,1,400,0,0% no offer,2017,12,0,1,4
+Amsterdam,40,0.9,0.5,Plantage - Eastern Docklands,731,4,3.5,82,Apartment,3.5 /5,1,401,0,0% no offer,2017,12,0,1,4
+Amsterdam,40,0.9,0.5,Plantage - Eastern Docklands,278,4,3.5,82,Apartment,3.5 /5,1,401,0,0% no offer,2017,11,0,0,1
+Amsterdam,40,0.9,0.5,Plantage - Eastern Docklands,185,4,3.5,82,Apartment,3.5 /5,1,401,0,0% no offer,2017,12,0,1,1
+Amsterdam,37,1,0.5,Plantage - Eastern Docklands,161,2,2.5,233,Hotel,2.7 /5,1,402,1,15-50% offer,2017,12,0,1,1
+Amsterdam,37,1,0.5,Plantage - Eastern Docklands,103,2,2.5,233,Hotel,2.7 /5,1,402,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,37,1,0.5,Plantage - Eastern Docklands,614,2,2.5,233,Hotel,2.7 /5,1,402,1,15-50% offer,2017,12,0,1,4
+Amsterdam,55,0.8,0.3,Plantage - Eastern Docklands,138,2,4,118,Hotel,3.5 /5,1,403,0,0% no offer,2017,12,0,1,1
+Amsterdam,55,0.8,0.3,Plantage - Eastern Docklands,761,2,4,118,Hotel,3.5 /5,1,403,0,0% no offer,2017,12,0,1,4
+Amsterdam,55,0.8,0.3,Plantage - Eastern Docklands,103,2,4,118,Hotel,3.5 /5,1,403,1,1-15% offer,2017,11,0,0,1
+Amsterdam,75,1.1,0.8,Plantage - Eastern Docklands,261,4,4.5,191,Hotel,4.6 /5,0,404,1,15-50% offer,2018,2,1,0,1
+Amsterdam,75,1.1,0.8,Plantage - Eastern Docklands,240,4,4.5,191,Hotel,4.6 /5,0,404,1,15-50% offer,2018,1,1,0,1
+Amsterdam,75,1.1,0.8,Plantage - Eastern Docklands,219,4,4.5,191,Hotel,4.6 /5,0,404,1,15-50% offer,2017,11,0,0,1
+Amsterdam,75,1.1,0.8,Plantage - Eastern Docklands,261,4,4.5,191,Hotel,4.6 /5,1,404,1,15-50% offer,2017,11,1,0,1
+Amsterdam,75,1.1,0.8,Plantage - Eastern Docklands,877,4,4.5,191,Hotel,4.6 /5,1,404,1,15-50% offer,2017,12,0,1,4
+Amsterdam,75,1.1,0.8,Plantage - Eastern Docklands,313,4,4.5,191,Hotel,4.6 /5,0,404,1,1-15% offer,2018,6,1,0,1
+Amsterdam,75,1.1,0.8,Plantage - Eastern Docklands,219,4,4.5,191,Hotel,4.6 /5,0,404,1,15-50% offer,2017,12,0,1,1
+Amsterdam,75,1.1,0.8,Plantage - Eastern Docklands,365,4,4.5,191,Hotel,4.6 /5,0,404,0,0% no offer,2018,3,1,0,1
+Amsterdam,75,1.1,0.8,Plantage - Eastern Docklands,313,4,4.5,191,Hotel,4.6 /5,0,404,1,1-15% offer,2018,5,1,0,1
+Amsterdam,75,1.1,0.8,Plantage - Eastern Docklands,313,4,4.5,191,Hotel,4.6 /5,0,404,1,1-15% offer,2018,4,1,0,1
+Amsterdam,105,1.1,0.7,Plantage - Eastern Docklands,680,3,4,409,Hotel,3.7 /5,0,405,0,0% no offer,2017,12,0,1,4
+Amsterdam,105,1.1,0.7,Plantage - Eastern Docklands,114,3,4,409,Hotel,3.7 /5,0,405,1,15-50% offer,2017,12,0,1,1
+Amsterdam,105,1.1,0.7,Plantage - Eastern Docklands,91,3,4,409,Hotel,3.7 /5,1,405,1,15-50% offer,2017,11,0,0,1
+Amsterdam,19,1.7,1.2,Plantage - Eastern Docklands,150,4,3.5,20,Apartment,3.7 /5,1,408,0,0% no offer,2017,11,0,0,1
+Amsterdam,19,1.7,1.2,Plantage - Eastern Docklands,862,4,3.5,20,Apartment,3.7 /5,1,408,0,0% no offer,2017,12,0,1,4
+Amsterdam,589,1.3,0.9,Plantage - Eastern Docklands,164,4,4,476,Hotel,4 /5,0,409,1,15-50% offer,2018,1,1,0,1
+Amsterdam,589,1.3,0.9,Plantage - Eastern Docklands,723,4,4,476,Hotel,4 /5,0,409,1,1-15% offer,2017,12,0,1,4
+Amsterdam,589,1.3,0.9,Plantage - Eastern Docklands,309,4,4,476,Hotel,4 /5,0,409,0,0% no offer,2018,3,1,0,1
+Amsterdam,589,1.3,0.9,Plantage - Eastern Docklands,111,4,4,476,Hotel,4 /5,0,409,1,50%-75% offer,2017,12,0,1,1
+Amsterdam,589,1.3,0.9,Plantage - Eastern Docklands,226,4,4,476,Hotel,4 /5,0,409,1,15-50% offer,2018,2,1,0,1
+Amsterdam,589,1.3,0.9,Plantage - Eastern Docklands,172,4,4,476,Hotel,4 /5,0,409,1,15-50% offer,2017,11,0,0,1
+Schiphol,2388,7.2,7.7,Schiphol,120,4,4.5,4829,Hotel,4.4 /5,0,410,1,15-50% offer,2018,3,1,0,1
+Schiphol,2388,7.2,7.7,Schiphol,120,4,4.5,4829,Hotel,4.4 /5,0,410,1,15-50% offer,2018,4,1,0,1
+Schiphol,2388,7.2,7.7,Schiphol,109,4,4.5,4829,Hotel,4.4 /5,0,410,1,15-50% offer,2018,2,1,0,1
+Schiphol,2388,7.2,7.7,Schiphol,142,4,4.5,4829,Hotel,4.4 /5,0,410,1,15-50% offer,2017,11,0,0,1
+Schiphol,2388,7.2,7.7,Schiphol,98,4,4.5,4829,Hotel,4.4 /5,0,410,1,15-50% offer,2018,1,1,0,1
+Schiphol,2388,7.2,7.7,Schiphol,120,4,4.5,4829,Hotel,4.4 /5,0,410,1,15-50% offer,2017,11,1,0,1
+Schiphol,2388,7.2,7.7,Schiphol,153,4,4.5,4829,Hotel,4.4 /5,0,410,1,1-15% offer,2018,5,1,0,1
+Schiphol,2388,7.2,7.7,Schiphol,502,4,4.5,4829,Hotel,4.4 /5,0,410,1,15-50% offer,2017,12,0,1,4
+Schiphol,2388,7.2,7.7,Schiphol,142,4,4.5,4829,Hotel,4.4 /5,0,410,1,15-50% offer,2018,6,1,0,1
+Schiphol,2388,7.2,7.7,Schiphol,120,4,4.5,4829,Hotel,4.4 /5,0,410,1,15-50% offer,2017,12,0,1,1
+Schiphol,358,5.9,6.2,Schiphol,117,3,4,169,Hotel,4.3 /5,0,411,0,0% no offer,2018,5,1,0,1
+Schiphol,358,5.9,6.2,Schiphol,87,3,4,169,Hotel,4.3 /5,0,411,0,0% no offer,2017,12,0,1,1
+Schiphol,358,5.9,6.2,Schiphol,341,3,4,169,Hotel,4.3 /5,0,411,0,0% no offer,2017,12,0,1,4
+Schiphol,358,5.9,6.2,Schiphol,137,3,4,169,Hotel,4.3 /5,0,411,0,0% no offer,2018,4,1,0,1
+Schiphol,358,5.9,6.2,Schiphol,117,3,4,169,Hotel,4.3 /5,0,411,0,0% no offer,2018,3,1,0,1
+Schiphol,358,5.9,6.2,Schiphol,97,3,4,169,Hotel,4.3 /5,0,411,0,0% no offer,2017,11,1,0,1
+Schiphol,358,5.9,6.2,Schiphol,97,3,4,169,Hotel,4.3 /5,0,411,0,0% no offer,2018,6,1,0,1
+Schiphol,358,5.9,6.2,Schiphol,100,3,4,169,Hotel,4.3 /5,0,411,0,0% no offer,2017,11,0,0,1
+Schiphol,358,5.9,6.2,Schiphol,87,3,4,169,Hotel,4.3 /5,0,411,0,0% no offer,2018,1,1,0,1
+Schiphol,358,5.9,6.2,Schiphol,87,3,4,169,Hotel,4.3 /5,0,411,0,0% no offer,2018,2,1,0,1
+Schiphol,661,7.1,7.5,Schiphol,161,4,4,1991,Hotel,4.5 /5,0,412,1,15-50% offer,2018,5,1,0,1
+Schiphol,661,7.1,7.5,Schiphol,196,4,4,1991,Hotel,4.5 /5,0,412,1,15-50% offer,2018,4,1,0,1
+Schiphol,661,7.1,7.5,Schiphol,277,4,4,1991,Hotel,4.5 /5,0,412,1,1-15% offer,2017,11,0,0,1
+Schiphol,661,7.1,7.5,Schiphol,161,4,4,1991,Hotel,4.5 /5,0,412,1,15-50% offer,2018,2,1,0,1
+Schiphol,661,7.1,7.5,Schiphol,161,4,4,1991,Hotel,4.5 /5,0,412,1,15-50% offer,2018,6,1,0,1
+Schiphol,661,7.1,7.5,Schiphol,184,4,4,1991,Hotel,4.5 /5,0,412,1,15-50% offer,2018,3,1,0,1
+Schiphol,661,7.1,7.5,Schiphol,161,4,4,1991,Hotel,4.5 /5,0,412,1,15-50% offer,2018,1,1,0,1
+Schiphol,661,7.1,7.5,Schiphol,161,4,4,1991,Hotel,4.5 /5,0,412,1,15-50% offer,2017,12,0,1,1
+Schiphol,661,7.1,7.5,Schiphol,413,4,4,1991,Hotel,4.5 /5,0,412,1,15-50% offer,2017,12,0,1,4
+Schiphol,661,7.1,7.5,Schiphol,161,4,4,1991,Hotel,4.5 /5,0,412,1,15-50% offer,2017,11,1,0,1
+Schiphol,392,7.4,7.8,Schiphol,161,4,4.5,1293,Hotel,4.5 /5,0,413,1,50%-75% offer,2017,11,1,0,1
+Schiphol,392,7.4,7.8,Schiphol,196,4,4.5,1293,Hotel,4.5 /5,0,413,1,15-50% offer,2018,4,1,0,1
+Schiphol,392,7.4,7.8,Schiphol,172,4,4.5,1293,Hotel,4.5 /5,0,413,1,50%-75% offer,2017,12,0,1,1
+Schiphol,392,7.4,7.8,Schiphol,691,4,4.5,1293,Hotel,4.5 /5,0,413,1,50%-75% offer,2017,12,0,1,4
+Schiphol,392,7.4,7.8,Schiphol,242,4,4.5,1293,Hotel,4.5 /5,0,413,1,15-50% offer,2017,11,0,0,1
+Schiphol,392,7.4,7.8,Schiphol,161,4,4.5,1293,Hotel,4.5 /5,0,413,1,50%-75% offer,2018,6,1,0,1
+Schiphol,392,7.4,7.8,Schiphol,161,4,4.5,1293,Hotel,4.5 /5,0,413,1,50%-75% offer,2018,1,1,0,1
+Schiphol,392,7.4,7.8,Schiphol,161,4,4.5,1293,Hotel,4.5 /5,0,413,1,50%-75% offer,2018,2,1,0,1
+Schiphol,392,7.4,7.8,Schiphol,196,4,4.5,1293,Hotel,4.5 /5,0,413,1,15-50% offer,2018,3,1,0,1
+Schiphol,392,7.4,7.8,Schiphol,161,4,4.5,1293,Hotel,4.5 /5,0,413,1,50%-75% offer,2018,5,1,0,1
+Schiphol,915,5.6,6,Schiphol,176,4,4,2166,Hotel,4.3 /5,0,414,1,15-50% offer,2018,6,1,0,1
+Schiphol,915,5.6,6,Schiphol,123,4,4,2166,Hotel,4.3 /5,0,414,1,15-50% offer,2018,1,1,0,1
+Schiphol,915,5.6,6,Schiphol,123,4,4,2166,Hotel,4.3 /5,0,414,1,15-50% offer,2018,2,1,0,1
+Schiphol,915,5.6,6,Schiphol,196,4,4,2166,Hotel,4.3 /5,0,414,1,1-15% offer,2018,3,1,0,1
+Schiphol,915,5.6,6,Schiphol,107,4,4,2166,Hotel,4.3 /5,0,414,1,15-50% offer,2017,11,1,0,1
+Schiphol,915,5.6,6,Schiphol,107,4,4,2166,Hotel,4.3 /5,0,414,1,15-50% offer,2017,12,0,1,1
+Schiphol,915,5.6,6,Schiphol,149,4,4,2166,Hotel,4.3 /5,0,414,1,15-50% offer,2017,11,0,0,1
+Schiphol,915,5.6,6,Schiphol,156,4,4,2166,Hotel,4.3 /5,0,414,1,15-50% offer,2018,4,1,0,1
+Schiphol,915,5.6,6,Schiphol,156,4,4,2166,Hotel,4.3 /5,0,414,1,15-50% offer,2018,5,1,0,1
+Schiphol,915,5.6,6,Schiphol,465,4,4,2166,Hotel,4.3 /5,0,414,1,15-50% offer,2017,12,0,1,4
+Schiphol-Rijk,409,9,9.4,Schiphol-Rijk,116,3,4,718,Hotel,4.1 /5,0,415,1,15-50% offer,2017,11,0,0,1
+Schiphol-Rijk,409,9,9.4,Schiphol-Rijk,88,3,4,718,Hotel,4.1 /5,0,415,1,15-50% offer,2018,6,1,0,1
+Schiphol-Rijk,409,9,9.4,Schiphol-Rijk,102,3,4,718,Hotel,4.1 /5,0,415,1,15-50% offer,2018,5,1,0,1
+Schiphol-Rijk,409,9,9.4,Schiphol-Rijk,138,3,4,718,Hotel,4.1 /5,0,415,1,15-50% offer,2017,11,1,0,1
+Schiphol-Rijk,409,9,9.4,Schiphol-Rijk,88,3,4,718,Hotel,4.1 /5,0,415,1,15-50% offer,2017,12,0,1,1
+Schiphol-Rijk,409,9,9.4,Schiphol-Rijk,88,3,4,718,Hotel,4.1 /5,0,415,1,15-50% offer,2018,1,1,0,1
+Schiphol-Rijk,409,9,9.4,Schiphol-Rijk,102,3,4,718,Hotel,4.1 /5,0,415,1,15-50% offer,2018,4,1,0,1
+Schiphol-Rijk,409,9,9.4,Schiphol-Rijk,399,3,4,718,Hotel,4.1 /5,0,415,1,15-50% offer,2017,12,0,1,4
+Schiphol-Rijk,409,9,9.4,Schiphol-Rijk,88,3,4,718,Hotel,4.1 /5,0,415,1,15-50% offer,2018,2,1,0,1
+Schiphol-Rijk,409,9,9.4,Schiphol-Rijk,111,3,4,718,Hotel,4.1 /5,0,415,1,15-50% offer,2018,3,1,0,1
+Schiphol-Rijk,478,8.8,9.2,Schiphol-Rijk,101,4,4,1319,Hotel,4.4 /5,0,416,1,15-50% offer,2017,12,0,1,1
+Schiphol-Rijk,478,8.8,9.2,Schiphol-Rijk,97,4,4,1319,Hotel,4.4 /5,0,416,1,15-50% offer,2018,6,1,0,1
+Schiphol-Rijk,478,8.8,9.2,Schiphol-Rijk,119,4,4,1319,Hotel,4.4 /5,0,416,1,15-50% offer,2018,5,1,0,1
+Schiphol-Rijk,478,8.8,9.2,Schiphol-Rijk,166,4,4,1319,Hotel,4.4 /5,0,416,1,15-50% offer,2017,11,0,0,1
+Schiphol-Rijk,478,8.8,9.2,Schiphol-Rijk,119,4,4,1319,Hotel,4.4 /5,0,416,1,15-50% offer,2018,4,1,0,1
+Schiphol-Rijk,478,8.8,9.2,Schiphol-Rijk,447,4,4,1319,Hotel,4.4 /5,0,416,1,15-50% offer,2017,12,0,1,4
+Schiphol-Rijk,478,8.8,9.2,Schiphol-Rijk,117,4,4,1319,Hotel,4.4 /5,0,416,1,15-50% offer,2017,11,1,0,1
+Schiphol-Rijk,478,8.8,9.2,Schiphol-Rijk,97,4,4,1319,Hotel,4.4 /5,0,416,1,15-50% offer,2018,1,1,0,1
+Schiphol-Rijk,478,8.8,9.2,Schiphol-Rijk,97,4,4,1319,Hotel,4.4 /5,0,416,1,15-50% offer,2018,2,1,0,1
+Schiphol-Rijk,478,8.8,9.2,Schiphol-Rijk,129,4,4,1319,Hotel,4.4 /5,0,416,1,15-50% offer,2018,3,1,0,1
+Schiphol-Rijk,174,8.9,9.2,Schiphol-Rijk,111,3.5,3.5,110,Hotel,4 /5,0,417,0,0% no offer,2018,5,1,0,1
+Schiphol-Rijk,174,8.9,9.2,Schiphol-Rijk,123,3.5,3.5,110,Hotel,4 /5,0,417,0,0% no offer,2018,3,1,0,1
+Schiphol-Rijk,174,8.9,9.2,Schiphol-Rijk,75,3.5,3.5,110,Hotel,4 /5,0,417,0,0% no offer,2018,6,1,0,1
+Schiphol-Rijk,174,8.9,9.2,Schiphol-Rijk,143,3.5,3.5,110,Hotel,4 /5,1,417,0,0% no offer,2017,11,1,0,1
+Schiphol-Rijk,174,8.9,9.2,Schiphol-Rijk,442,3.5,3.5,110,Hotel,4 /5,0,417,0,0% no offer,2017,12,0,1,4
+Schiphol-Rijk,174,8.9,9.2,Schiphol-Rijk,125,3.5,3.5,110,Hotel,4 /5,0,417,0,0% no offer,2018,4,1,0,1
+Schiphol-Rijk,174,8.9,9.2,Schiphol-Rijk,102,3.5,3.5,110,Hotel,4 /5,0,417,0,0% no offer,2017,11,0,0,1
+Schiphol-Rijk,174,8.9,9.2,Schiphol-Rijk,88,3.5,3.5,110,Hotel,4 /5,0,417,0,0% no offer,2018,2,1,0,1
+Schiphol-Rijk,174,8.9,9.2,Schiphol-Rijk,104,3.5,3.5,110,Hotel,4 /5,0,417,0,0% no offer,2018,1,1,0,1
+Amsterdam,4,1,1.4,Vondelpark,1117,3,3.5,694,Hotel,3.2 /5,0,418,0,0% no offer,2017,12,0,1,4
+Amsterdam,4,1,1.4,Vondelpark,271,3,3.5,694,Hotel,3.2 /5,0,418,0,0% no offer,2017,12,0,1,1
+Amsterdam,144,1.9,2.3,Vondelpark,155,3,4.5,170,Hotel,4.5 /5,0,419,1,15-50% offer,2018,2,1,0,1
+Amsterdam,144,1.9,2.3,Vondelpark,146,3,4.5,170,Hotel,4.5 /5,0,419,1,15-50% offer,2017,12,0,1,1
+Amsterdam,144,1.9,2.3,Vondelpark,104,3,4.5,170,Hotel,4.5 /5,0,419,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,144,1.9,2.3,Vondelpark,267,3,4.5,170,Hotel,4.5 /5,0,419,0,0% no offer,2018,5,1,0,1
+Amsterdam,144,1.9,2.3,Vondelpark,225,3,4.5,170,Hotel,4.5 /5,0,419,0,0% no offer,2018,6,1,0,1
+Amsterdam,144,1.9,2.3,Vondelpark,715,3,4.5,170,Hotel,4.5 /5,0,419,1,15-50% offer,2017,12,0,1,4
+Amsterdam,144,1.9,2.3,Vondelpark,130,3,4.5,170,Hotel,4.5 /5,0,419,1,15-50% offer,2018,1,1,0,1
+Amsterdam,144,1.9,2.3,Vondelpark,282,3,4.5,170,Hotel,4.5 /5,0,419,0,0% no offer,2018,4,1,0,1
+Amsterdam,144,1.9,2.3,Vondelpark,198,3,4.5,170,Hotel,4.5 /5,0,419,1,1-15% offer,2017,11,1,0,1
+Amsterdam,37,1.3,1.7,Vondelpark,212,4,5,119,Hotel,4.9 /5,0,420,1,15-50% offer,2017,12,0,1,1
+Amsterdam,37,1.3,1.7,Vondelpark,298,4,5,119,Hotel,4.9 /5,1,420,1,15-50% offer,2018,4,1,0,1
+Amsterdam,37,1.3,1.7,Vondelpark,273,4,5,119,Hotel,4.9 /5,0,420,1,15-50% offer,2018,5,1,0,1
+Amsterdam,37,1.3,1.7,Vondelpark,219,4,5,119,Hotel,4.9 /5,0,420,1,15-50% offer,2017,11,0,0,1
+Amsterdam,37,1.3,1.7,Vondelpark,253,4,5,119,Hotel,4.9 /5,0,420,1,15-50% offer,2018,2,1,0,1
+Amsterdam,37,1.3,1.7,Vondelpark,297,4,5,119,Hotel,4.9 /5,1,420,1,15-50% offer,2017,11,1,0,1
+Amsterdam,37,1.3,1.7,Vondelpark,273,4,5,119,Hotel,4.9 /5,0,420,1,15-50% offer,2018,6,1,0,1
+Amsterdam,37,1.3,1.7,Vondelpark,273,4,5,119,Hotel,4.9 /5,1,420,1,15-50% offer,2018,3,1,0,1
+Amsterdam,37,1.3,1.7,Vondelpark,253,4,5,119,Hotel,4.9 /5,0,420,1,15-50% offer,2018,1,1,0,1
+Amsterdam,37,1.3,1.7,Vondelpark,890,4,5,119,Hotel,4.9 /5,1,420,1,15-50% offer,2017,12,0,1,4
+Amsterdam,67,1.9,2.3,Vondelpark,586,2,3.5,256,Hotel,3.7 /5,1,421,1,1-15% offer,2017,12,0,1,4
+Amsterdam,67,1.9,2.3,Vondelpark,91,2,3.5,256,Hotel,3.7 /5,0,421,1,1-15% offer,2017,11,0,0,1
+Amsterdam,67,1.9,2.3,Vondelpark,134,2,3.5,256,Hotel,3.7 /5,0,421,0,0% no offer,2017,12,0,1,1
+Amsterdam,312,1.7,2.1,Vondelpark,696,4,3.5,1817,Hotel,3.7 /5,0,422,1,1-15% offer,2017,12,0,1,4
+Amsterdam,312,1.7,2.1,Vondelpark,127,4,3.5,1817,Hotel,3.7 /5,0,422,1,1-15% offer,2017,11,0,0,1
+Amsterdam,312,1.7,2.1,Vondelpark,117,4,3.5,1817,Hotel,3.7 /5,0,422,1,1-15% offer,2017,12,0,1,1
+Amsterdam,312,1.7,2.1,Vondelpark,147,4,3.5,1817,Hotel,3.7 /5,0,422,1,1-15% offer,2018,1,1,0,1
+Amsterdam,312,1.7,2.1,Vondelpark,166,4,3.5,1817,Hotel,3.7 /5,0,422,1,1-15% offer,2018,2,1,0,1
+Amsterdam,383,1.7,2.1,Vondelpark,324,3,4,530,Hotel,4 /5,1,423,0,0% no offer,2018,4,1,0,1
+Amsterdam,383,1.7,2.1,Vondelpark,164,3,4,530,Hotel,4 /5,1,423,1,15-50% offer,2017,11,0,0,1
+Amsterdam,383,1.7,2.1,Vondelpark,157,3,4,530,Hotel,4 /5,1,423,1,15-50% offer,2018,1,1,0,1
+Amsterdam,383,1.7,2.1,Vondelpark,157,3,4,530,Hotel,4 /5,0,423,1,15-50% offer,2018,2,1,0,1
+Amsterdam,383,1.7,2.1,Vondelpark,243,3,4,530,Hotel,4 /5,1,423,0,0% no offer,2018,3,1,0,1
+Amsterdam,383,1.7,2.1,Vondelpark,131,3,4,530,Hotel,4 /5,0,423,1,15-50% offer,2017,12,0,1,1
+Amsterdam,404,1.8,2.3,Vondelpark,151,3,4,1278,Hotel,4.3 /5,0,424,1,15-50% offer,2018,1,1,0,1
+Amsterdam,404,1.8,2.3,Vondelpark,715,3,4,1278,Hotel,4.3 /5,0,424,1,1-15% offer,2017,12,0,1,4
+Amsterdam,404,1.8,2.3,Vondelpark,215,3,4,1278,Hotel,4.3 /5,0,424,0,0% no offer,2018,6,1,0,1
+Amsterdam,404,1.8,2.3,Vondelpark,146,3,4,1278,Hotel,4.3 /5,0,424,1,15-50% offer,2017,12,0,1,1
+Amsterdam,404,1.8,2.3,Vondelpark,148,3,4,1278,Hotel,4.3 /5,0,424,1,15-50% offer,2018,2,1,0,1
+Amsterdam,404,1.8,2.3,Vondelpark,114,3,4,1278,Hotel,4.3 /5,0,424,1,15-50% offer,2017,11,0,0,1
+Amsterdam,404,1.8,2.3,Vondelpark,271,3,4,1278,Hotel,4.3 /5,0,424,0,0% no offer,2018,4,1,0,1
+Amsterdam,281,1,1.4,Vondelpark,176,3,4,903,Hotel,4 /5,0,425,1,15-50% offer,2018,2,1,0,1
+Amsterdam,281,1,1.4,Vondelpark,139,3,4,903,Hotel,4 /5,1,425,1,15-50% offer,2017,12,0,1,1
+Amsterdam,281,1,1.4,Vondelpark,176,3,4,903,Hotel,4 /5,1,425,1,15-50% offer,2018,1,1,0,1
+Amsterdam,281,1,1.4,Vondelpark,363,3,4,903,Hotel,4 /5,0,425,0,0% no offer,2018,3,1,0,1
+Amsterdam,281,1,1.4,Vondelpark,546,3,4,903,Hotel,4 /5,0,425,0,0% no offer,2018,4,1,0,1
+Amsterdam,281,1,1.4,Vondelpark,703,3,4,903,Hotel,4 /5,0,425,1,1-15% offer,2017,12,0,1,4
+Amsterdam,281,1,1.4,Vondelpark,546,3,4,903,Hotel,4 /5,0,425,0,0% no offer,2018,6,1,0,1
+Amsterdam,281,1,1.4,Vondelpark,242,3,4,903,Hotel,4 /5,0,425,1,1-15% offer,2017,11,1,0,1
+Amsterdam,281,1,1.4,Vondelpark,126,3,4,903,Hotel,4 /5,1,425,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,281,1,1.4,Vondelpark,546,3,4,903,Hotel,4 /5,0,425,0,0% no offer,2018,5,1,0,1
+Amsterdam,233,1,1.4,Vondelpark,556,1,2,371,Hotel,2 /5,0,426,0,0% no offer,2017,12,0,1,4
+Amsterdam,233,1,1.4,Vondelpark,92,1,2,371,Hotel,2 /5,0,426,0,0% no offer,2017,12,0,1,1
+Amsterdam,233,1,1.4,Vondelpark,232,1,2,371,Hotel,2 /5,1,426,0,0% no offer,2018,1,1,0,1
+Amsterdam,233,1,1.4,Vondelpark,232,1,2,371,Hotel,2 /5,1,426,0,0% no offer,2018,2,1,0,1
+Amsterdam,233,1,1.4,Vondelpark,232,1,2,371,Hotel,2 /5,1,426,0,0% no offer,2018,5,1,0,1
+Amsterdam,233,1,1.4,Vondelpark,232,1,2,371,Hotel,2 /5,1,426,0,0% no offer,2018,6,1,0,1
+Amsterdam,233,1,1.4,Vondelpark,63,1,2,371,Hotel,2 /5,0,426,1,1-15% offer,2017,11,0,0,1
+Amsterdam,233,1,1.4,Vondelpark,232,1,2,371,Hotel,2 /5,1,426,0,0% no offer,2018,3,1,0,1
+Amsterdam,233,1,1.4,Vondelpark,232,1,2,371,Hotel,2 /5,1,426,0,0% no offer,2018,4,1,0,1
+Amsterdam,229,2,2.4,Vondelpark,928,3,3.5,504,Hotel,3.7 /5,1,427,1,1-15% offer,2017,12,0,1,4
+Amsterdam,229,2,2.4,Vondelpark,114,3,3.5,504,Hotel,3.7 /5,1,427,1,50%-75% offer,2017,11,0,0,1
+Amsterdam,229,2,2.4,Vondelpark,257,3,3.5,504,Hotel,3.7 /5,1,427,0,0% no offer,2018,3,1,0,1
+Amsterdam,229,2,2.4,Vondelpark,212,3,3.5,504,Hotel,3.7 /5,0,427,1,15-50% offer,2017,12,0,1,1
+Amsterdam,229,2,2.4,Vondelpark,124,3,3.5,504,Hotel,3.7 /5,1,427,1,50%-75% offer,2018,2,1,0,1
+Amsterdam,229,2,2.4,Vondelpark,212,3,3.5,504,Hotel,3.7 /5,1,427,1,15-50% offer,2017,11,1,0,1
+Amsterdam,229,2,2.4,Vondelpark,124,3,3.5,504,Hotel,3.7 /5,1,427,1,50%-75% offer,2018,1,1,0,1
+Zwanenburg,145,6.1,6.6,Zwanenburg,373,3,4,129,Guest House,4 /5,1,428,1,15-50% offer,2017,12,0,1,4
+Zwanenburg,145,6.1,6.6,Zwanenburg,96,3,4,129,Guest House,4 /5,1,428,1,15-50% offer,2018,5,1,0,1
+Zwanenburg,145,6.1,6.6,Zwanenburg,60,3,4,129,Guest House,4 /5,1,428,1,50%-75% offer,2017,12,0,1,1
+Zwanenburg,145,6.1,6.6,Zwanenburg,109,3,4,129,Guest House,4 /5,1,428,1,1-15% offer,2018,4,1,0,1
+Zwanenburg,145,6.1,6.6,Zwanenburg,99,3,4,129,Guest House,4 /5,1,428,1,15-50% offer,2017,11,1,0,1
+Zwanenburg,145,6.1,6.6,Zwanenburg,103,3,4,129,Guest House,4 /5,1,428,1,15-50% offer,2018,3,1,0,1
+Zwanenburg,145,6.1,6.6,Zwanenburg,71,3,4,129,Guest House,4 /5,1,428,1,15-50% offer,2018,1,1,0,1
+Zwanenburg,145,6.1,6.6,Zwanenburg,62,3,4,129,Guest House,4 /5,1,428,1,15-50% offer,2017,11,0,0,1
+Zwanenburg,145,6.1,6.6,Zwanenburg,71,3,4,129,Guest House,4 /5,1,428,1,15-50% offer,2018,2,1,0,1
+Zwanenburg,403,6,6.6,Zwanenburg,116,3,3.5,247,Hotel,3.7 /5,0,429,0,0% no offer,2018,4,1,0,1
+Zwanenburg,403,6,6.6,Zwanenburg,72,3,3.5,247,Hotel,3.7 /5,1,429,1,15-50% offer,2017,11,0,0,1
+Zwanenburg,403,6,6.6,Zwanenburg,82,3,3.5,247,Hotel,3.7 /5,0,429,1,15-50% offer,2018,1,1,0,1
+Zwanenburg,403,6,6.6,Zwanenburg,122,3,3.5,247,Hotel,3.7 /5,0,429,0,0% no offer,2018,6,1,0,1
+Zwanenburg,403,6,6.6,Zwanenburg,95,3,3.5,247,Hotel,3.7 /5,0,429,1,1-15% offer,2017,11,1,0,1
+Zwanenburg,403,6,6.6,Zwanenburg,82,3,3.5,247,Hotel,3.7 /5,0,429,1,15-50% offer,2018,2,1,0,1
+Zwanenburg,403,6,6.6,Zwanenburg,116,3,3.5,247,Hotel,3.7 /5,0,429,0,0% no offer,2018,5,1,0,1
+Zwanenburg,403,6,6.6,Zwanenburg,113,3,3.5,247,Hotel,3.7 /5,1,429,0,0% no offer,2018,3,1,0,1
+Zwanenburg,403,6,6.6,Zwanenburg,70,3,3.5,247,Hotel,3.7 /5,1,429,1,15-50% offer,2017,12,0,1,1
+Zwanenburg,403,6,6.6,Zwanenburg,337,3,3.5,247,Hotel,3.7 /5,0,429,1,15-50% offer,2017,12,0,1,4
