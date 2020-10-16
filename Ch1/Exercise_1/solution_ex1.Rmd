@@ -1,0 +1,74 @@
+---
+title: "Chapter 1 - Exercise 1 Solution - Run Me"
+author: "Cosmin Catalin Ticu"
+date: "10/15/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r , include = FALSE}
+library(tidyverse)
+data_in <- "C:/Users/acer/Desktop/OneDrive - Central European University/Courses/Fall_Term/Coding_1/data/Hotels_vienna"
+hotels_vienna <- read_csv(paste0(data_in,"/raw/hotelbookingdata-vienna.csv"))
+```
+
+A glimpse at the distribution of prices:
+```{r , echo = FALSE}
+glimpse(hotels_vienna$price)
+```
+
+The mean of price for the hotels_vienna dataset (calculated on 430 observations) is:
+```{r , echo = FALSE}
+mean(hotels_vienna$price)
+```
+
+## Exercise 1 solution
+
+```{r }
+z <- c(1,2,3)
+counter <- 0
+w <- 25
+for (val in z)
+  {
+  y <- sample(hotels_vienna$price, size = w, replace = FALSE)
+  counter = counter + 1
+  print(paste("For sample size", w, "sampling run number", counter, "the mean is", mean(y)))
+}
+```
+
+```{r, echo=FALSE }
+z <- c(1,2,3)
+counter <- 0
+w <- 100
+for (val in z)
+  {
+  y <- sample(hotels_vienna$price, size = w, replace = FALSE)
+  counter = counter + 1
+  print(paste("For sample size", w, "sampling run number", counter, "the mean is", mean(y)))
+}
+```
+
+```{r, echo=FALSE}
+z <- c(1,2,3)
+counter <- 0
+w <- 200
+for (val in z)
+  {
+  y <- sample(hotels_vienna$price, size = w, replace = FALSE)
+  counter = counter + 1
+  print(paste("For sample size", w, "sampling run number", counter, "the mean is", mean(y)))
+}
+```
+
+## Comments
+
+With a small sample size like 25 we are more likely to encounter extreme values of the mean as opposed to the actual (true) mean. We can see that when we increase the sample size to 100 (close to 25% of the data) and to 200 (close to 50% of the data) the resulting means are much closer to the true mean. However, this raises the question for much larger datasets of where the threshold (cut-off point) should be for sampling. 
+
+Since the whole purpose of sampling is to reduce the size, complexity and length of our descriptive or analytical tasks, it is worthwhile to consider that sampling 25% of the data might not yield the decrease in complexity that is wanted. However, even with smaller samples, running the sampling 3 times increases the validity and the generalizability of our samples because each new sample is likely to include observations that were not included in former sample.
+
+Another important factor to consider is whether we are sampling with replacement or without replacement. In the former case, it would be advised to run the sampling a few times in order to make sure that as many different observations are included.
+
+Overall, sampling distributions can differ a lot depending on the sample size, with smaller ones generally reflecting a distribution with much fatter and longer tails. Increasing the size of each sample in the distribution would bring the distribution closer to normal, however that would come at the expense of computational power. The simple example in this case merely showcases the sampling distribution range, however the dataset is too small to even quantify and compare computational costs.
