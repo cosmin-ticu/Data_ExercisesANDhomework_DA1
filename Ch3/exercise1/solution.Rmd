@@ -1,0 +1,46 @@
+---
+title: "Chapter 3 - Exercise 1 - Run Me"
+author: "Cosmin Catalin Ticu"
+date: "10/16/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Taking a look at the data table used
+# This exercise builds up on the solution of chapter 2 exercise 1 whereby a similar dataset to hotels_vienna was created (for Amsterdam) and cleaned.
+# Further cleaning was done accordingly for the sake of this descriptive analysis.
+
+
+```{r echo=FALSE, warning=FALSE, message=FALSE}
+library(tidyverse)
+library(ggplot2)
+data_in <- "C:/Users/acer/Desktop/OneDrive - Central European University/Courses/Fall_Term/Coding_1/data/Hotels_booking"
+hotels_amsterdam <- read_csv(paste0(data_in,"/clean/hotel_amsterdam.csv"))
+view(hotels_amsterdam)
+```
+
+## Plots
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+hotels_amsterdam$price_night <- hotels_amsterdam$price/hotels_amsterdam$num_nights
+hotels_amsterdam <- subset(hotels_amsterdam, select = c(dist_from_cityCenter, hotel_id, price, price_night))
+hotels_amsterdam %>% 
+  group_by(hotel_id) %>% 
+  summarise(average_price=mean(price_night)) %>% 
+  ggplot(aes(x = average_price))+
+  geom_histogram()+ theme_bw()+
+  labs(y = 'Amsterdam Hotels', x= 'Price per night', title = 'Price Histogram')
+```
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+data_in <- "C:/Users/acer/Desktop/OneDrive - Central European University/Courses/Fall_Term/Coding_1/data/Hotels_booking"
+hotels_amsterdam <- read_csv(paste0(data_in,"/clean/hotel_amsterdam.csv"))
+hotels_amsterdam <- subset(hotels_amsterdam, select = c(dist_from_cityCenter, hotel_id))
+filter(hotels_amsterdam, !duplicated(hotels_amsterdam))
+ggplot(hotels_amsterdam, aes(x = hotels_amsterdam$dist_from_cityCenter))+
+  geom_histogram()+ theme_bw()+
+  labs(y = 'Amsterdam Hotels', x= 'Hotel distance from Amsterdam center', title = 'Distance Histogram')
+```
