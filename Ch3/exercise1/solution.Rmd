@@ -10,9 +10,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Taking a look at the data table used
-# This exercise builds up on the solution of chapter 2 exercise 1 whereby a similar dataset to hotels_vienna was created (for Amsterdam) and cleaned.
-# Further cleaning was done accordingly for the sake of this descriptive analysis.
-
 
 ```{r echo=FALSE, warning=FALSE, message=FALSE}
 library(tidyverse)
@@ -22,7 +19,9 @@ hotels_amsterdam <- read_csv(paste0(data_in,"/clean/hotel_amsterdam.csv"))
 view(hotels_amsterdam)
 ```
 
-## Plots
+This exercise builds up on the solution of chapter 2 exercise 1 whereby a similar dataset to hotels_vienna was created (for Amsterdam) and cleaned. Further cleaning was done accordingly for the sake of this descriptive analysis.
+
+# Plots
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 hotels_amsterdam$price_night <- hotels_amsterdam$price/hotels_amsterdam$num_nights
@@ -35,12 +34,20 @@ hotels_amsterdam %>%
   labs(y = 'Amsterdam Hotels', x= 'Price per night', title = 'Price Histogram')
 ```
 
-```{r, echo=FALSE, warning=FALSE, message=FALSE}
+Much like the hotels_vienna dataset, the price per night distribution seems to be skewed quite evidently to the right. This means that the mean is much higher than the median, thus a few really extreme values have the tendency to skew the whole distribution. Depending on the purpose of the analysis, they could be removed. In case of an analysis for hotel prices for lower tier and higher tier hotels, the dataset could be split into the corresponding tiers and the extreme values could thus be compared among themselves.
+
+```{r, echo=FALSE, include=FALSE, warning=FALSE, message=FALSE}
 data_in <- "C:/Users/acer/Desktop/OneDrive - Central European University/Courses/Fall_Term/Coding_1/data/Hotels_booking"
 hotels_amsterdam <- read_csv(paste0(data_in,"/clean/hotel_amsterdam.csv"))
 hotels_amsterdam <- subset(hotels_amsterdam, select = c(dist_from_cityCenter, hotel_id))
-filter(hotels_amsterdam, !duplicated(hotels_amsterdam))
+hotels_amsterdam <- filter(hotels_amsterdam, !duplicated(hotels_amsterdam))
+```
+
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
 ggplot(hotels_amsterdam, aes(x = hotels_amsterdam$dist_from_cityCenter))+
   geom_histogram()+ theme_bw()+
   labs(y = 'Amsterdam Hotels', x= 'Hotel distance from Amsterdam center', title = 'Distance Histogram')
 ```
+
+In the same trend as hotels_vienna, a few hotels tend to be outside of metropolitan Amsterdam and just be advertised as if they were part of the city. This large distance to the city center means that the distribution is also skewed to the right, just like the distribution of prices with a mean much higher than the median. In this case, a simple cleaning of the dataset to only include locations in metropolitan Amsterdam would reduce the skew of the distribution.

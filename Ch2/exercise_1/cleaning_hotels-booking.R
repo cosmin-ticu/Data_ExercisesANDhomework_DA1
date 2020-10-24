@@ -14,8 +14,6 @@ hotels_amsterdam <- filter(hotels_europe, city == "Amsterdam")
 glimpse(hotels_amsterdam)
 hotels_amsterdam <- subset(hotels_amsterdam, select = -c(city, addresscountryname))
 
-view(hotels_amsterdam)
-
 # Standardize accommodationtype column
 hotels_amsterdam <- separate(hotels_amsterdam, accommodationtype, "@",
                    into = c("garbage","accommodation_type"))
@@ -52,9 +50,10 @@ hotels_amsterdam <- mutate(hotels_amsterdam, stars = na_if(stars, 0))
 hotels_amsterdam <- filter(hotels_amsterdam, !is.na(rating2_ta))
 hotels_amsterdam <- filter(hotels_amsterdam, !is.na(rating2_ta_reviewcount))
 
-# Deleting duplicates (exact matches; could have filtered by specific variables)
+# Deleting duplicates (exact matches; could have also filtered by specific variables, but all variables seem to contribute to an unique identifier)
 hotels_amsterdam <- filter(hotels_amsterdam, !duplicated(hotels_amsterdam))
 
-## The resulting table represents cross-section time series data on all Amsterdam hotel bookings
+## The resulting table represents cross-section time series (panel) data on all Amsterdam hotel bookings
 write_csv(hotels_amsterdam, paste0(data_in,
                                "/clean/hotel_amsterdam.csv"))
+view(hotels_amsterdam)
